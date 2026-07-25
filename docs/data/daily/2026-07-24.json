@@ -1,7 +1,63 @@
 {
   "date": "2026-07-24",
-  "count": 2,
+  "count": 18,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[0xgh057r3c0n/CVE-2026-9198](https://github.com/0xgh057r3c0n/CVE-2026-9198)",
+      "description": "IBM Langflow Unauthenticated RCE via Auto-Login Bypass",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T20:50:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[ywh-jfellus/CVE-2026-9198](https://github.com/ywh-jfellus/CVE-2026-9198)",
+      "description": "Proof of Concept for CVE-2026-9198 - IBM Langflow Unauthenticated RCE via Auto-Login Bypass",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T09:29:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-7228",
+      "repo_info": "[mikecostanzi/ricerca-tesi](https://github.com/mikecostanzi/ricerca-tesi)",
+      "description": "risorse di ricerca per cve-2026-7228",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T09:03:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-65761",
+      "repo_info": "[shinthink/CVE-2026-65761](https://github.com/shinthink/CVE-2026-65761)",
+      "description": "EasyStore Joomla Pre-Auth SQL Injection via filter_sortby Direction (CVE-2026-65761, CVSS 9.3)",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T11:07:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-65650",
+      "repo_info": "[swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)",
+      "description": "PoC for CVE-2026-65650 - Elgg avatar upload DoS",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T11:55:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[vulnquest58/VQ-RefluxCore](https://github.com/vulnquest58/VQ-RefluxCore)",
+      "description": "is an advanced security research framework designed to model, analyze, and demonstrate Local Privilege Escalation (LPE) mechanics associated with kernel-level race conditions and filesystem structure vulnerabilities (CVE-2026-64600 / RefluXFS)",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T23:27:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[shinthink/CVE-2026-63030](https://github.com/shinthink/CVE-2026-63030)",
+      "description": "WordPress Core Pre-Auth RCE via REST Batch Route Confusion + SQLi (CVE-2026-63030 + CVE-2026-60137)",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T10:48:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Giangdurian/CVE-2026-63030-CVE-2026-60137](https://github.com/Giangdurian/CVE-2026-63030-CVE-2026-60137)",
+      "description": "no description",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T09:49:20Z"
+    },
     {
       "cve_id": "CVE-2026-60206",
       "repo_info": "[imbas007/POC-CVE-2026-60206](https://github.com/imbas007/POC-CVE-2026-60206)",
@@ -15,11 +71,67 @@
       "description": "CVE-2026-60206",
       "date": "2026-07-24",
       "raw_date": "2026-07-24T01:22:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-60206",
+      "repo_info": "[tc4dy/CVE-2026-60206-PoC-Exploit](https://github.com/tc4dy/CVE-2026-60206-PoC-Exploit)",
+      "description": "👾 CVE-2026-60206 - Oracle WebLogic SAML Auth Bypass Exploit Framework ⚡Bash &amp; Python versions. Features: --detect safe check, --exploit combo/unsigned/xsw/nameid/all, --shodan integration, --tor support, mass scanning, JSON/CSV/JSONL output, cookie validation. 🛡️ CVSS 9.9 Critical - Use Ethically, Stay Legal. 🔒",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T21:44:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-51592",
+      "repo_info": "[ardakrg/CVE-2026-51592](https://github.com/ardakrg/CVE-2026-51592)",
+      "description": "Path Traversal vulnerability in TahaBakhtari/SubtitleGenerator - CVE-2026-51592",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T17:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-49952",
+      "repo_info": "[CerberusMrXi/Discuz-X5.0-Authentication-Bypass-Exploit-Framework](https://github.com/CerberusMrXi/Discuz-X5.0-Authentication-Bypass-Exploit-Framework)",
+      "description": "Discuz! X5.0 Authentication Bypass Exploit Framework (CVE-2026-49952) - Critical vulnerability allowing unauthenticated database backup access via UC_KEY encryption oracle token reuse. CVSS 9.1. Full-featured tool with version detection, multi-payload attacks, interactive shell, and automated exploitation. Authorized testing only.",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T18:08:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-47761",
+      "repo_info": "[ange-primiterra/CVE-2026-47761](https://github.com/ange-primiterra/CVE-2026-47761)",
+      "description": "no description",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T09:16:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[cherrycherrymay/PoC-CVE-2026-46331](https://github.com/cherrycherrymay/PoC-CVE-2026-46331)",
+      "description": "Pedit COW – Linux Kernel Local Privilege Escalation (CVE-2026-46331)",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T13:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[mumaosong/cve-2026-43499-CyberMeowfia](https://github.com/mumaosong/cve-2026-43499-CyberMeowfia)",
+      "description": "最原始的",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T14:50:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[AnotherSec/CVE-2026-41940](https://github.com/AnotherSec/CVE-2026-41940)",
+      "description": "CVE-2026-41940",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T07:50:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-20896",
+      "repo_info": "[Lite-os15/Lab-001-Gitea-CVE-2026-20896-](https://github.com/Lite-os15/Lab-001-Gitea-CVE-2026-20896-)",
+      "description": "no description",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T16:32:54Z"
     }
   ],
-  "generated_at": "2026-07-25T02:22:51.497835",
+  "generated_at": "2026-07-25T04:15:57.189214",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 18,
     "date_range": "2026-07-24",
     "source": "README.md",
     "script_version": "2.0"

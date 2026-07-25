@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-24 04:19:50
+- **生成时间**: 2026-07-25 04:15:32
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -351,9 +351,10 @@
 | 🚫 未识别 | [HaakimSec/zero2shell-50](https://github.com/HaakimSec/zero2shell-50) | Zero2Shell-50: 50 containerized Remote Code Execution labs covering critical CVEs from 2014-2026. Each lab includes vulnerable Docker environments, working exploits, root cause analysis, and mitigation guides. Covers Java, Python, PHP, JavaScript, and shell-based vulnerabilities. | 2026-07-18T09:10:38Z|
 | 🚫 未识别 | [davischrisqfst2030/aegis-ai-v2026-agent](https://github.com/davischrisqfst2030/aegis-ai-v2026-agent) | Python-based genAI security analysis agent for CVE, component, and vulnerability context, built around LLM-oriented workflows in version 2026. | 2026-07-20T21:38:42Z|
 | 🚫 未识别 | [johnhsb/dirty-frag-cve-2026-mitigation](https://github.com/johnhsb/dirty-frag-cve-2026-mitigation) | no description | 2026-07-21T08:59:31Z|
+| 🚫 未识别 | [Waad-Ghabri-GSIL2C/SLSA_verifier_app](https://github.com/Waad-Ghabri-GSIL2C/SLSA_verifier_app) | A desktop Python app analyzing public/private repos (via access tokens); evaluates SLSA Build/Source levels, verifies attestations via GitHub API, scans for known CVEs via OSV.dev, and maps SLSA threats A–H. Includes an org checklist. Work in progress, meant to complement existing tools. Built for my PFA 2026 (Industrial Engineering - ENICarthage). | 2026-07-24T09:10:55Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-24 04:20:17  
-**总记录数**: 340
+**报告生成时间**: 2026-07-25 04:15:56  
+**总记录数**: 341

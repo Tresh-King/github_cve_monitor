@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "count": 30,
+  "count": 31,
   "cves": [
     {
       "cve_id": "CVE-2026-9973",
@@ -15,6 +15,13 @@
       "description": "no description",
       "date": "2026-07-21",
       "raw_date": "2026-07-21T11:14:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-8863",
+      "repo_info": "[0xbekoo/CVE-2026-8863](https://github.com/0xbekoo/CVE-2026-8863)",
+      "description": "Revocation hashes and shim versions for the UEFI Secure Boot shims affected by CVE-2026-8863",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T13:22:41Z"
     },
     {
       "cve_id": "CVE-2026-6875",
@@ -213,9 +220,9 @@
       "raw_date": "2026-07-21T19:44:45Z"
     }
   ],
-  "generated_at": "2026-07-25T02:22:51.496754",
+  "generated_at": "2026-07-25T04:15:57.188302",
   "metadata": {
-    "total_cves": 30,
+    "total_cves": 31,
     "date_range": "2026-07-21",
     "source": "README.md",
     "script_version": "2.0"

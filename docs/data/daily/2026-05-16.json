@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "count": 4,
+  "count": 5,
   "cves": [
     {
       "cve_id": "CVE-2026-6433",
@@ -8,6 +8,13 @@
       "description": "PoC for CVE-2026-6433: WordPress FlipperCode Custom CSS, JS &amp; PHP (≤2.0.7) — unauthenticated SQLi to RCE. Python 3 stdlib; single target or bulk multi-threaded scanning. Authorized testing &amp; research only.",
       "date": "2026-05-16",
       "raw_date": "2026-05-16T09:29:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-45321",
+      "repo_info": "[fabriziosalmi/tanstack-compromise-checker](https://github.com/fabriziosalmi/tanstack-compromise-checker)",
+      "description": "Shell script to detect TanStack npm supply chain attack indicators (CVE-2026-45321 / GHSA-g7cv-rxg3-hmpx)",
+      "date": "2026-05-16",
+      "raw_date": "2026-05-16T08:01:40Z"
     },
     {
       "cve_id": "CVE-2026-42945",
@@ -31,9 +38,9 @@
       "raw_date": "2026-05-16T12:12:50Z"
     }
   ],
-  "generated_at": "2026-07-25T02:22:51.481159",
+  "generated_at": "2026-07-25T04:15:57.175580",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 5,
     "date_range": "2026-05-16",
     "source": "README.md",
     "script_version": "2.0"

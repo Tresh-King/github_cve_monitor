@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-25",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[tchuin2609/tchuin2609.github.io](https://github.com/tchuin2609/tchuin2609.github.io)",
+      "description": "Manage BitLocker encrypted drives on Windows 10 and 11. Extract recovery keys, check encryption status, and apply security mitigations for CVE-2026-45585.",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T02:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[tchuin2609/YellowKey-Bitlocker](https://github.com/tchuin2609/YellowKey-Bitlocker)",
+      "description": "Manage BitLocker encrypted drives on Windows. Extract recovery keys, check encryption status, and apply security mitigations for CVE-2026-45585.",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T02:47:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[cuteaplane/GhostLock-for-OnePlus15T](https://github.com/cuteaplane/GhostLock-for-OnePlus15T)",
+      "description": "（CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加15T.",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T03:02:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[No-22-Github/UnPlus](https://github.com/No-22-Github/UnPlus)",
+      "description": "CVE-2026-43499 per-boot root exploit — core logic (arm64 Android GKI 6.6)",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T03:57:16Z"
+    }
+  ],
+  "generated_at": "2026-07-25T04:15:57.189448",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-07-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
