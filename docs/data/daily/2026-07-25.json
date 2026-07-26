@@ -1,7 +1,91 @@
 {
   "date": "2026-07-25",
-  "count": 4,
+  "count": 24,
   "cves": [
+    {
+      "cve_id": "CVE-2026-65694",
+      "repo_info": "[abdugafforov-bobur/CVE-2026-65694-PoC](https://github.com/abdugafforov-bobur/CVE-2026-65694-PoC)",
+      "description": "PoC for CVE-2026-65694 — Microweber CMS (&lt;=2.0.20) unauthenticated path traversal → arbitrary file read (.env / secrets)",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T11:33:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[imXur/WordPress-CVE-2026-63030-Analysis](https://github.com/imXur/WordPress-CVE-2026-63030-Analysis)",
+      "description": "Technical analysis, root cause breakdown, and non-destructive detection methodology for CVE-2026-63030.",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T12:29:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-61946",
+      "repo_info": "[Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR)",
+      "description": "CVE-2026-61946: Unauthenticated IDOR in Easy Appointments &lt;= 3.12.27",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T05:39:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-60206",
+      "repo_info": "[Debajyoti0-0/CVE-2026-60206](https://github.com/Debajyoti0-0/CVE-2026-60206)",
+      "description": "Technical analysis and Proof-of-Concept for CVE-2026-60206, a critical Oracle WebLogic Server SAML authentication bypass vulnerability.",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T15:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-54900",
+      "repo_info": "[HORKimhab/CVE-2026-54900](https://github.com/HORKimhab/CVE-2026-54900)",
+      "description": "CVE-2026-54900, CVE-2026-54902 - Draft",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T08:42:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit)",
+      "description": "👻 CVE-2026-54121 - Best CertiGhost AD CS Multi-Exploit Framework ⚡Weaponized tool with rogue DC/LDAP servers, certificate abuse, PKINIT hash extraction. Features: detect safe check, exploit full multi-threaded. 🛡️ CVSS 8.8 High - Use Ethically, Stay Legal. 🔒",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T18:01:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[HORKimhab/CVE-2026-54121](https://github.com/HORKimhab/CVE-2026-54121)",
+      "description": "CVE-2026-54121 - Draft",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T16:20:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[0xBlackash/CVE-2026-54121](https://github.com/0xBlackash/CVE-2026-54121)",
+      "description": "CVE-2026-54121",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T11:50:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-51565",
+      "repo_info": "[1337Skid/CVE-2026-51565](https://github.com/1337Skid/CVE-2026-51565)",
+      "description": "Security Advisory for CVE-2026-51565",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T16:16:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-51564",
+      "repo_info": "[1337Skid/CVE-2026-51564](https://github.com/1337Skid/CVE-2026-51564)",
+      "description": "Security Advisory for CVE-2026-51564",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T16:22:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-50522",
+      "repo_info": "[4minx/CVE-2026-50522](https://github.com/4minx/CVE-2026-50522)",
+      "description": "CVE-2026-50522 PoC",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T08:23:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE](https://github.com/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE)",
+      "description": "Technical analysis and advisory for CVE-2026-48908: Unauthenticated Arbitrary File Upload to RCE in JoomShaper SP Page Builder.",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T12:55:20Z"
+    },
     {
       "cve_id": "CVE-2026-45585",
       "repo_info": "[tchuin2609/tchuin2609.github.io](https://github.com/tchuin2609/tchuin2609.github.io)",
@@ -29,11 +113,67 @@
       "description": "CVE-2026-43499 per-boot root exploit — core logic (arm64 Android GKI 6.6)",
       "date": "2026-07-25",
       "raw_date": "2026-07-25T03:57:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-41651",
+      "repo_info": "[0xDVRK/CVE-2026-41651](https://github.com/0xDVRK/CVE-2026-41651)",
+      "description": "no description",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T08:13:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-40901",
+      "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-40901](https://github.com/joaovicdev/EXPLOIT-CVE-2026-40901)",
+      "description": "no description",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T19:57:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-32194",
+      "repo_info": "[HORKimhab/CVE-2026-32194](https://github.com/HORKimhab/CVE-2026-32194)",
+      "description": "CVE-2026-32194 - Draft or Todo",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T16:43:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-26216",
+      "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-26216](https://github.com/joaovicdev/EXPLOIT-CVE-2026-26216)",
+      "description": "no description",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T17:07:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[s-vx/CVE-2026-24061](https://github.com/s-vx/CVE-2026-24061)",
+      "description": "Auth Bypass in inetutils-telnetd",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T20:05:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[HORKimhab/CVE-2026-16723](https://github.com/HORKimhab/CVE-2026-16723)",
+      "description": "CVE-2026-16723 - Draft",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T14:53:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-14266",
+      "repo_info": "[liyuxuan504-byte/CVE-2026-14266](https://github.com/liyuxuan504-byte/CVE-2026-14266)",
+      "description": "7-Zip XZ Decoder Heap Buffer Overflow - Full analysis, root cause, PoC, and RCE exploitation roadmap",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T12:13:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-12960",
+      "repo_info": "[l0lsec/CVE-2026-12960](https://github.com/l0lsec/CVE-2026-12960)",
+      "description": "CVE-2026-12960 - Improper Export of Android Application Components in the ASUS Router app (com.asus.aihome). PoC, exploit APK, video, and vendor report. Fixed in 1.0.0.9.74.",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T07:07:51Z"
     }
   ],
-  "generated_at": "2026-07-26T02:29:18.331486",
+  "generated_at": "2026-07-26T04:32:19.831822",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 24,
     "date_range": "2026-07-25",
     "source": "README.md",
     "script_version": "2.0"

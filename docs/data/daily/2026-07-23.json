@@ -1,7 +1,14 @@
 {
   "date": "2026-07-23",
-  "count": 26,
+  "count": 27,
   "cves": [
+    {
+      "cve_id": "CVE-2026-66374",
+      "repo_info": "[venglin/knot-doq](https://github.com/venglin/knot-doq)",
+      "description": "CVE-2026-66374: Knot Resolver 6.3.0 DNS-over-QUIC heap overflow (RCE)",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T19:19:49Z"
+    },
     {
       "cve_id": "CVE-2026-65971",
       "repo_info": "[BiiTts/POC-CVE-2026-65971](https://github.com/BiiTts/POC-CVE-2026-65971)",
@@ -185,9 +192,9 @@
       "raw_date": "2026-07-23T09:47:02Z"
     }
   ],
-  "generated_at": "2026-07-26T02:29:18.330807",
+  "generated_at": "2026-07-26T04:32:19.831253",
   "metadata": {
-    "total_cves": 26,
+    "total_cves": 27,
     "date_range": "2026-07-23",
     "source": "README.md",
     "script_version": "2.0"
