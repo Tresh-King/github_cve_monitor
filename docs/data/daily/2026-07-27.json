@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-27",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)",
+      "description": "no description",
+      "date": "2026-07-27",
+      "raw_date": "2026-07-27T03:13:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-58138",
+      "repo_info": "[Procjevt/CVE-2026-58138](https://github.com/Procjevt/CVE-2026-58138)",
+      "description": "no description",
+      "date": "2026-07-27",
+      "raw_date": "2026-07-27T00:38:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-4861",
+      "repo_info": "[HORKimhab/CVE-2026-4861](https://github.com/HORKimhab/CVE-2026-4861)",
+      "description": "CVE-2026-4861 - Draft or Todo",
+      "date": "2026-07-27",
+      "raw_date": "2026-07-27T01:41:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-41179",
+      "repo_info": "[s-vx/CVE-2026-41179](https://github.com/s-vx/CVE-2026-41179)",
+      "description": "RCE in rclone",
+      "date": "2026-07-27",
+      "raw_date": "2026-07-27T04:13:43Z"
+    }
+  ],
+  "generated_at": "2026-07-27T04:41:51.837973",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-07-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-26 04:31:53
+- **生成时间**: 2026-07-27 04:41:24
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -354,9 +354,11 @@
 | 🚫 未识别 | [Waad-Ghabri-GSIL2C/SLSA_verifier_app](https://github.com/Waad-Ghabri-GSIL2C/SLSA_verifier_app) | A desktop Python app analyzing public/private repos (via access tokens); evaluates SLSA Build/Source levels, verifies attestations via GitHub API, scans for known CVEs via OSV.dev, and maps SLSA threats A–H. Includes an org checklist. Work in progress, meant to complement existing tools. Built for my PFA 2026 (Industrial Engineering - ENICarthage). | 2026-07-24T09:10:55Z|
 | 🚫 未识别 | [cyberupdates365/2026-cve-and-zero-day-patch-database](https://github.com/cyberupdates365/2026-cve-and-zero-day-patch-database) | Enterprise infrastructure vulnerability registry tracking actively exploited CVEs, PoC releases, and vendor patch advisories. | 2026-07-25T08:56:36Z|
 | 🚫 未识别 | [cyberupdates365/ai-cyber-threats-and-cve-mitigation-tracker-2026](https://github.com/cyberupdates365/ai-cyber-threats-and-cve-mitigation-tracker-2026) | Master repository tracking 2026 Enterprise Cybersecurity CVEs, Zero-Day Vulnerabilities, and Agentic AI Threats with actionable fix guides. | 2026-07-25T08:51:18Z|
+| 🚫 未识别 | [hptcybersecurity/CVE-2026](https://github.com/hptcybersecurity/CVE-2026) | Repo cho năm 2026 | 2026-07-27T04:36:54Z|
+| 🚫 未识别 | [xingguangcuican6666/ABK_CVE_Fix_Module](https://github.com/xingguangcuican6666/ABK_CVE_Fix_Module) | ABK external module: backport Android Security Bulletin kernel CVE fixes (2025-12~2026-07) into the GKI tree during build | 2026-07-26T12:32:34Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-26 04:32:18  
-**总记录数**: 343
+**报告生成时间**: 2026-07-27 04:41:50  
+**总记录数**: 345

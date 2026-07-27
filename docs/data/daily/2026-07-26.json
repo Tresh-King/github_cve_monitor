@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-26",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-66012",
+      "repo_info": "[Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization](https://github.com/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization)",
+      "description": "no description",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T10:45:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[Debajyoti0-0/CVE-2026-64600](https://github.com/Debajyoti0-0/CVE-2026-64600)",
+      "description": "A C-based Linux security utility for detecting, safely verifying (Proof of Concept), and mitigating CVE-2026-64600 (RefluXFS). It provides kernel vulnerability assessment, XFS reflink detection, a safe race-condition PoC, and layered mitigation using SystemTap and XFS hardening.",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T12:22:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[northsia/CVE-2026-60137-With-Skip-SSL](https://github.com/northsia/CVE-2026-60137-With-Skip-SSL)",
+      "description": "Adding --insecure to skip ssl",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T11:52:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-58480",
+      "repo_info": "[shinthink/CVE-2026-58480](https://github.com/shinthink/CVE-2026-58480)",
+      "description": "CVE-2026-58480 / CVE-2026-15158 — Unauthenticated RCE in Blocksy Companion Pro &lt; 2.1.47 (300K+ installs). Pre-auth arbitrary file upload via double-extension bypass.",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T08:59:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[GlendonNotGlen/certighost-cve-2026-54121-slides](https://github.com/GlendonNotGlen/certighost-cve-2026-54121-slides)",
+      "description": "Slidev presentation for Certighost (CVE-2026-54121), with Mermaid diagrams and exported assets.",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T17:32:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-52504",
+      "repo_info": "[fadingminibus69/advisory001](https://github.com/fadingminibus69/advisory001)",
+      "description": "Exein Pulsar CVE-2026-52504",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T11:19:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[fusiondrive/CVE-2026-43499-S24U](https://github.com/fusiondrive/CVE-2026-43499-S24U)",
+      "description": "CVE-2026-43499 research port for Galaxy S24 Ultra SM-S928U1 DZF2 (in progress)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T11:55:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)",
+      "description": "基于内核漏洞CVE-2026-43499的本地提权适配，集成嵌入式 KernelSU 。编译生成`preload.so`；触发成功后会以 `late-load` 模式(越狱模式)启动 KernelSU。支持(xbl_config.img / vendor_boot.img) + boot.img 生成target.h  Local privilege escalation adaptation based on a kernel vulnerability, integrating embedded KernelSU. Compiles and generates `preload.so`; , KernelSU will be started in `late-load` mode",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T12:39:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit](https://github.com/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit)",
+      "description": "Critical authentication bypass exploit for cPanel/WHM CVE-2026-41940. Leverages CRLF injection in cpsrvd daemon to gain root WHM access without credentials. Includes version detection, verbose logging, proxy support, JSON reporting, and post-exploitation account enumeration. For authorized security testing only.",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T16:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-15981",
+      "repo_info": "[Nxploited/CVE-2026-15981](https://github.com/Nxploited/CVE-2026-15981)",
+      "description": "SAML Single Sign On &lt;= 5.4.4 - Unauthenticated Authentication Bypass via SAMLResponse Parameter",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T09:42:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-10818",
+      "repo_info": "[Nxploited/CVE-2026-10818](https://github.com/Nxploited/CVE-2026-10818)",
+      "description": "WPForms Pro &lt;= 1.10.1.1 - Unauthenticated Arbitrary File Write via Chunked Upload Init/Finalize Ordering",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T09:29:00Z"
+    }
+  ],
+  "generated_at": "2026-07-27T04:41:51.837767",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2026-07-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

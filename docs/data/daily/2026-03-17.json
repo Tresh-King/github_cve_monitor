@@ -1,7 +1,14 @@
 {
   "date": "2026-03-17",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-26118",
+      "repo_info": "[j-dahl7/mcp-attack-detection-sentinel](https://github.com/j-dahl7/mcp-attack-detection-sentinel)",
+      "description": "Sentinel detection lab for MCP attack chains: CVE-2026-26118 SSRF token theft, tool poisoning, cross-server exfiltration, identity post-exploitation. Maps to OWASP Agentic Top 10. 5 analytics rules, 7 hunting queries, workbook. Companion to nineliveszerotrust.com.",
+      "date": "2026-03-17",
+      "raw_date": "2026-03-17T16:37:53Z"
+    },
     {
       "cve_id": "CVE-2026-20643",
       "repo_info": "[zeroxjf/WebKit-NavigationAPI-SOP-Bypass](https://github.com/zeroxjf/WebKit-NavigationAPI-SOP-Bypass)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-03-17T20:32:03Z"
     }
   ],
-  "generated_at": "2026-07-27T02:36:54.333459",
+  "generated_at": "2026-07-27T04:41:51.819763",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-03-17",
     "source": "README.md",
     "script_version": "2.0"
