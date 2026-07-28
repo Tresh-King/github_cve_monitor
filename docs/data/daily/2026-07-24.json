@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "count": 18,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -22,6 +22,27 @@
       "description": "risorse di ricerca per cve-2026-7228",
       "date": "2026-07-24",
       "raw_date": "2026-07-24T09:03:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-66731",
+      "repo_info": "[theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash](https://github.com/theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash)",
+      "description": "Security Advisory: Negative Chunk-Size Parsing Causes Memory Corruption in facil.io",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T22:28:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-66730",
+      "repo_info": "[theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser](https://github.com/theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser)",
+      "description": "Security Advisory: Infinite Loop DoS in facil.io MIME Parser (Partial Boundary)",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T22:26:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-66729",
+      "repo_info": "[theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash](https://github.com/theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash)",
+      "description": "Security Advisory: Out-of-Bounds Read in facil.io MIME Parser leads to Server crash",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T22:22:35Z"
     },
     {
       "cve_id": "CVE-2026-65761",
@@ -127,11 +148,18 @@
       "description": "no description",
       "date": "2026-07-24",
       "raw_date": "2026-07-24T16:32:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-0010",
+      "repo_info": "[cduram/NotCVE-2026-0010](https://github.com/cduram/NotCVE-2026-0010)",
+      "description": "Unauthenticated IPC Local Privilege Escalation to SYSTEM via Debauchee Barrier Daemon TCP Port 24801",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T16:07:53Z"
     }
   ],
-  "generated_at": "2026-07-28T02:11:24.517006",
+  "generated_at": "2026-07-28T04:15:12.063493",
   "metadata": {
-    "total_cves": 18,
+    "total_cves": 22,
     "date_range": "2026-07-24",
     "source": "README.md",
     "script_version": "2.0"

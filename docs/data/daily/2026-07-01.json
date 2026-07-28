@@ -1,7 +1,14 @@
 {
   "date": "2026-07-01",
-  "count": 14,
+  "count": 15,
   "cves": [
+    {
+      "cve_id": "CVE-2026-66412",
+      "repo_info": "[javokhir-sec/CVE-PoC-Hub](https://github.com/javokhir-sec/CVE-PoC-Hub)",
+      "description": "🛡️ CVE Proof-of-Concept Hub — 21 security advisories · 80+ vulnerabilities · 19 CVEs under review · 1 PUBLISHED (CVE-2026-66412)",
+      "date": "2026-07-01",
+      "raw_date": "2026-07-01T20:56:43Z"
+    },
     {
       "cve_id": "CVE-2026-6307",
       "repo_info": "[J4ck3LSyN-Gen2/CVE-2026-6307-Longinus](https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus)",
@@ -101,9 +108,9 @@
       "raw_date": "2026-07-01T15:28:39Z"
     }
   ],
-  "generated_at": "2026-07-28T02:11:24.510277",
+  "generated_at": "2026-07-28T04:15:12.058068",
   "metadata": {
-    "total_cves": 14,
+    "total_cves": 15,
     "date_range": "2026-07-01",
     "source": "README.md",
     "script_version": "2.0"

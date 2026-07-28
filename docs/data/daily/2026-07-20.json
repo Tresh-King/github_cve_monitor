@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "count": 28,
+  "count": 29,
   "cves": [
     {
       "cve_id": "CVE-2026-63030",
@@ -178,6 +178,13 @@
       "raw_date": "2026-07-20T16:03:51Z"
     },
     {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)",
+      "description": "Docker labs + defensive scanner for fastjson remote-class-load RCE. fastjson 1.2.66-1.2.83: @JSONType resource probe (CVE-2026-16723). fastjson2 2.0.57: attacker @type reaches loadClass with autoType DISABLED via polymorphic types (@JSONType(seeAlso) / Jackson @JsonSubTypes). Marker-only payloads; safeMode + JDK17 controls.",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T17:00:03Z"
+    },
+    {
       "cve_id": "CVE-2026-16219",
       "repo_info": "[HELLBOY3110/cve-2026-16219-croogo-lab](https://github.com/HELLBOY3110/cve-2026-16219-croogo-lab)",
       "description": "no description",
@@ -199,9 +206,9 @@
       "raw_date": "2026-07-20T15:52:06Z"
     }
   ],
-  "generated_at": "2026-07-28T02:11:24.515721",
+  "generated_at": "2026-07-28T04:15:12.062458",
   "metadata": {
-    "total_cves": 28,
+    "total_cves": 29,
     "date_range": "2026-07-20",
     "source": "README.md",
     "script_version": "2.0"

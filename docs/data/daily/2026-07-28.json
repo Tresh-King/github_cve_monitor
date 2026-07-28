@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-28",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-61511",
+      "repo_info": "[HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)",
+      "description": "CVE-2026-61511 - Draft or Todo",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T01:47:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[ChPratik/CVE-2026-54121](https://github.com/ChPratik/CVE-2026-54121)",
+      "description": "Improper authorization in Active Directory Certificate Services (AD CS) allows an authorized attacker to elevate privileges over a network.",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T03:18:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-27577",
+      "repo_info": "[HORKimhab/CVE-2026-27577](https://github.com/HORKimhab/CVE-2026-27577)",
+      "description": "CVE-2026-27577 - Draft or Todo",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T02:01:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[why-success/fastjson-rce-lab](https://github.com/why-success/fastjson-rce-lab)",
+      "description": "Fastjson 1.2.83 RCE 靶场环境 (CVE-2026-16723)",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T02:58:02Z"
+    }
+  ],
+  "generated_at": "2026-07-28T04:15:12.064311",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-07-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

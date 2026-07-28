@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "count": 11,
+  "count": 12,
   "cves": [
     {
       "cve_id": "CVE-2026-66012",
@@ -59,6 +59,13 @@
       "raw_date": "2026-07-26T12:39:00Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[soralis0912/CVE-2026-43499-warhol-root](https://github.com/soralis0912/CVE-2026-43499-warhol-root)",
+      "description": "no description",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T09:13:13Z"
+    },
+    {
       "cve_id": "CVE-2026-41940",
       "repo_info": "[CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit](https://github.com/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit)",
       "description": "Critical authentication bypass exploit for cPanel/WHM CVE-2026-41940. Leverages CRLF injection in cpsrvd daemon to gain root WHM access without credentials. Includes version detection, verbose logging, proxy support, JSON reporting, and post-exploitation account enumeration. For authorized security testing only.",
@@ -80,9 +87,9 @@
       "raw_date": "2026-07-26T09:29:00Z"
     }
   ],
-  "generated_at": "2026-07-28T02:11:24.517554",
+  "generated_at": "2026-07-28T04:15:12.063936",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2026-07-26",
     "source": "README.md",
     "script_version": "2.0"
