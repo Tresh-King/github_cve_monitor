@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "count": 29,
+  "count": 30,
   "cves": [
     {
       "cve_id": "CVE-2026-63030",
@@ -85,6 +85,13 @@
       "description": "noLKM,5.10 use CVE-2026-52910.",
       "date": "2026-07-20",
       "raw_date": "2026-07-20T16:12:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-51992",
+      "repo_info": "[TheLiimbo/CVE-2026-51992](https://github.com/TheLiimbo/CVE-2026-51992)",
+      "description": "no description",
+      "date": "2026-07-20",
+      "raw_date": "2026-07-20T20:55:19Z"
     },
     {
       "cve_id": "CVE-2026-5029",
@@ -206,9 +213,9 @@
       "raw_date": "2026-07-20T15:52:06Z"
     }
   ],
-  "generated_at": "2026-07-29T02:21:32.681814",
+  "generated_at": "2026-07-29T04:17:56.031050",
   "metadata": {
-    "total_cves": 29,
+    "total_cves": 30,
     "date_range": "2026-07-20",
     "source": "README.md",
     "script_version": "2.0"

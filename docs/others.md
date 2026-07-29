@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-28 04:14:46
+- **生成时间**: 2026-07-29 04:17:14
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -358,9 +358,12 @@
 | 🚫 未识别 | [xingguangcuican6666/ABK_CVE_Fix_Module](https://github.com/xingguangcuican6666/ABK_CVE_Fix_Module) | ABK external module: backport Android Security Bulletin kernel CVE fixes (2025-12~2026-07) into the GKI tree during build | 2026-07-26T12:32:34Z|
 | 🚫 未识别 | [Ruby570bocadito/Breach-Entry](https://github.com/Ruby570bocadito/Breach-Entry) | Zero-day exploit research — CVE-2026-XXXX: apport ExecutablePath spoofing for Ubuntu Server 24.04 LTS with full proof-of-concept. | 2026-05-18T14:33:55Z|
 | 🚫 未识别 | [sehuaxioayu/CVE-2026-root](https://github.com/sehuaxioayu/CVE-2026-root) | no description | 2026-07-27T07:24:54Z|
+| 🚫 未识别 | [mwnickerson/certighost-bof](https://github.com/mwnickerson/certighost-bof) | Beacon Object File for CVE 2026-54121 | 2026-07-28T16:10:33Z|
+| 🚫 未识别 | [supercomputingmadeeasy-bot/7z-wrapper](https://github.com/supercomputingmadeeasy-bot/7z-wrapper) | `7z-safe` is a security-hardened drop-in replacement for the `7z` command on Linux.   It wraps the standard 7-Zip binary with multiple layers of defence that directly address every known CVE in the 2025–2026 7-Zip release series, while adding protection against zip bombs, path traversal attacks, and malicious archive formats. | 2026-07-28T15:26:33Z|
+| 🚫 未识别 | [tecnico4righettisollevamenti/SIL-CVE-2026](https://github.com/tecnico4righettisollevamenti/SIL-CVE-2026) | no description | 2026-07-28T09:36:45Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-28 04:15:11  
-**总记录数**: 347
+**报告生成时间**: 2026-07-29 04:17:55  
+**总记录数**: 350

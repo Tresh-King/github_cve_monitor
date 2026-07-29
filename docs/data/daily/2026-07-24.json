@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "count": 22,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -22,6 +22,13 @@
       "description": "risorse di ricerca per cve-2026-7228",
       "date": "2026-07-24",
       "raw_date": "2026-07-24T09:03:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-66748",
+      "repo_info": "[theopaid/CVE-2026-66748-Camaleon-CMS---Authenticated-RCE-via-select_eval-Custom-Field](https://github.com/theopaid/CVE-2026-66748-Camaleon-CMS---Authenticated-RCE-via-select_eval-Custom-Field)",
+      "description": "Security Advisory: Camaleon CMS - Authenticated RCE via `select_eval` Custom Field",
+      "date": "2026-07-24",
+      "raw_date": "2026-07-24T23:28:47Z"
     },
     {
       "cve_id": "CVE-2026-66731",
@@ -157,9 +164,9 @@
       "raw_date": "2026-07-24T16:07:53Z"
     }
   ],
-  "generated_at": "2026-07-29T02:21:32.683171",
+  "generated_at": "2026-07-29T04:17:56.031942",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2026-07-24",
     "source": "README.md",
     "script_version": "2.0"

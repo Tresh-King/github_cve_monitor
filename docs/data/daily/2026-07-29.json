@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-61511",
+      "repo_info": "[codeb0ssx/Ultimate-CVE-2026-61511](https://github.com/codeb0ssx/Ultimate-CVE-2026-61511)",
+      "description": "vBulletin 5.x through 5.7.5 and 6.x through 6.2.1 contains an eval injection vulnerability in the vB5_Template_Runtime::runMaths() method within the template runtime that allows unauthenticated remote attackers to execute arbitrary PHP code",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T00:35:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-31694",
+      "repo_info": "[zenzue/CVE_2026_31694](https://github.com/zenzue/CVE_2026_31694)",
+      "description": "no description",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T01:06:35Z"
+    }
+  ],
+  "generated_at": "2026-07-29T04:17:56.032866",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-07-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

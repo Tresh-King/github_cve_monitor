@@ -1,7 +1,91 @@
 {
   "date": "2026-07-26",
-  "count": 12,
+  "count": 24,
   "cves": [
+    {
+      "cve_id": "CVE-2026-67185",
+      "repo_info": "[theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-](https://github.com/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-)",
+      "description": "Security Advisory: Unauthenticated Path Traversal Allows Arbitrary File Read (TinyWeb)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T15:06:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-67184",
+      "repo_info": "[theopaid/CVE-2026-67184-Unauthenticated-NULL-Pointer-Dereference-Crashes-the-Server-TinyWeb-](https://github.com/theopaid/CVE-2026-67184-Unauthenticated-NULL-Pointer-Dereference-Crashes-the-Server-TinyWeb-)",
+      "description": "Security Advisory: Unauthenticated NULL Pointer Dereference Crashes the Server (TinyWeb)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T15:07:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-67183",
+      "repo_info": "[theopaid/CVE-2026-67183-Unauthenticated-Memory-Leak-Leads-To-Memory-Exhaustion-TinyWeb-](https://github.com/theopaid/CVE-2026-67183-Unauthenticated-Memory-Leak-Leads-To-Memory-Exhaustion-TinyWeb-)",
+      "description": "Security Advisory: Unauthenticated Memory Leak Leads To Memory Exhaustion (TinyWeb)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T15:08:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-67182",
+      "repo_info": "[theopaid/CVE-2026-67182-HTTP-Request-Smuggling-Enables-Front-End-Access-Control-Bypass-rouille-](https://github.com/theopaid/CVE-2026-67182-HTTP-Request-Smuggling-Enables-Front-End-Access-Control-Bypass-rouille-)",
+      "description": "Security Advisory: HTTP Request Smuggling Enables Front-End Access Control Bypass (rouille)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T17:16:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-67181",
+      "repo_info": "[theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-](https://github.com/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-)",
+      "description": "Security Advisory: HTTP Request Smuggling via Transfer-Encoding Desynchronization (rouille)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T17:20:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-66754",
+      "repo_info": "[theopaid/CVE-2026-66754-Remote-Denial-of-Service-via-Reachable-Assertion-in-URL-Prefix-Handling-rouille-](https://github.com/theopaid/CVE-2026-66754-Remote-Denial-of-Service-via-Reachable-Assertion-in-URL-Prefix-Handling-rouille-)",
+      "description": "Security Advisory: Remote Denial of Service via Reachable Assertion in URL Prefix Handling (rouille)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T17:25:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-66753",
+      "repo_info": "[theopaid/CVE-2026-66753-HTTP-Header-Injection-via-Unvalidated-CR-and-LF-in-Header-Values-tiny_http-](https://github.com/theopaid/CVE-2026-66753-HTTP-Header-Injection-via-Unvalidated-CR-and-LF-in-Header-Values-tiny_http-)",
+      "description": "Security Advisory: HTTP Header Injection via Unvalidated CR and LF in Header Values (tiny_http)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T17:28:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-66752",
+      "repo_info": "[theopaid/CVE-2026-66752-HTTP-Request-Smuggling-via-Unparsed-Transfer-Encoding-Values-tiny_http-](https://github.com/theopaid/CVE-2026-66752-HTTP-Request-Smuggling-via-Unparsed-Transfer-Encoding-Values-tiny_http-)",
+      "description": "Security Advisory: HTTP Request Smuggling via Unparsed Transfer-Encoding Values (tiny_http)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T17:30:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-66751",
+      "repo_info": "[theopaid/CVE-2026-66751-Insufficient-Access-Controls-Allow-for-Unauthorized-Room-Deletion-Let-s-Chat-](https://github.com/theopaid/CVE-2026-66751-Insufficient-Access-Controls-Allow-for-Unauthorized-Room-Deletion-Let-s-Chat-)",
+      "description": "Security Advisory: Insufficient Access Controls Allow for Unauthorized Room Deletion (Let&#x27;s Chat)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T14:28:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-66750",
+      "repo_info": "[theopaid/CVE-2026-66750-Insufficient-Access-Controls-Allow-for-Unauthorized-File-Downloads-Let-s-Chat-](https://github.com/theopaid/CVE-2026-66750-Insufficient-Access-Controls-Allow-for-Unauthorized-File-Downloads-Let-s-Chat-)",
+      "description": "Security Advisory: Insufficient Access Controls Allow for Unauthorized File Downloads (Let&#x27;s Chat)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T14:29:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-66749",
+      "repo_info": "[theopaid/CVE-2026-66749-Unchecked-Room-Lookup-Leads-to-Server-Crash-Let-s-Chat-](https://github.com/theopaid/CVE-2026-66749-Unchecked-Room-Lookup-Leads-to-Server-Crash-Let-s-Chat-)",
+      "description": "Security Advisory: Unchecked Room Lookup Leads to Server Crash (Let&#x27;s Chat)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T14:27:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-66746",
+      "repo_info": "[theopaid/CVE-2026-66746-HTTP-Response-Splitting-via-Unvalidated-Response-Header-Values-rouille-](https://github.com/theopaid/CVE-2026-66746-HTTP-Response-Splitting-via-Unvalidated-Response-Header-Values-rouille-)",
+      "description": "Security Advisory: HTTP Response Splitting via Unvalidated Response Header Values (rouille)",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T17:22:47Z"
+    },
     {
       "cve_id": "CVE-2026-66012",
       "repo_info": "[Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization](https://github.com/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization)",
@@ -87,9 +171,9 @@
       "raw_date": "2026-07-26T09:29:00Z"
     }
   ],
-  "generated_at": "2026-07-29T02:21:32.683790",
+  "generated_at": "2026-07-29T04:17:56.032322",
   "metadata": {
-    "total_cves": 12,
+    "total_cves": 24,
     "date_range": "2026-07-26",
     "source": "README.md",
     "script_version": "2.0"

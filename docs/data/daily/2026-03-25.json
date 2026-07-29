@@ -1,7 +1,14 @@
 {
   "date": "2026-03-25",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-33634",
+      "repo_info": "[ugurrates/teampcp-supply-chain-attack](https://github.com/ugurrates/teampcp-supply-chain-attack)",
+      "description": "CVE-2026-33634 (CVSS 9.4) — The most impactful CI/CD supply chain attack of 2026 so far.",
+      "date": "2026-03-25",
+      "raw_date": "2026-03-25T00:08:43Z"
+    },
     {
       "cve_id": "CVE-2026-33150",
       "repo_info": "[abhinavagarwal07/abhinavagarwal07.github.io](https://github.com/abhinavagarwal07/abhinavagarwal07.github.io)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-03-25T05:48:59Z"
     }
   ],
-  "generated_at": "2026-07-29T02:21:32.665265",
+  "generated_at": "2026-07-29T04:17:56.020879",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-03-25",
     "source": "README.md",
     "script_version": "2.0"

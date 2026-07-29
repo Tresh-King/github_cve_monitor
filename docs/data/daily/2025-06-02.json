@@ -1,7 +1,14 @@
 {
   "date": "2025-06-02",
-  "count": 7,
+  "count": 8,
   "cves": [
+    {
+      "cve_id": "CVE-2025-6563",
+      "repo_info": "[praksokchea/CVE-2025-6563](https://github.com/praksokchea/CVE-2025-6563)",
+      "description": "Reflected XSS vulnerability in MikroTik Hotspot login page",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T14:43:51Z"
+    },
     {
       "cve_id": "CVE-2025-5280",
       "repo_info": "[voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)",
@@ -52,9 +59,9 @@
       "raw_date": "2025-06-02T20:55:23Z"
     }
   ],
-  "generated_at": "2026-07-29T02:21:32.612871",
+  "generated_at": "2026-07-29T04:17:55.975473",
   "metadata": {
-    "total_cves": 7,
+    "total_cves": 8,
     "date_range": "2025-06-02",
     "source": "README.md",
     "script_version": "2.0"

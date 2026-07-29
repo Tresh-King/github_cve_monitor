@@ -1,7 +1,63 @@
 {
   "date": "2026-07-28",
-  "count": 4,
+  "count": 24,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[samael0x4/CVE-2026-9198](https://github.com/samael0x4/CVE-2026-9198)",
+      "description": "IBM Langflow OSS 1.0.0 through 1.10.0 contains a remote code execution [RCE]",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T07:50:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-8206",
+      "repo_info": "[Dungsocool/CVE-2026-8206](https://github.com/Dungsocool/CVE-2026-8206)",
+      "description": "CVE-2026-8206: Kirki Customizer Framework - Unauthenticated Account Takeover (CVSS 9.8)",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T04:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-65893",
+      "repo_info": "[ivmks74/IIITA-IoT-Security-Research](https://github.com/ivmks74/IIITA-IoT-Security-Research)",
+      "description": "IoT Security research conducted during my internship at IIIT Allahabad, leading to CVE-2026-65893, CVE-2026-65894, and the CERT-In Vulnerability Note CIVN-2026-0380.",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T18:06:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-65893",
+      "repo_info": "[CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894](https://github.com/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894)",
+      "description": "no description",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T11:24:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-65761",
+      "repo_info": "[ywh-jfellus/CVE-2026-65761](https://github.com/ywh-jfellus/CVE-2026-65761)",
+      "description": "Proof of Concept for CVE-2026-65761 - EasyStore Pro Unauthenticated SQL Injection via `filter_sortby`",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T14:51:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-64725",
+      "repo_info": "[altvist/cve-2026-64725-poc](https://github.com/altvist/cve-2026-64725-poc)",
+      "description": "A PoC for CVE-2026-64725",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T11:11:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[letsr00t/RefluxFS_CVE-2026-64600](https://github.com/letsr00t/RefluxFS_CVE-2026-64600)",
+      "description": "no description",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T10:18:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[bha-vin/CVE-2026-64600-Exploit](https://github.com/bha-vin/CVE-2026-64600-Exploit)",
+      "description": "no description",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T09:35:50Z"
+    },
     {
       "cve_id": "CVE-2026-61511",
       "repo_info": "[HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)",
@@ -10,11 +66,81 @@
       "raw_date": "2026-07-28T01:47:47Z"
     },
     {
+      "cve_id": "CVE-2026-61511",
+      "repo_info": "[puj790201-lab/cve-2026-61511](https://github.com/puj790201-lab/cve-2026-61511)",
+      "description": "cve-2026-61511",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T12:34:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-59891",
+      "repo_info": "[gyubin02/cve-2026-59891-control-lab](https://github.com/gyubin02/cve-2026-59891-control-lab)",
+      "description": "Isolated regression and security-control lab for CVE-2026-59891 in @sigstore/oci",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T12:15:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-58586",
+      "repo_info": "[extratao/Image-WebP](https://github.com/extratao/Image-WebP)",
+      "description": "Perl Image::WebP library. Unofficial. CVE-2026-58586",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T08:42:29Z"
+    },
+    {
       "cve_id": "CVE-2026-54121",
       "repo_info": "[ChPratik/CVE-2026-54121](https://github.com/ChPratik/CVE-2026-54121)",
       "description": "Improper authorization in Active Directory Certificate Services (AD CS) allows an authorized attacker to elevate privileges over a network.",
       "date": "2026-07-28",
       "raw_date": "2026-07-28T03:18:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-53921",
+      "repo_info": "[tc4dy/CVE-2026-53921-PoC-Exploit](https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit)",
+      "description": "CVE-2026-53921 – odhcpd Stack Overflow (CVSS 9.8) 🛡️  Vuln detailed and comprehensive Write-Up and Verifier &amp; Multi-exploit for OpenWrt DHCPv6 RCE. Dual-vector (IA_NA/IA_PD) overflow with MIPS/ARM shellcode, ROP chains, SOCKS5 proxy, persistence, log wiping &amp; mass scanning. Use Ethically, Stay Legal. 🔒",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T17:23:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-53921",
+      "repo_info": "[0xBlackash/CVE-2026-53921](https://github.com/0xBlackash/CVE-2026-53921)",
+      "description": "CVE-2026-53921",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T13:47:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-53264",
+      "repo_info": "[HORKimhab/CVE-2026-53264](https://github.com/HORKimhab/CVE-2026-53264)",
+      "description": "CVE-2026-53264 - Draft",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T09:15:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-51302",
+      "repo_info": "[extratao/CVE-2026-51302-PoC](https://github.com/extratao/CVE-2026-51302-PoC)",
+      "description": "Clickbait. The CVE is AI slop.",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T23:49:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-50522",
+      "repo_info": "[darses/CVE-2026-50522](https://github.com/darses/CVE-2026-50522)",
+      "description": "Microsoft SharePoint CVE-2026-50522",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T18:15:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Witaqua-tools/Root-My-Device](https://github.com/Witaqua-tools/Root-My-Device)",
+      "description": "KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T10:17:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-28755",
+      "repo_info": "[ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)",
+      "description": "Covered CVEs: CVE-2026-28755, CVE-2026-42926, CVE-2026-9256, CVE-2026-42055, CVE-2026-42533",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T07:29:33Z"
     },
     {
       "cve_id": "CVE-2026-27577",
@@ -29,11 +155,25 @@
       "description": "Fastjson 1.2.83 RCE 靶场环境 (CVE-2026-16723)",
       "date": "2026-07-28",
       "raw_date": "2026-07-28T02:58:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-16232",
+      "repo_info": "[sfewer-r7/CVE-2026-16232](https://github.com/sfewer-r7/CVE-2026-16232)",
+      "description": "A proof-of-concept script to exploit CVE-2026-16232, an authentication bypass via the SmartConsole login process using an application token.",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T16:19:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-14856",
+      "repo_info": "[jonas-fernandez-as/CVE-2026-14856-TastyIgniter](https://github.com/jonas-fernandez-as/CVE-2026-14856-TastyIgniter)",
+      "description": "CVE-2026-14856 TastyIgniter v4.3.0",
+      "date": "2026-07-28",
+      "raw_date": "2026-07-28T07:56:32Z"
     }
   ],
-  "generated_at": "2026-07-29T02:21:32.684263",
+  "generated_at": "2026-07-29T04:17:56.032686",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 24,
     "date_range": "2026-07-28",
     "source": "README.md",
     "script_version": "2.0"
