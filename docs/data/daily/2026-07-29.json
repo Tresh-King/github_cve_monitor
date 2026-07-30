@@ -1,7 +1,28 @@
 {
   "date": "2026-07-29",
-  "count": 2,
+  "count": 23,
   "cves": [
+    {
+      "cve_id": "CVE-2026-66066",
+      "repo_info": "[Zer0SumGam3/CVE-2026-66066-POC](https://github.com/Zer0SumGam3/CVE-2026-66066-POC)",
+      "description": "PoC for CVE-2026-66066 in Ruby on Rails",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T21:08:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-66066",
+      "repo_info": "[paveg/rails-activestorage-vips-audit](https://github.com/paveg/rails-activestorage-vips-audit)",
+      "description": "Agent skill that audits a Rails codebase for CVE-2026-66066 (KindaRails2Shell) — Active Storage + libvips arbitrary file read / RCE, checking Rails and libvips versions and block-untrusted mitigations",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T16:10:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-66066",
+      "repo_info": "[0xBlackash/CVE-2026-66066](https://github.com/0xBlackash/CVE-2026-66066)",
+      "description": "CVE-2026-66066",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T20:45:27Z"
+    },
     {
       "cve_id": "CVE-2026-61511",
       "repo_info": "[codeb0ssx/Ultimate-CVE-2026-61511](https://github.com/codeb0ssx/Ultimate-CVE-2026-61511)",
@@ -10,16 +31,142 @@
       "raw_date": "2026-07-29T00:35:35Z"
     },
     {
+      "cve_id": "CVE-2026-61511",
+      "repo_info": "[tc4dy/CVE-2026-61511-PoC-Exploit](https://github.com/tc4dy/CVE-2026-61511-PoC-Exploit)",
+      "description": "CVE-2026-61511 – vBulletin Pre-Auth RCE (CVSS 9.8). Vuln 5.x/6.x (unpatched). Multi-exploit via Endpoint Pool, AJAX, PHPFuck WAF bypass. Full toolkit: reverse shell, proxy, persistence, webshell, database operations, firewall control, log management, mass scanning. 2 versions: multi-exploit &amp; safe-check. Python 3.8+ Use Ethically, Stay Legal. 🔒",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T08:18:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-61511",
+      "repo_info": "[webshellseo8/CVE-2026-61511-POC](https://github.com/webshellseo8/CVE-2026-61511-POC)",
+      "description": "no description",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T12:38:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[HORKimhab/CVE-2026-60004](https://github.com/HORKimhab/CVE-2026-60004)",
+      "description": "CVE-2026-60004",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T08:35:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-58025",
+      "repo_info": "[shinthink/CVE-2026-58025](https://github.com/shinthink/CVE-2026-58025)",
+      "description": "CVE-2026-58025 — MediaWiki Deserialization RCE via Log Entry Import. LogEntryBase::extractParams() unserialize() user-controlled log_params. CVSS 9.8 - CWE-502 - MediaWiki &lt; 1.43.9, &lt; 1.44.6, &lt; 1.45.4, &lt; 1.46.0",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T18:14:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-57827",
+      "repo_info": "[shinthink/CVE-2026-57827](https://github.com/shinthink/CVE-2026-57827)",
+      "description": "CVE-2026-57827 — RSFiles! Joomla Component Unauthenticated File Upload RCE. Split-controller upload bypass. CVSS 9.8 - CWE-434 - com_rsfiles &lt; 1.17.12",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T20:19:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-57811",
+      "repo_info": "[webshellseo8/CVE-2026-57811-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-57811-Proof-of-Concept)",
+      "description": "no description",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T12:51:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-54107",
+      "repo_info": "[Pravin761/CVE-2026-54107](https://github.com/Pravin761/CVE-2026-54107)",
+      "description": "no description",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T19:13:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-52832",
+      "repo_info": "[mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard](https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard)",
+      "description": "Nuclio Dashboard (NOP mode) accepts unauthenticated POST /api/functions. The spec.handler field isn&#x27;t path-validated, so ../../../../tmp/x.txt:handler escapes the build tempdir via path.Join, letting an attacker write arbitrary content to any path as root. (CVE-2026-52832, ≤1.15.27)",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T10:23:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-52134",
+      "repo_info": "[if-forget/CVE-2026-52134-libiec61850](https://github.com/if-forget/CVE-2026-52134-libiec61850)",
+      "description": "Public technical advisory and reproduction evidence for CVE-2026-52134 affecting GOOSE replay handling in libiec61850 v1.6.",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T17:49:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-50522",
+      "repo_info": "[webshellseo8/CVE-2026-50522-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-50522-Proof-of-Concept)",
+      "description": "no description",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T12:41:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-49176",
+      "repo_info": "[777erp/CVE-2026-49176_BOF](https://github.com/777erp/CVE-2026-49176_BOF)",
+      "description": "CVE-2026-49176 WalletService LPE — standalone PoC + Cobalt Strike BOF (SYSTEM command on interactive session)",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T06:57:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-45746",
+      "repo_info": "[GabrielHA12/Termix-research](https://github.com/GabrielHA12/Termix-research)",
+      "description": "CVE-2026-45746, CVE-2026-45750, CVE-2026-53547 — three critical vulnerabilities in Termix: cross-tenant session hijacking, OS command injection, and account takeover",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T21:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-43813",
+      "repo_info": "[EastArctica/CVE-2026-43813](https://github.com/EastArctica/CVE-2026-43813)",
+      "description": "CVE-2026-43813: CloudAttestation enforceEnvironment bypass",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T19:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[233laoliu/mt6985-CVE-2026-43499](https://github.com/233laoliu/mt6985-CVE-2026-43499)",
+      "description": "CVE-2026-43499 exploit adapter for MT6985 MediaTek Dimensity 9300 (vivo PD2241)",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T08:16:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-33718",
+      "repo_info": "[HORKimhab/CVE-2026-33718](https://github.com/HORKimhab/CVE-2026-33718)",
+      "description": "CVE-2026-33718",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T09:51:12Z"
+    },
+    {
       "cve_id": "CVE-2026-31694",
       "repo_info": "[zenzue/CVE_2026_31694](https://github.com/zenzue/CVE_2026_31694)",
       "description": "no description",
       "date": "2026-07-29",
       "raw_date": "2026-07-29T01:06:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-2586",
+      "repo_info": "[GabrielHA12/Glassfish-research](https://github.com/GabrielHA12/Glassfish-research)",
+      "description": "CVE-2026-2586 — Eclipse GlassFish EL injection to RCE",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T16:31:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-20896",
+      "repo_info": "[EQSTLab/CVE-2026-20896](https://github.com/EQSTLab/CVE-2026-20896)",
+      "description": "Gitea Docker Image Authentication Bypass",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T07:23:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-16475",
+      "repo_info": "[afertar/CVE-2026-16475-PoC](https://github.com/afertar/CVE-2026-16475-PoC)",
+      "description": "This is the official repo with the PoC of the CVE-2026-16475, LFI in OCSinventory 2.12.4.",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T10:56:11Z"
     }
   ],
-  "generated_at": "2026-07-30T02:03:54.085257",
+  "generated_at": "2026-07-30T04:10:42.301320",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 23,
     "date_range": "2026-07-29",
     "source": "README.md",
     "script_version": "2.0"

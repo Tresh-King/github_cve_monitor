@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-41200",
@@ -8,11 +8,18 @@
       "description": "no description",
       "date": "2026-05-02",
       "raw_date": "2026-05-02T05:49:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[sandraschi/copy-fail-mcp](https://github.com/sandraschi/copy-fail-mcp)",
+      "description": "CVE-2026-31431 Copy Fail — Linux kernel LPE tester via MCP",
+      "date": "2026-05-02",
+      "raw_date": "2026-05-02T15:01:41Z"
     }
   ],
-  "generated_at": "2026-07-30T02:03:54.068366",
+  "generated_at": "2026-07-30T04:10:42.286764",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-02",
     "source": "README.md",
     "script_version": "2.0"

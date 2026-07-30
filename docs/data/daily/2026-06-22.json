@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "count": 15,
+  "count": 16,
   "cves": [
     {
       "cve_id": "CVE-2026-6992",
@@ -106,11 +106,18 @@
       "description": "CVE-2026-2002 writeup and Proof-of-concept",
       "date": "2026-06-22",
       "raw_date": "2026-06-22T12:52:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-18220",
+      "repo_info": "[4D4J/objdump-Out-Of-Bounds-write](https://github.com/4D4J/objdump-Out-Of-Bounds-write)",
+      "description": "Proof of Concept (PoC) demonstrating the CVE-2026-18220, an out-of-bounds (OOB) write vulnerability in the DLX ELF backend of GNU binutils (specifically triggered via `objdump -g`)",
+      "date": "2026-06-22",
+      "raw_date": "2026-06-22T13:11:58Z"
     }
   ],
-  "generated_at": "2026-07-30T02:03:54.074693",
+  "generated_at": "2026-07-30T04:10:42.292402",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2026-06-22",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "count": 22,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-9271",
@@ -122,6 +122,13 @@
       "raw_date": "2026-07-17T14:24:08Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[fancyzll/CVE-2026-43499_OPPO-MT6835](https://github.com/fancyzll/CVE-2026-43499_OPPO-MT6835)",
+      "description": "no description",
+      "date": "2026-07-17",
+      "raw_date": "2026-07-17T04:39:06Z"
+    },
+    {
       "cve_id": "CVE-2026-38526",
       "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)",
       "description": "CVE-2026-38526 Exploit - by infrar3d",
@@ -157,9 +164,9 @@
       "raw_date": "2026-07-17T08:01:38Z"
     }
   ],
-  "generated_at": "2026-07-30T02:03:54.081298",
+  "generated_at": "2026-07-30T04:10:42.298043",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2026-07-17",
     "source": "README.md",
     "script_version": "2.0"

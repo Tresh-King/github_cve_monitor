@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "count": 19,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-9830",
@@ -101,6 +101,13 @@
       "raw_date": "2026-07-27T08:03:07Z"
     },
     {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[jelasin/CVE-2026-42533](https://github.com/jelasin/CVE-2026-42533)",
+      "description": "no description",
+      "date": "2026-07-27",
+      "raw_date": "2026-07-27T07:00:54Z"
+    },
+    {
       "cve_id": "CVE-2026-41179",
       "repo_info": "[s-vx/CVE-2026-41179](https://github.com/s-vx/CVE-2026-41179)",
       "description": "RCE in rclone",
@@ -136,9 +143,9 @@
       "raw_date": "2026-07-27T08:54:38Z"
     }
   ],
-  "generated_at": "2026-07-30T02:03:54.084674",
+  "generated_at": "2026-07-30T04:10:42.300862",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 20,
     "date_range": "2026-07-27",
     "source": "README.md",
     "script_version": "2.0"

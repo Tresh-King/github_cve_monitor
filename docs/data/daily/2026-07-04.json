@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "count": 18,
+  "count": 19,
   "cves": [
     {
       "cve_id": "CVE-2026-9090",
@@ -8,6 +8,13 @@
       "description": "Casdoor version 2.362.0",
       "date": "2026-07-04",
       "raw_date": "2026-07-04T23:22:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-59243",
+      "repo_info": "[MalHyuk/CVE-2026-59243](https://github.com/MalHyuk/CVE-2026-59243)",
+      "description": "CVE-2026-59243 — Apache Airflow FAB Auth Manager JWT signature bypass (embargoed until Apache advisory)",
+      "date": "2026-07-04",
+      "raw_date": "2026-07-04T01:29:15Z"
     },
     {
       "cve_id": "CVE-2026-57517",
@@ -129,9 +136,9 @@
       "raw_date": "2026-07-04T21:42:18Z"
     }
   ],
-  "generated_at": "2026-07-30T02:03:54.077520",
+  "generated_at": "2026-07-30T04:10:42.294792",
   "metadata": {
-    "total_cves": 18,
+    "total_cves": 19,
     "date_range": "2026-07-04",
     "source": "README.md",
     "script_version": "2.0"
