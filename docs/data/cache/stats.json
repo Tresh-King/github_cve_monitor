@@ -1,8 +1,8 @@
 {
-  "total_cves": 28925,
-  "last_update": "2026-07-29",
+  "total_cves": 28954,
+  "last_update": "2026-07-30",
   "api_limit": "5000",
-  "api_remaining": "4997",
+  "api_remaining": "4998",
   "system_uptime": "99.9%",
-  "generated_at": "2026-07-30T02:44:26.988474"
+  "generated_at": "2026-07-30T06:32:18.511760"
 }
