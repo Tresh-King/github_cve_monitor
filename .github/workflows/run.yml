@@ -94,8 +94,21 @@ jobs:
           git config --global user.name "CVE-Bot"
           DATE_STR=$(date +"%Y-%m-%d")
           git add .
-          git commit --all --message "每日情报速递更新：daily_${DATE_STR}.md" || echo "no changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to push"
+            exit 0
+          fi
+
+          git commit --message "每日情报速递更新：daily_${DATE_STR}.md"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            if [ "$i" -eq 3 ]; then
+              echo "Push failed after 3 attempts"
+              exit 1
+            fi
+            echo "Push failed, retrying ($i/3)..."
+            sleep 5
+          done
       - name: Update Wiki
         run: |
           # 检查是否配置了secrets.GH_TOKEN，如果没有则使用GitHub Actions内置的GITHUB_TOKEN
