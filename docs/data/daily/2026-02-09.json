@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-09",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-20687",
+      "repo_info": "[0xjohnnydev/CVE-2026-20687-AppleJPEGDriver-UAF](https://github.com/0xjohnnydev/CVE-2026-20687-AppleJPEGDriver-UAF)",
+      "description": "CVE-2026-20687: AppleJPEGDriver startDecoder Timeout UAF — iOS/macOS kernel vulnerability leading to deferred panic (A19 Pro, iOS 26.3 RC)",
+      "date": "2026-02-09",
+      "raw_date": "2026-02-09T18:21:45Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.629688",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-02-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

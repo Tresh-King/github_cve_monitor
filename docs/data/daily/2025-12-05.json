@@ -1,6 +1,6 @@
 {
   "date": "2025-12-05",
-  "count": 11,
+  "count": 13,
   "cves": [
     {
       "cve_id": "CVE-2025-55182",
@@ -66,11 +66,25 @@
       "raw_date": "2025-12-05T08:40:18Z"
     },
     {
+      "cve_id": "CVE-2025-5352",
+      "repo_info": "[sahiloj/CVE-2025-5352](https://github.com/sahiloj/CVE-2025-5352)",
+      "description": "A stored XSS vulnerability exists in the Analytics component of lunary-ai/lunary where NEXT_PUBLIC_CUSTOM_SCRIPT is injected into the DOM using dangerouslySetInnerHTML without sanitization. An attacker controlling this variable during deployment or via server compromise can run arbitrary JavaScript in all users’ browsers.",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T19:56:25Z"
+    },
+    {
       "cve_id": "CVE-2025-49666",
       "repo_info": "[17patmaks/My-Sigma-Rule-Collection](https://github.com/17patmaks/My-Sigma-Rule-Collection)",
       "description": "Sigma Rule for CVE-2025-49666",
       "date": "2025-12-05",
       "raw_date": "2025-12-05T21:42:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-46811",
+      "repo_info": "[szachovy/CVE-2025-46811-challenge](https://github.com/szachovy/CVE-2025-46811-challenge)",
+      "description": "no description",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T16:45:17Z"
     },
     {
       "cve_id": "CVE-2025-1913",
@@ -80,9 +94,9 @@
       "raw_date": "2025-12-05T13:45:50Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.124502",
+  "generated_at": "2026-09-03T02:24:47.625105",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 13,
     "date_range": "2025-12-05",
     "source": "README.md",
     "script_version": "2.0"

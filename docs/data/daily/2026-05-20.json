@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-20",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-47883",
+      "repo_info": "[daehyuh/CVE-2026-47883](https://github.com/daehyuh/CVE-2026-47883)",
+      "description": "CVE-2026-47883 PoC",
+      "date": "2026-05-20",
+      "raw_date": "2026-05-20T10:01:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-26980",
+      "repo_info": "[Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980](https://github.com/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980)",
+      "description": "Outdated Ghost CMS websites that have fallen become compromised from CVE-2026-26980 can suffer from spam code injection to pages. Use this to mass clear and edit code injection fields.",
+      "date": "2026-05-20",
+      "raw_date": "2026-05-20T07:16:41Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.633733",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-05-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

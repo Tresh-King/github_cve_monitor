@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-30",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8452",
+      "repo_info": "[maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777](https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777)",
+      "description": "CitrixBleed Exploit Tool - CVE-2025-5777 &amp; CVE-2026-8452. Unauthenticated remote memory read from Citrix NetScaler ADC &amp; Gateway. Steal admin session tokens, extract nsroot hashes, dump secrets, and bypass MFA. Python 3 exploit with full memory parsing.",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T13:19:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-82222",
+      "repo_info": "[dinosn/givewp-cve-2026-82222-rce-lab](https://github.com/dinosn/givewp-cve-2026-82222-rce-lab)",
+      "description": "Authorized Docker lab and clean PoC for validating CVE-2026-82222 RCE in GiveWP 4.16.5.1 and the 4.16.7.2 fix.",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T05:15:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-82222",
+      "repo_info": "[UdinChan/cve-2026-82222-poc](https://github.com/UdinChan/cve-2026-82222-poc)",
+      "description": "Public PoC for CVE-2026-82222",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T01:53:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-80724",
+      "repo_info": "[suruurism/cve-writeups-and-pocs](https://github.com/suruurism/cve-writeups-and-pocs)",
+      "description": "CVE-2026-80724 PoC + full write-up — Linux kernel ptp/vmclock read-only mapping becomes writable (VM_MAYWRITE). Discovered, reported &amp; fixed by Abdifatah Suruur (suruurism)",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T15:38:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-79483",
+      "repo_info": "[ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)",
+      "description": "FastGPT Community Edition NoSQL Injection PoC (CVE-2026-79483)",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T09:46:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-78905",
+      "repo_info": "[vxssroott/CVE-2026-78905-Facebook-Account-Takeover](https://github.com/vxssroott/CVE-2026-78905-Facebook-Account-Takeover)",
+      "description": "Social Media Infrastructure Vulnerability Research. CVE-2026-78905: OAuth token reuse and session hijacking in Facebook&#x27;s Graph API.",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T22:08:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-78904",
+      "repo_info": "[vxssroott/CVE-2026-78904-Digital-Dinar-Drain](https://github.com/vxssroott/CVE-2026-78904-Digital-Dinar-Drain)",
+      "description": "CBDC Infrastructure Vulnerability Research. CVE-2026-78904: Infinite mint and redemption bypass in central bank digital currency APIs.",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T21:57:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-78903",
+      "repo_info": "[vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds](https://github.com/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds)",
+      "description": "Offensive Research &amp; Exploit Development. Vulnerability research, PoC development, and offensive tooling for financial infrastructure.",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T21:34:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-76581",
+      "repo_info": "[hackersroot/CVE-2026-76581-Detector](https://github.com/hackersroot/CVE-2026-76581-Detector)",
+      "description": "Safe passive detector for identifying WPMU DEV Dashboard versions affected by CVE-2026-76581.",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T17:32:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-76581",
+      "repo_info": "[HORKimhab/CVE-2026-76581](https://github.com/HORKimhab/CVE-2026-76581)",
+      "description": "CVE-2026-76581",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T12:52:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-67363",
+      "repo_info": "[Lulztigre/cve-2026-67363-67364](https://github.com/Lulztigre/cve-2026-67363-67364)",
+      "description": "Balboa form Command Injection POC",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T18:45:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Sec-Dan/WP2Shell-Scanner](https://github.com/Sec-Dan/WP2Shell-Scanner)",
+      "description": "Read-only CLI to check whether a WordPress site is exposed to WP2Shell (CVE-2026-63030 / CVE-2026-60137)",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T15:56:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-56121",
+      "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-56121](https://github.com/joaovicdev/EXPLOIT-CVE-2026-56121)",
+      "description": "no description",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T20:51:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-48611",
+      "repo_info": "[Ethicalgrey/phpBB-CVE-2026-48611](https://github.com/Ethicalgrey/phpBB-CVE-2026-48611)",
+      "description": "Automated PoC for CVE-2026-48611 — phpBB OAuth login_link authentication bypass",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T15:35:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-45833",
+      "repo_info": "[e4zyy/Project-CVE-2026-45833](https://github.com/e4zyy/Project-CVE-2026-45833)",
+      "description": "CVE-2026-45833 ChromaDB",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T14:49:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[alk601/Root-My-Galaxy](https://github.com/alk601/Root-My-Galaxy)",
+      "description": "KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T22:42:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ReBiliBin/ghostlock-oppo-watch3pro](https://github.com/ReBiliBin/ghostlock-oppo-watch3pro)",
+      "description": "CVE-2026-43499 on OPPO Watch 3 Pro",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T07:01:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[FranklinF25/cve-2026-42945](https://github.com/FranklinF25/cve-2026-42945)",
+      "description": "no description",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T19:36:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-25262",
+      "repo_info": "[therealfraudman/cve-2026-25262-msm8909-PoC](https://github.com/therealfraudman/cve-2026-25262-msm8909-PoC)",
+      "description": "no description",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T01:10:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-18741",
+      "repo_info": "[LindHunt/CVE-2026-18741](https://github.com/LindHunt/CVE-2026-18741)",
+      "description": "PoC CVE-2026-18741",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T10:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-12513",
+      "repo_info": "[MinhHK68/CVE-2026-12513](https://github.com/MinhHK68/CVE-2026-12513)",
+      "description": "CVE-2026-12513 Vulnerability Advisory &amp; PoC — Discovered by Huynh Kien Minh (MinhHK).",
+      "date": "2026-08-30",
+      "raw_date": "2026-08-30T08:13:18Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.647269",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2026-08-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

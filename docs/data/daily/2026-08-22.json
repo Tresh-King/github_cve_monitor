@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-22",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[K3ysTr0K3R/CVE-2026-9198](https://github.com/K3ysTr0K3R/CVE-2026-9198)",
+      "description": "CVE-2026-9198 - IBM Langflow OSS Unauthenticated Remote Code Execution (RCE)",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T15:55:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-75616",
+      "repo_info": "[totekuh/CVE-2026-75616](https://github.com/totekuh/CVE-2026-75616)",
+      "description": "PoC for CVE-2026-75616, an authenticated OS command injection in TP-Link Archer C20 v6 firmware",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T20:53:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-74252",
+      "repo_info": "[toanln-cov/CVE-2026-74252](https://github.com/toanln-cov/CVE-2026-74252)",
+      "description": "Stored XSS in J2Commerce Guest Checkout via Cookie Filter Bypass",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T03:46:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-66747",
+      "repo_info": "[oiehnow/oieh-router-checker](https://github.com/oiehnow/oieh-router-checker)",
+      "description": "내 공유기가 Zbtlink ENDLESSDOORS 백도어(CVE-2026-66747) 대상인지 클릭 한 번으로 검사하는 Windows 프로그램",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T02:29:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-65400",
+      "repo_info": "[acheong08/CVE-2026-65400](https://github.com/acheong08/CVE-2026-65400)",
+      "description": "Apple MacOS Screen Sharing Arbitrary File read/write -&gt; RCE",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T08:54:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-62911",
+      "repo_info": "[hypnguyen1209/CVE-2026-62911](https://github.com/hypnguyen1209/CVE-2026-62911)",
+      "description": "POC pre-auth RCE on Exchange",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T04:49:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-58231",
+      "repo_info": "[WildanDeveloper/CVE-2026-58231](https://github.com/WildanDeveloper/CVE-2026-58231)",
+      "description": "Detection &amp; precondition-verification tool for CVE-2026-58231 (SAP Commerce Cloud Data Hub Adapter)",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T20:12:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-52618",
+      "repo_info": "[s1ko/CVE-2026-52618](https://github.com/s1ko/CVE-2026-52618)",
+      "description": "CVE-2026-52618 — @webfer/mcp-ansible-drupal: OS command injection via executeDeployment extra vars (fixed in 2.0.3)",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T19:47:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-52617",
+      "repo_info": "[s1ko/CVE-2026-52617](https://github.com/s1ko/CVE-2026-52617)",
+      "description": "CVE-2026-52617 — @sworddut/mcp-ffmpeg-helper: OS command injection via ffmpeg tool options (no fixed version)",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T19:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-52616",
+      "repo_info": "[s1ko/CVE-2026-52616](https://github.com/s1ko/CVE-2026-52616)",
+      "description": "CVE-2026-52616 — mcp-nmap-server: OS command injection via run_nmap_scan (duplicate of CVE-2026-3484)",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T19:47:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-47630",
+      "repo_info": "[s1ko/CVE-2026-47630](https://github.com/s1ko/CVE-2026-47630)",
+      "description": "CVE-2026-47630 — NVIDIA Triton Inference Server: arbitrary dlopen via TRITON_BATCH_STRATEGY_PATH",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T19:35:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock](https://github.com/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock)",
+      "description": "An iQOO Z9 5G and vivo T3 5G jailbreak/root CVE-2026-43499 Android application and payloads. Both devices use the MediaTek Dimensity 7200 (MT6886) platform. Kernel version 5.15.178.",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T17:22:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[t4xo/CVE-2026-41940](https://github.com/t4xo/CVE-2026-41940)",
+      "description": "ts zeroday exp made by nullsec white team",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T10:48:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-34910",
+      "repo_info": "[gagaltotal/CVE-2026-34910-unifi-poc](https://github.com/gagaltotal/CVE-2026-34910-unifi-poc)",
+      "description": "CVE-2026-34910 - CVE-2026-34909 Unifi OS",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T11:22:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[0xBlackash/CVE-2026-32475](https://github.com/0xBlackash/CVE-2026-32475)",
+      "description": "CVE-2026-32475",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T10:03:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[punitdarji/Gitlab-CVE-2026-19478](https://github.com/punitdarji/Gitlab-CVE-2026-19478)",
+      "description": "Gitlab-CVE-2026-19478",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T12:07:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-13736",
+      "repo_info": "[MinhHK68/CVE-2026-13736](https://github.com/MinhHK68/CVE-2026-13736)",
+      "description": "no description",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T17:54:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-0740",
+      "repo_info": "[llaytynher/CVE-2026-0740-upload-template](https://github.com/llaytynher/CVE-2026-0740-upload-template)",
+      "description": "no description",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T02:37:52Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.645979",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2026-08-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

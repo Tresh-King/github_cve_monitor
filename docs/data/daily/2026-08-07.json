@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[Boreas37/CVE-2026-64638-PoC-XSS2Shell-](https://github.com/Boreas37/CVE-2026-64638-PoC-XSS2Shell-)",
+      "description": "XSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T17:07:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[aarif450/Zapscape](https://github.com/aarif450/Zapscape)",
+      "description": "Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T15:51:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-49844",
+      "repo_info": "[xiaoqiMikko/log4j-check](https://github.com/xiaoqiMikko/log4j-check)",
+      "description": "log4j 2025/2026 年 7 条「配置静默失效」CVE 自查:按 CVE×模块 判定 4 个模块,结构化解析 log4j2 配置做 applicability 降噪,并算出该升到哪个版本才一次到位(6 条写 2.25.4,但有一条要 2.25.5,而它 Dependabot 报不出来) CVE-2026-49844 / CVE-2026-34477",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T19:09:13Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644455",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-08-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

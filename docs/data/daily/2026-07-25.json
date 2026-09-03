@@ -1,7 +1,14 @@
 {
   "date": "2026-07-25",
-  "count": 24,
+  "count": 25,
   "cves": [
+    {
+      "cve_id": "CVE-2026-66804",
+      "repo_info": "[CypherHippie/CVE-2026-66804](https://github.com/CypherHippie/CVE-2026-66804)",
+      "description": "no description",
+      "date": "2026-07-25",
+      "raw_date": "2026-07-25T16:40:47Z"
+    },
     {
       "cve_id": "CVE-2026-65694",
       "repo_info": "[abdugafforov-bobur/CVE-2026-65694-PoC](https://github.com/abdugafforov-bobur/CVE-2026-65694-PoC)",
@@ -171,9 +178,9 @@
       "raw_date": "2026-07-25T07:07:51Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.147040",
+  "generated_at": "2026-09-03T02:24:47.642904",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-07-25",
     "source": "README.md",
     "script_version": "2.0"

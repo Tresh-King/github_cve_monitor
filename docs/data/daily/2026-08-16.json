@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-16",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8508",
+      "repo_info": "[minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508](https://github.com/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508)",
+      "description": "Public writeup, PoC, and emulation materials for CVE-2026-8508 affecting Zyxel captive-portal social login.",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T16:03:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-76904",
+      "repo_info": "[YonLiud/CVE-2026-76904](https://github.com/YonLiud/CVE-2026-76904)",
+      "description": "One-Day POC - GeoServer Unauthenticated SQL injection to complete RCE",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T08:11:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-73847",
+      "repo_info": "[squeeze440/CVE-2026-73847-emlog-PoC](https://github.com/squeeze440/CVE-2026-73847-emlog-PoC)",
+      "description": "PoC for CVE-2026-73847 - emlog AI Assistant CSRF to SQL execution to admin takeover (CVSS 6.8)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T04:38:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-73678",
+      "repo_info": "[Boreas37/CVE-2026-73678-PoC](https://github.com/Boreas37/CVE-2026-73678-PoC)",
+      "description": "CVE-2026-73678 — MindsDB Minds Platform unauthenticated RCE via scratchpad exec (CVSS 10.0). Verified end-to-end with real LLM",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T14:05:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-73633",
+      "repo_info": "[CuteeCat/CVE-2026-73633](https://github.com/CuteeCat/CVE-2026-73633)",
+      "description": "CVE-2026-73633（S2-072）概念验证代码",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T11:30:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-73519",
+      "repo_info": "[squeeze440/CVE-2026-73519-WolfStack-PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC)",
+      "description": "PoC for CVE-2026-73519 - WolfStack hardcoded cluster secret leads to unauthenticated RCE (CVSS 9.8)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T04:38:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[Franc-Zar/CVE-2026-72898-safe-detection](https://github.com/Franc-Zar/CVE-2026-72898-safe-detection)",
+      "description": "Simple script to achieve safe and non-desruptive active detection of CVE-2026-72898 (SQLi in Metabase)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T12:55:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-72585",
+      "repo_info": "[Nel-droid/CVE-2026-72585-PoC](https://github.com/Nel-droid/CVE-2026-72585-PoC)",
+      "description": "PoC: Grafana Editor role deletes protected contact points (CVE-2026-72585, Medium 6.5)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T20:17:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-71206",
+      "repo_info": "[Nel-droid/CVE-2026-71206-PoC](https://github.com/Nel-droid/CVE-2026-71206-PoC)",
+      "description": "PoC: Shiori JWT CheckToken never re-validates account state (CVE-2026-71206, High 8.2)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T20:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-71205",
+      "repo_info": "[Nel-droid/CVE-2026-71205-PoC](https://github.com/Nel-droid/CVE-2026-71205-PoC)",
+      "description": "PoC: changedetection.io unlimited login brute-force, no rate limiting (CVE-2026-71205, Medium 6.5)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T20:17:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-71204",
+      "repo_info": "[Nel-droid/CVE-2026-71204-PoC](https://github.com/Nel-droid/CVE-2026-71204-PoC)",
+      "description": "PoC: changedetection.io settings blind-merge mass assignment (CVE-2026-71204, Medium 6.3)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T20:17:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-71203",
+      "repo_info": "[Nel-droid/CVE-2026-71203-PoC](https://github.com/Nel-droid/CVE-2026-71203-PoC)",
+      "description": "PoC: changedetection.io unauthenticated OpenAPI schema disclosure (CVE-2026-71203, Medium 5.3)",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T20:17:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-6837",
+      "repo_info": "[minanagehsalalma/CVE-2026-6837-zyxel-export-cgi-command-injection](https://github.com/minanagehsalalma/CVE-2026-6837-zyxel-export-cgi-command-injection)",
+      "description": "Public writeup, PoC, and emulation materials for CVE-2026-6837 affecting Zyxel export-cgi PKCS#12 export handling.",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T16:03:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[SanaullahAmanullah/xss2shell-check](https://github.com/SanaullahAmanullah/xss2shell-check)",
+      "description": "Non-destructive detector for CVE-2026-64638 (XSS2Shell) — WordPress pre-auth XSS reflection primitive",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T14:23:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-51031",
+      "repo_info": "[daemoncibsec/flar3ad](https://github.com/daemoncibsec/flar3ad)",
+      "description": "POC of CVE-2026-51031 for arbitrary local file read",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T00:20:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-50656",
+      "repo_info": "[eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-](https://github.com/eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-)",
+      "description": "no description",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T09:11:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[NanoTurtle1145/root-my-s24](https://github.com/NanoTurtle1145/root-my-s24)",
+      "description": "Using CVE-2026-43499 to root your Galaxy S24 Series(SM-S92X0 ,(China / Hong Kong SAR / Taiwan))",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T14:37:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-18366",
+      "repo_info": "[Nxploited/CVE-2026-18366](https://github.com/Nxploited/CVE-2026-18366)",
+      "description": "Events Manager &lt; 7.4.1 - Unauthenticated Privilege Escalation to Administrator",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T20:21:02Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644987",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2026-08-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -109,7 +109,7 @@
     },
     {
       "cve_id": "CVE-2023-22527",
-      "repo_info": "[anonymous99-Rise/CVE-2023-22527](https://github.com/anonymous99-Rise/CVE-2023-22527)",
+      "repo_info": "[adminlove520/CVE-2023-22527](https://github.com/adminlove520/CVE-2023-22527)",
       "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
       "date": "2024-01-25",
       "raw_date": "2024-01-25T10:52:39Z"
@@ -143,7 +143,7 @@
       "raw_date": "2024-01-25T07:20:19Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.004750",
+  "generated_at": "2026-09-03T02:24:47.505900",
   "metadata": {
     "total_cves": 20,
     "date_range": "2024-01-25",

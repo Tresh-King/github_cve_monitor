@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-30 04:10:16
+- **生成时间**: 2026-09-03 02:24:01
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -361,9 +361,26 @@
 | 🚫 未识别 | [mwnickerson/certighost-bof](https://github.com/mwnickerson/certighost-bof) | Beacon Object File for CVE 2026-54121 | 2026-07-28T16:10:33Z|
 | 🚫 未识别 | [supercomputingmadeeasy-bot/7z-wrapper](https://github.com/supercomputingmadeeasy-bot/7z-wrapper) | `7z-safe` is a security-hardened drop-in replacement for the `7z` command on Linux.   It wraps the standard 7-Zip binary with multiple layers of defence that directly address every known CVE in the 2025–2026 7-Zip release series, while adding protection against zip bombs, path traversal attacks, and malicious archive formats. | 2026-07-28T15:26:33Z|
 | 🚫 未识别 | [tecnico4righettisollevamenti/SIL-CVE-2026](https://github.com/tecnico4righettisollevamenti/SIL-CVE-2026) | no description | 2026-07-28T09:36:45Z|
+| 🚫 未识别 | [Mavchris/Agent_Security_Framework](https://github.com/Mavchris/Agent_Security_Framework) | Framework open-source d&#x27;intelligence de menaces pour agents IA.  Automatise collecte OSINT (CVE, GitHub, ArXiv), classification 7 attaques critiques (prompt injection, tool abuse...), matrice risque et dashboard temps réel.  Stack : Python • FastAPI • Streamlit • Docker Mémoire MS Cybersecurity - Mars 2026 | 2026-03-14T15:39:39Z|
+| 🚫 未识别 | [christian-cahig/CVE154_AY-2026-2027-S1](https://github.com/christian-cahig/CVE154_AY-2026-2027-S1) | Various files for the CVE154 classes taught at MSU-IIT during A.Y. 2026-2027 S1 | 2026-08-24T10:22:28Z|
+| 🚫 未识别 | [HORKimhab/CVE-2026-PSA-2026-00043-1](https://github.com/HORKimhab/CVE-2026-PSA-2026-00043-1) | CVE-2026-PSA-2026-00043-1 - Proxmox VE 7.0–8.0.3: unauthenticated, single-request root auth bypass - Draft or TODO | 2026-09-02T01:20:52Z|
+| 🚫 未识别 | [nawalacheker1/new-cve-2026](https://github.com/nawalacheker1/new-cve-2026) | no description | 2026-08-31T10:43:35Z|
+| 🚫 未识别 | [FUNFACTOR1/WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2-](https://github.com/FUNFACTOR1/WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2-) | This is a full disclosure. The vulnerability was reported to the wallabag maintainers via GitHub Private Security Advisory on June 5, 2026. 3 FIX NO 1 MERGE NO CVE | 2026-08-15T23:09:25Z|
+| 🚫 未识别 | [Clara-M-Grossl/Exploit-Marimo](https://github.com/Clara-M-Grossl/Exploit-Marimo) | Marimo Pre-Auth RCE (CVE-2026–39987) | 2026-08-27T12:43:32Z|
+| 🚫 未识别 | [SyedAnas01/cve-credits-attribution](https://github.com/SyedAnas01/cve-credits-attribution) | Replication package: does reporter attribution survive into CVE records, GitHub&#x27;s OSV export, and the NVD? Four datasets, captured 2026-08-26. | 2026-08-26T23:05:27Z|
+| 🚫 未识别 | [ejajmahmud/cve-vulnerability-patch-remediation-bot-fastapi-cve-patch-bot-core-v2026-b62](https://github.com/ejajmahmud/cve-vulnerability-patch-remediation-bot-fastapi-cve-patch-bot-core-v2026-b62) | Autonomous Dependency Vulnerability CVE Patch Remediation Bot enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-08-25T17:10:05Z|
+| 🚫 未识别 | [CyberWarrior9/dolibarr](https://github.com/CyberWarrior9/dolibarr) | End-to-end PoC exploits (Python + shell) for four patched Dolibarr ERP/CRM CVEs (2026-71504/71505/71506/71510). Authorized lab testing only. | 2026-08-24T16:56:34Z|
+| 🚫 未识别 | [XiaomingX/awesome-security-benchmark](https://github.com/XiaomingX/awesome-security-benchmark) | Curated security vulnerability benchmarks &amp; vulnerable code samples for evaluating SAST tools and LLMs. Java · Node.js · Go · Next.js · CVE datasets · 2025-2026 research. OWASP Benchmark, NIST Juliet, Vul4J, SecBench.js, SecCodeBench-V2, PrimeVul &amp; more. | 2026-08-24T17:27:16Z|
+| 🚫 未识别 | [ejajmahmud/dependency-vulnerability-patch-agent-fastapi-cve-patch-bot-v2026-b60](https://github.com/ejajmahmud/dependency-vulnerability-patch-agent-fastapi-cve-patch-bot-v2026-b60) | Automated Zero-Day Dependency Vulnerability Remediation Agent enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot)) | 2026-08-24T00:53:10Z|
+| 🚫 未识别 | [sylhetyhackvenger/SMTPXploit](https://github.com/sylhetyhackvenger/SMTPXploit) | Advanced SMTP penetration testing framework featuring AI-driven anomaly detection, 2026 CVE database, multi-threaded brute force, email harvesting, TLS certificate analysis, SPF/DKIM/DMARC validation, and interactive TUI. Gray hat tool for professional security assessments and bug bounty hunting. | 2026-08-01T10:35:58Z|
+| 🚫 未识别 | [Sanjay20-AS/dynamo-vuln-triage](https://github.com/Sanjay20-AS/dynamo-vuln-triage) | Personalised vulnerability triage prototype — turns a public CVE/KEV/EPSS feed into an explainable top-5 per organisation, with visible scoring factors and a mandatory negative test. Built for NEXORA 2026. | 2026-08-23T00:59:06Z|
+| 🚫 未识别 | [ejajmahmud/dependency-vulnerability-remediation-bot-fastapi-cve-remediation-agent-v2026-b58](https://github.com/ejajmahmud/dependency-vulnerability-remediation-bot-fastapi-cve-remediation-agent-v2026-b58) | Automated Zero-Day Dependency Vulnerability Remediation Agent enterprise system built with Python 3.12 / FastAPI &amp; Haystack Zero-Day CVE Remediation Agent (Source: Apache Software Foundation (apache.org/fastapi-cve-remediation)) | 2026-08-22T17:09:35Z|
+| 🚫 未识别 | [CVE-security/cve-2026](https://github.com/CVE-security/cve-2026) | no description | 2026-08-20T23:42:15Z|
+| 🚫 未识别 | [harshal561/CVE-Analysis-Lab](https://github.com/harshal561/CVE-Analysis-Lab) | Vulnerability Research &amp; CVE Analysis Lab — end-to-end research on 3 actively exploited 2026 CVEs, with CVSS scoring, IOCs, and Splunk detection logic | 2026-08-14T10:37:52Z|
+| 🚫 未识别 | [TheVoidThatConsumes/vsac](https://github.com/TheVoidThatConsumes/vsac) | A CVE scanning, SBOM generation and signed threat correlation tool (formerly XBOM) for the Gossamer Suite. Built with Python, 2026. | 2026-08-06T10:22:23Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-30 04:10:41  
-**总记录数**: 350
+**报告生成时间**: 2026-09-03 02:24:46  
+**总记录数**: 367

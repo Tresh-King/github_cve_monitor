@@ -1,7 +1,14 @@
 {
   "date": "2026-07-29",
-  "count": 23,
+  "count": 26,
   "cves": [
+    {
+      "cve_id": "CVE-2026-73292",
+      "repo_info": "[CamilleGR/CVE-2026-73292](https://github.com/CamilleGR/CVE-2026-73292)",
+      "description": "no description",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T07:24:18Z"
+    },
     {
       "cve_id": "CVE-2026-66066",
       "repo_info": "[Zer0SumGam3/CVE-2026-66066-POC](https://github.com/Zer0SumGam3/CVE-2026-66066-POC)",
@@ -22,6 +29,13 @@
       "description": "CVE-2026-66066",
       "date": "2026-07-29",
       "raw_date": "2026-07-29T20:45:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-64531",
+      "repo_info": "[suominen/ovswrap](https://github.com/suominen/ovswrap)",
+      "description": "Tracking OVSwrap (CVE-2026-64531), the Open vSwitch datapath netlink overflow",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T05:15:24Z"
     },
     {
       "cve_id": "CVE-2026-61511",
@@ -129,6 +143,13 @@
       "raw_date": "2026-07-29T08:16:43Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)",
+      "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T05:04:25Z"
+    },
+    {
       "cve_id": "CVE-2026-33718",
       "repo_info": "[HORKimhab/CVE-2026-33718](https://github.com/HORKimhab/CVE-2026-33718)",
       "description": "CVE-2026-33718",
@@ -164,9 +185,9 @@
       "raw_date": "2026-07-29T10:56:11Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.148069",
+  "generated_at": "2026-09-03T02:24:47.643755",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 26,
     "date_range": "2026-07-29",
     "source": "README.md",
     "script_version": "2.0"

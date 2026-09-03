@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-29",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-9198](https://github.com/joaovicdev/EXPLOIT-CVE-2026-9198)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T23:37:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-82286",
+      "repo_info": "[BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write](https://github.com/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write)",
+      "description": "CVE-2026-82286 — gpt-crawler &lt;=1.5.1 unauthenticated arbitrary file write via outputFileName (POST /crawl). PoC + self-contained Docker lab. CVSS 8.6, CWE-22.",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T01:38:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-81578",
+      "repo_info": "[virologi-info/papercut-toolkit](https://github.com/virologi-info/papercut-toolkit)",
+      "description": "#PaperCut CVE-2026-81578 + CVE-2026-82078 Defense Toolkit 2 3 A **defensive** toolkit to check and understand exposure to the chained",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T15:08:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-81578",
+      "repo_info": "[yora1928/PaperCut-CVE-2026-81578-82078](https://github.com/yora1928/PaperCut-CVE-2026-81578-82078)",
+      "description": "Security research tool for PaperCut CVE-2026-81578 &amp; CVE-2026-82078",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T13:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-68929",
+      "repo_info": "[Hunt-Benito/your-bot-my-inbox-cve-2026-68929-fastgpt-unauthenticated-wechat-channel-hijack](https://github.com/Hunt-Benito/your-bot-my-inbox-cve-2026-68929-fastgpt-unauthenticated-wechat-channel-hijack)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T08:56:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-47884",
+      "repo_info": "[xiaoqiMikko/spring-cvss-check](https://github.com/xiaoqiMikko/spring-cvss-check)",
+      "description": "CVE-2026-47884 CVE-2026-47890 CVE-2026-47891 CVE-2026-47892 CVE-2026-59270 CVE-2026-59283 CVE-2026-59313 CVE-2026-65637 CVE-2026-65905:覆盖 15 条 Spring / Tomcat 官方安全公告,8 条被 NVD 报成 CRITICAL 9.x 而厂商官方评 LOW/MEDIUM。工具告诉你中了哪几条、官方评多少分、是否真满足触发条件,以及官方叫你升的版本 Maven Central 上有没有。",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T13:54:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-45071",
+      "repo_info": "[bozellqp/zk-xml-probe](https://github.com/bozellqp/zk-xml-probe)",
+      "description": "Static XML fixtures for authorized bug bounty testing of XML parser behaviour (CVE-2026-45071).",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T23:14:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[FranklinF25/cve-2026-42533](https://github.com/FranklinF25/cve-2026-42533)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T14:21:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-4001",
+      "repo_info": "[htrxuan/hdwebmobile-formula-pricing](https://github.com/htrxuan/hdwebmobile-formula-pricing)",
+      "description": "WooCommerce plugin: safe formula-based product pricing, closing CVE-2026-4001&#x27;s eval()-based RCE",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T03:51:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-23989",
+      "repo_info": "[dinosn/cve-2026-23989-opencloud-lab](https://github.com/dinosn/cve-2026-23989-opencloud-lab)",
+      "description": "Reproduction lab (A/B Docker) for CVE-2026-23989 — OpenCloud / ownCloud Infinite Scale public-link scope-validation bypass in Reva",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T13:43:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-21962",
+      "repo_info": "[KaiserdesMonats/CVE-2026-21962-Blog](https://github.com/KaiserdesMonats/CVE-2026-21962-Blog)",
+      "description": "CVE-2026-21962 Açığı için blog sayfası oluşturdum.",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T08:59:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-19745",
+      "repo_info": "[drbloop2000/CVE-2026-19745](https://github.com/drbloop2000/CVE-2026-19745)",
+      "description": "Learn how I found my first two CVEs by pure accident.",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T16:21:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-19286",
+      "repo_info": "[rmhowe425/POC-CVE-2026-19286](https://github.com/rmhowe425/POC-CVE-2026-19286)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T17:02:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-18729",
+      "repo_info": "[rmhowe425/POC-CVE-2026-18729](https://github.com/rmhowe425/POC-CVE-2026-18729)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T22:48:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-1801",
+      "repo_info": "[misterdengi/CVE-2026-1801C](https://github.com/misterdengi/CVE-2026-1801C)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T23:38:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-1357",
+      "repo_info": "[sahmsec/CVE-2026-1357](https://github.com/sahmsec/CVE-2026-1357)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T19:38:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-12243",
+      "repo_info": "[morzelowski/CVE-2026-12243-NLTK-PoC](https://github.com/morzelowski/CVE-2026-12243-NLTK-PoC)",
+      "description": "no description",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T16:15:44Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.647139",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2026-08-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

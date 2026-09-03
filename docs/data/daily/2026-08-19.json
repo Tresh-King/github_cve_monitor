@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-19",
+  "count": 28,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-76071",
+      "repo_info": "[ozcanpng/CVE-2026-76071](https://github.com/ozcanpng/CVE-2026-76071)",
+      "description": "Original research and non-destructive PoC for a pre-auth stack buffer overflow via unbounded sscanf scanset in the Netis NC63 ipFilterList handler",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T23:29:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-76070",
+      "repo_info": "[ozcanpng/CVE-2026-76070](https://github.com/ozcanpng/CVE-2026-76070)",
+      "description": "Original research and non-destructive PoC for a pre-auth Base64-decoded password stack buffer overflow in Netis NC63 login.cgi",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T23:29:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-73072",
+      "repo_info": "[HORKimhab/CVE-2026-73072](https://github.com/HORKimhab/CVE-2026-73072)",
+      "description": "CVE-2026-73072 - Draft or TODO",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T07:45:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-67919",
+      "repo_info": "[k0nnect/halo-cve-2026-67919](https://github.com/k0nnect/halo-cve-2026-67919)",
+      "description": "halo cms plugin 1-request rce from a url, PoC + exploit chain",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T16:04:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-64849",
+      "repo_info": "[zavisco/CVE-2026-64849.yaml](https://github.com/zavisco/CVE-2026-64849.yaml)",
+      "description": "no description",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T14:16:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-64849",
+      "repo_info": "[BiuTrap/CVE-2026-64849](https://github.com/BiuTrap/CVE-2026-64849)",
+      "description": "CVE-2026-64849 PoC",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T01:21:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-64564",
+      "repo_info": "[0xdeadroot/SCTPhantom-CVE-2026-64564](https://github.com/0xdeadroot/SCTPhantom-CVE-2026-64564)",
+      "description": "no description",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T11:55:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-](https://github.com/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-)",
+      "description": "no description",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T08:22:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-56848",
+      "repo_info": "[open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848)",
+      "description": "no description",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T04:13:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[L0u7r3/certighost](https://github.com/L0u7r3/certighost)",
+      "description": "fork and edits from https://github.com/aniqfakhrul/CVE-2026-54121",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T15:33:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-53959",
+      "repo_info": "[anirbala98/CVE-2026-53959](https://github.com/anirbala98/CVE-2026-53959)",
+      "description": "4gaBoards &lt; 3.3.9 - User Information Disclosure",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T06:44:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-53365",
+      "repo_info": "[HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365)",
+      "description": "VsockDrop (CVE-2026-53365) Linux kernel io_uring zerocopy vsock LPE exploit mirror — MaherAzzouzi, MIT; for authorized security testing",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T12:26:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-47858",
+      "repo_info": "[realstatus/CVE-2026-47858](https://github.com/realstatus/CVE-2026-47858)",
+      "description": "CVE-2026-47858",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T10:06:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[xrzcc/s26-m1q-ghostlock-selinux](https://github.com/xrzcc/s26-m1q-ghostlock-selinux)",
+      "description": "GhostLock CVE-2026-43499 research for Galaxy S26 (SM-S942U1/m1q): SELinux Permissive achieved, KASLR + tracefs port, uid=0 boundary documented",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T04:43:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[XiaoBaiLovesStirring/ghostlock-custom](https://github.com/XiaoBaiLovesStirring/ghostlock-custom)",
+      "description": "GhostLock (CVE-2026-43499) adaptation for non-Android Linux 6.x ARM64",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T04:00:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[zychen027/CVE-2026-43499_HW-CLT-AL01](https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01)",
+      "description": "尝试移植CVE-2026-43499提权漏洞到HW P20Pro上",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T03:11:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[lanicer/cve-2026-41940-PoC](https://github.com/lanicer/cve-2026-41940-PoC)",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T12:46:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-40179",
+      "repo_info": "[bsdrip/CVE-2026-40179-PoC](https://github.com/bsdrip/CVE-2026-40179-PoC)",
+      "description": "A minimal, dependency-light proof of concept for CVE-2026-40179 (GHSA-vffh-x6r8-xx99): stored cross-site scripting in the Prometheus web UI, delivered through an unauthenticated remote_write endpoint.",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T08:43:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[K3ysTr0K3R/CVE-2026-39987](https://github.com/K3ysTr0K3R/CVE-2026-39987)",
+      "description": "CVE-2026-39987 — Marimo Pre-Authentication RCE",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T18:53:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-34486",
+      "repo_info": "[CypherHippie/CVE-2026-34486---unauthenticated-RCE-via-Java-deserialization](https://github.com/CypherHippie/CVE-2026-34486---unauthenticated-RCE-via-Java-deserialization)",
+      "description": "EncryptInterceptor fail-open bypass in Apache Tomcat Tribes clustering leading to unauthenticated RCE via Java deserialization.",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T00:39:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-23479",
+      "repo_info": "[HackSpeak/CVE-2026-23479](https://github.com/HackSpeak/CVE-2026-23479)",
+      "description": "Redis CVE-2026-23479 UAF RCE vulnerability checker mirror — pduggusa, MIT; for authorized security testing",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T11:47:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-2329",
+      "repo_info": "[VivianUba/grandstream-cve-2026-2329-analysis](https://github.com/VivianUba/grandstream-cve-2026-2329-analysis)",
+      "description": "no description",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T21:48:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-19598",
+      "repo_info": "[DeadExpl0it/CVE-2026-19598-PoC](https://github.com/DeadExpl0it/CVE-2026-19598-PoC)",
+      "description": "Proof of Concept for CVE-2026-19598 affecting Pods &lt;= 3.3.9.",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T02:10:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[renzi25031469/CVE-2026-19478](https://github.com/renzi25031469/CVE-2026-19478)",
+      "description": "no description",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T06:24:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-18504",
+      "repo_info": "[HORKimhab/CVE-2026-18504-CVE-2026-16732](https://github.com/HORKimhab/CVE-2026-18504-CVE-2026-16732)",
+      "description": "CVE-2026-18504, CVE-2026-16732 - Draft or TODO",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T00:14:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[Superman-L/CVE-2026-16723](https://github.com/Superman-L/CVE-2026-16723)",
+      "description": "fastjson jsontype利用",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T05:01:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-15748",
+      "repo_info": "[ubaydev/CVE-2026-15748](https://github.com/ubaydev/CVE-2026-15748)",
+      "description": "Forminator Forms &lt;= 1.56.1 - Unauthenticated Arbitrary File Upload via Forged Upload Field Configuration",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T14:49:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-0828",
+      "repo_info": "[Hika-sec/Terminator_Killer](https://github.com/Hika-sec/Terminator_Killer)",
+      "description": "Ring0-level process killer leveraging CVE-2026-0828 (BYOVD). Designed to demonstrate kernel-level process termination via a vulnerable signed driver, highlighting the security risks of Bring Your Own Vulnerable Driver attacks and the importance of driver trust, monitoring, and endpoint protection.",
+      "date": "2026-08-19",
+      "raw_date": "2026-08-19T22:16:22Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.645401",
+  "metadata": {
+    "total_cves": 28,
+    "date_range": "2026-08-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

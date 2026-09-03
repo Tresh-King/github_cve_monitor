@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-28",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[INFOKOM-KI/Zimbra-CVE-2026-73570-Rules](https://github.com/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules)",
+      "description": "Wazuh Rules for Detection Zimbra (CVE-2026-73570).",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T10:37:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-70463",
+      "repo_info": "[Fyyre/CVE-2026-70463](https://github.com/Fyyre/CVE-2026-70463)",
+      "description": "Testing CVE-2026-70463 by Fyyre",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T04:31:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-66384",
+      "repo_info": "[HORKimhab/CVE-2026-66384](https://github.com/HORKimhab/CVE-2026-66384)",
+      "description": "CVE-2026-66384 - Draft or TODO",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T16:06:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-65643",
+      "repo_info": "[HORKimhab/CVE-2026-65643](https://github.com/HORKimhab/CVE-2026-65643)",
+      "description": "CVE-2026-65643 - Draft or TODO",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T09:47:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-52923",
+      "repo_info": "[Hari-v542/CVE-2026-52923](https://github.com/Hari-v542/CVE-2026-52923)",
+      "description": "no description",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T07:37:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-50751",
+      "repo_info": "[e4zyy/Project-CVE-2026-50751](https://github.com/e4zyy/Project-CVE-2026-50751)",
+      "description": "IKEv1 VPN scanners, attempts a Check Point authentication-bypass exploit, and includes internal network scanning and reverse-shell features.",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T11:04:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-46339",
+      "repo_info": "[SimoesCTT/CTT-Enhanced-CVE-2026-46339-Exploit-Engine](https://github.com/SimoesCTT/CTT-Enhanced-CVE-2026-46339-Exploit-Engine)",
+      "description": "A specialized Python framework that executes unauthenticated remote code execution via the 9Router Model Context Protocol (MCP) bridge by deploying a 33-layer temporal phase cascade, Riemann-Hadamard dispersion, and an 11 ns wedge filter to bypass traditional proxy and process-monitoring defenses.",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T10:58:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[abdgalaxy36-code/rmgp-complete-handoff](https://github.com/abdgalaxy36-code/rmgp-complete-handoff)",
+      "description": "Complete RMGP (CVE-2026-43499) workspace + experiment-state handoff for SM-A376B/A376BXXU1AZB7",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T19:08:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-33057",
+      "repo_info": "[hackpatato/CVE-2026-33057---Mesop-Unauthenticated-RCE-PoC-and-yara-rules](https://github.com/hackpatato/CVE-2026-33057---Mesop-Unauthenticated-RCE-PoC-and-yara-rules)",
+      "description": "CVE-2026-33057 - Mesop Unauthenticated RCE PoC and yara rules",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T13:22:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[ahseven/CVE-2026-33017-PoC-Reverse-Shell](https://github.com/ahseven/CVE-2026-33017-PoC-Reverse-Shell)",
+      "description": "CVE-2026-33017 PoC Reverse Shell",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T13:44:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[e4zyy/Project-CVE-2026-33017](https://github.com/e4zyy/Project-CVE-2026-33017)",
+      "description": "CVE-2026-33017 - Langflow Unauthenticated RCE Exploit",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T06:38:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[iLokaas/CVE-2026-24061-payload](https://github.com/iLokaas/CVE-2026-24061-payload)",
+      "description": "A PoC exploit for CVE-2026-24061 - GNU InetUtils telnetd Argument Injection Authentication Bypass",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T20:14:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-23751",
+      "repo_info": "[SieBRUM/CVE-2026-23751-poc](https://github.com/SieBRUM/CVE-2026-23751-poc)",
+      "description": "Patched RemotingClient to exploit CVE-2026-23751 (Tungsten Automation - Kofax Capture Unauthenticated File Read/Write, Remote Code Execution and SMB coercion via .NET HTTP Remoting)",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T08:22:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-20131",
+      "repo_info": "[Jwa7470/CVE-2026-20131-Post-Incident-Written-Report](https://github.com/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report)",
+      "description": "Post-incident report on CVE-2026-20131 (CVSS 10.0), a Cisco FMC insecure deserialization vulnerability exploited by Interlock ransomware. Details root-cause analysis, lateral movement tactics, and emergency containment strategies.",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T00:24:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-19295",
+      "repo_info": "[rmhowe425/POC-CVE-2026-19295](https://github.com/rmhowe425/POC-CVE-2026-19295)",
+      "description": "no description",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T20:59:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[ipisav/fastjson-cve](https://github.com/ipisav/fastjson-cve)",
+      "description": "fastjson-cve-2026-16723",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T08:29:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-10036",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-10036-speechbrain-rce](https://github.com/SaiTeja-Erukude/CVE-2026-10036-speechbrain-rce)",
+      "description": "SpeechBrain &lt; 1.1.1 checkpoint metadata RCE via unsafe PyYAML parsing of CKPT.yaml.",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T12:32:50Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.646999",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2026-08-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

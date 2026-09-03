@@ -1,0 +1,230 @@
+{
+  "date": "2026-08-25",
+  "count": 31,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-75604",
+      "repo_info": "[rafabd1/CVE-2026-75604-poc](https://github.com/rafabd1/CVE-2026-75604-poc)",
+      "description": "CVE-2026-75604 Next.js Windows RCE poc",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T19:06:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-74970",
+      "repo_info": "[defineid/Trespasser](https://github.com/defineid/Trespasser)",
+      "description": "CVE-2026-74970, Fission site isolation bypass in Firefox WebRender",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T10:47:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-74945",
+      "repo_info": "[defineid/Palimpsest](https://github.com/defineid/Palimpsest)",
+      "description": "CVE-2026-74945, Uninitialized heap disclosure via a crafted web font (sec-high)",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T10:46:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-74943",
+      "repo_info": "[defineid/Revenant](https://github.com/defineid/Revenant)",
+      "description": "CVE-2026-74943, Use after free in Firefox RasterImage (sec-high)",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T10:46:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[jishino567/CVE-2026-73570](https://github.com/jishino567/CVE-2026-73570)",
+      "description": "PoC for CVE-2026-73570 (Zimbra SMTP Command Injection)",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T10:25:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-72530",
+      "repo_info": "[fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-](https://github.com/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-)",
+      "description": "Este repositorio contiene una demostración educativa de la mitigación y detección para **CVE-2026-72530**, una vulnerabilidad crítica de **Code Injection y Sandbox Escape** en TrueConf Server.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T21:14:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-68820",
+      "repo_info": "[maxprog-svg/CVE-2026-68820_Mass_Exploit](https://github.com/maxprog-svg/CVE-2026-68820_Mass_Exploit)",
+      "description": "CVE-2026-68820 — Mass Exploit Framework Edition.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T17:59:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-6765",
+      "repo_info": "[defineid/SkeletonKey](https://github.com/defineid/SkeletonKey)",
+      "description": "CVE-2026-6765, Test only FormAutofill handlers exposed in Firefox",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T10:46:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-62735",
+      "repo_info": "[nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)",
+      "description": "CVE 1-day in http.sys",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T04:55:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[fevar54/cve-2026-60004](https://github.com/fevar54/cve-2026-60004)",
+      "description": "CVE-2026-60004 es una vulnerabilidad crítica (CVSS 9.8) en Gitea que permite ejecución remota de código sin autenticación mediante el endpoint `/api/v1/repos/{owner}/{repo}/diffpatch`.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T18:09:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-58073",
+      "repo_info": "[BishopFox/CVE-2026-58073-check](https://github.com/BishopFox/CVE-2026-58073-check)",
+      "description": "Safely detect Veeam Service Provider Console auth bypass CVE-2026-58073",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T17:35:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-56705",
+      "repo_info": "[Boreas37/CVE-2026-56705](https://github.com/Boreas37/CVE-2026-56705)",
+      "description": "CVE-2026-56705 - Adminer &lt; 5.4.3 unauthenticated RCE via MSSQL PDO DSN injection (ODBC TraceFile arbitrary file write). PoC, Docker lab and negative test included.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T20:59:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-5281",
+      "repo_info": "[jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain](https://github.com/jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain)",
+      "description": "no description",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T03:27:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-4692",
+      "repo_info": "[SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm](https://github.com/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm)",
+      "description": "Firefox BrowsingContext field-sync authz bypass (N-day, bug 2017643): forged PContent::CommitBrowsingContextTransaction sets InRDMPane=true from a compromised content process - parent applies it. Prerequisite primitive for privileged-UI touch-event injection.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T12:53:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[JingMatrix/pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root)",
+      "description": "adb-driven KernelSU loader for stock Google Pixel: temporary kernel R/W via CVE-2026-43499 (GhostLock), then late-loads a signature-matched kernelsu.ko for the running KMI. Manager-agnostic.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T11:59:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[zenyxx-xd/RootMyVivo](https://github.com/zenyxx-xd/RootMyVivo)",
+      "description": "One-click root for vivo/iQOO devices on locked bootloader - CVE-2026-43499 + KernelSU",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T07:52:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[sgswzglwlx/vivo-root-build](https://github.com/sgswzglwlx/vivo-root-build)",
+      "description": "vivo/iQOO 提权 so 编译（CVE-2026-43499）",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T21:31:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-41551",
+      "repo_info": "[selecthch/CVE-2026-41551](https://github.com/selecthch/CVE-2026-41551)",
+      "description": "ROS# 路径遍历漏洞(CVE-2026-41551)",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T05:12:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-39154",
+      "repo_info": "[defineid/Wildfire](https://github.com/defineid/Wildfire)",
+      "description": "CVE-2026-39154, Stored XSS in CometChat JS SDK",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T10:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-36425",
+      "repo_info": "[gongchuang1089/EDRKiller](https://github.com/gongchuang1089/EDRKiller)",
+      "description": "Use cve-2026-36425 killer edr，360 can killer",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T10:12:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-32635",
+      "repo_info": "[fevar54/CVE-2026-32635-Angular-XSS-Mitigation-](https://github.com/fevar54/CVE-2026-32635-Angular-XSS-Mitigation-)",
+      "description": "Demostracion educativa de mitigacion y deteccion de CVE-2026-32635: XSS en atributos i18n de Angular.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T15:38:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[Boreas37/CVE-2026-32475-PoC](https://github.com/Boreas37/CVE-2026-32475-PoC)",
+      "description": "PoC for CVE-2026-32475: Elementor Pro &lt;=4.2.1 unauthenticated file upload to RCE. Stdlib-only Python.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T01:20:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-26211",
+      "repo_info": "[LindHunt/CVE-2026-26211](https://github.com/LindHunt/CVE-2026-26211)",
+      "description": "Public disclosure for CVE-2026-26211, a stored XSS vulnerability affecting Ekushey Project Manager CRM v5.0.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T15:05:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[prot0tw/Keycloak_CVE-2026-18963_PoC](https://github.com/prot0tw/Keycloak_CVE-2026-18963_PoC)",
+      "description": "This repo is poc of cve-2026-18963. Please use it on legal products (lab, local,...).",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T02:28:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[debugactiveprocess/CVE-2026-18963](https://github.com/debugactiveprocess/CVE-2026-18963)",
+      "description": "Nuclei template to discover Keycloak reset-credentials endpoints related to CVE-2026-18963 exposure validation.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T16:48:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[gman0x00/keycloak-CVE-2026-18963](https://github.com/gman0x00/keycloak-CVE-2026-18963)",
+      "description": "PoC, Dockerfile playground and root cause from patch diff analysis.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T15:05:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[BlackHatExploitation/Exploit-For-CVE-2026-18963](https://github.com/BlackHatExploitation/Exploit-For-CVE-2026-18963)",
+      "description": "Exploit for CVE-2026-18963 by BlackHatExploitation",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T05:39:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-17532",
+      "repo_info": "[kalhoralireza/CVE-2026-17532-lab](https://github.com/kalhoralireza/CVE-2026-17532-lab)",
+      "description": "CVE-2026-17532 Docker Lab.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T13:47:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-16348",
+      "repo_info": "[Slagzz/CVE-2026-16348](https://github.com/Slagzz/CVE-2026-16348)",
+      "description": "TP-Link Archer BE800 V1 — VPN Key Injection RCE",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T02:56:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-15469",
+      "repo_info": "[tony102741/CVE-2026-15469](https://github.com/tony102741/CVE-2026-15469)",
+      "description": "CVE-2026-15469 — Hard-coded RSA-512 mesh group private key in TP-Link Deco XE75/XE5300/WE10800 (CWE-321). Advisory, analysis &amp; PoC methodology (EN/KO).",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T02:45:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-12295",
+      "repo_info": "[SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm](https://github.com/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm)",
+      "description": "Firefox content-&gt;parent srcdoc forge (N-day, bug 2040160): forged PDocumentChannel with SrcdocData on a non-about:srcdoc URI -&gt; attacker HTML served at victim origin (UXSS), via mojo-port send-path injection from a compromised content process",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T00:27:22Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.646504",
+  "metadata": {
+    "total_cves": 31,
+    "date_range": "2026-08-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

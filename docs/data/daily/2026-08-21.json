@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-21",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-76565",
+      "repo_info": "[toanln-cov/CVE-2026-76565](https://github.com/toanln-cov/CVE-2026-76565)",
+      "description": "Reflected XSS via price_from &amp; price_to Filter Parameters in PhocaCart",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T17:09:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-76564",
+      "repo_info": "[toanln-cov/CVE-2026-76564](https://github.com/toanln-cov/CVE-2026-76564)",
+      "description": "Stored XSS via User-Agent in Admin Order View in PhocaCart",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T17:13:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-76036",
+      "repo_info": "[Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android](https://github.com/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android)",
+      "description": "no description",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T15:13:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[HORKimhab/CVE-2026-73570](https://github.com/HORKimhab/CVE-2026-73570)",
+      "description": "CVE-2026-73570",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T03:18:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-69836",
+      "repo_info": "[sentinel-aidefense/CVE-2026-69836-EXP](https://github.com/sentinel-aidefense/CVE-2026-69836-EXP)",
+      "description": "CVE-2026-69836 — Unauthenticated RCE via Entra ID deserialization",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T22:36:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-69836",
+      "repo_info": "[HORKimhab/CVE-2026-69836](https://github.com/HORKimhab/CVE-2026-69836)",
+      "description": "CVE-2026-69836 - Draft or TODO",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T06:20:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-69191",
+      "repo_info": "[fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass](https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass)",
+      "description": "Security research and technical analysis of CVE-2026-69191 affecting FileRise up to version 3.20.0.",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T07:50:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-67358",
+      "repo_info": "[murrez/CVE-J2store-2026](https://github.com/murrez/CVE-J2store-2026)",
+      "description": "PoC for J2Store CVE-2026-67358–67362 (J2Commerce security advisory Aug 2026)",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T18:49:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-65400",
+      "repo_info": "[panchocosil/CVE-2026-65400-poc](https://github.com/panchocosil/CVE-2026-65400-poc)",
+      "description": "Read-only PoC for CVE-2026-65400 — macOS Screen Sharing (screensharingd) pre-auth SRP bypass giving root file read. Patched in macOS 26.6.1 / 15.7.9 / 14.8.9.",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T18:22:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[G33l0/Cve-2026-64638](https://github.com/G33l0/Cve-2026-64638)",
+      "description": "Educational use only!",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T13:07:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[DeadExpl0it/wp2shell-poc](https://github.com/DeadExpl0it/wp2shell-poc)",
+      "description": "wp2shell — WordPress Core Pre-Auth RCE Chain poc for CVE-2026-63030 and CVE-2026-60137",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T04:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-58455",
+      "repo_info": "[Boreas37/CVE-2026-58455-PoC](https://github.com/Boreas37/CVE-2026-58455-PoC)",
+      "description": "PoC for CVE-2026-58455: Dockwatch &lt;=0.6.567 unauthenticated RCE. Stdlib-only Python.",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T17:20:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[CerberusMrXi/JCEzploit-CVE-2026-48907](https://github.com/CerberusMrXi/JCEzploit-CVE-2026-48907)",
+      "description": "JCEzploit is a powerful, fully-automated RCE exploit for Joomla JCE (CVE-2026-48907) featuring interactive shell, batch command execution, file download capability, and proxy support. Built with Python &amp; Rich for penetration testers. Ethical use only. By Sudeepa Wanigarathna.",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T17:33:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[snothin/ghostlock-s26](https://github.com/snothin/ghostlock-s26)",
+      "description": "GhostLock (CVE-2026-43499) for the Galaxy S26",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T14:29:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[villager1314/CVE-2026-43499-IQOO-Neo10-Analysis](https://github.com/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis)",
+      "description": "no description",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T12:56:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-41567",
+      "repo_info": "[berdav/CVE-2026-41567](https://github.com/berdav/CVE-2026-41567)",
+      "description": "CVE-2026-41567 1day",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T11:08:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-39113",
+      "repo_info": "[20000419/CVE-2026-39113](https://github.com/20000419/CVE-2026-39113)",
+      "description": "CVE-2026-39113: SQLite SQLAR heap-buffer-overflow advisory and reproducer",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T08:34:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-33032",
+      "repo_info": "[Baba01hacker666/CVE-2026-33032](https://github.com/Baba01hacker666/CVE-2026-33032)",
+      "description": "no description",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T02:35:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE](https://github.com/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE)",
+      "description": "CVE-2026-32475 The Elementor Pro Forms File Upload field handles validation and file processing  in two separate loops with different handling of empty upload entries (UPLOAD_ERR_NO_FILE). An unauthenticated attacker can submit a multipart",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T20:51:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-19598",
+      "repo_info": "[sag-asab/CVE-2026-19598](https://github.com/sag-asab/CVE-2026-19598)",
+      "description": "Custom Content Types and Fields plugin for WordPress",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T13:06:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-0073",
+      "repo_info": "[aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass)",
+      "description": "Research on CVE-2026-0073. An auth bypass allowing any attacker with local network access to connect to an Android device with dev tools and wireless debugging or ADB-over-TCP enabled. Device needs to have been paired before.  This has been tested working on Android 14 in Android Studio. Should work on others as well but exploitability may vary.",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T16:53:02Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.645717",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2026-08-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

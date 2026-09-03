@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-01",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-67206",
+      "repo_info": "[anirbala98/CVE-2026-67206](https://github.com/anirbala98/CVE-2026-67206)",
+      "description": "Wolf CMS &lt;= 0.8.3.1 - RCE via Arbitrary File Write",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T18:07:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[1ndevelopment/CVE-2026-43499-S26](https://github.com/1ndevelopment/CVE-2026-43499-S26)",
+      "description": "Root prototype for Galaxy S26 (SM-S942U) that is very much indev. If you&#x27;re expecting this to work, it doesn&#x27;t.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T22:45:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-12478",
+      "repo_info": "[Popy21/security-research](https://github.com/Popy21/security-research)",
+      "description": "Vulnerability research write-ups — CVE-2026-12478 (libsoup), Apple WebKit, Google VRP",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T11:25:16Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644190",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-08-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

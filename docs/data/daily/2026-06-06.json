@@ -1,7 +1,14 @@
 {
   "date": "2026-06-06",
-  "count": 3,
+  "count": 4,
   "cves": [
+    {
+      "cve_id": "CVE-2026-76060",
+      "repo_info": "[investigato/CVE-2026-76060_ZoneMinder_CommandInjection-PoC](https://github.com/investigato/CVE-2026-76060_ZoneMinder_CommandInjection-PoC)",
+      "description": "CVE-2026-76060 PoC for a ZoneMinder vulnerability leading to RCE",
+      "date": "2026-06-06",
+      "raw_date": "2026-06-06T17:54:04Z"
+    },
     {
       "cve_id": "CVE-2026-24061",
       "repo_info": "[tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)",
@@ -24,9 +31,9 @@
       "raw_date": "2026-06-06T07:25:49Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.136120",
+  "generated_at": "2026-09-03T02:24:47.634883",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-06-06",
     "source": "README.md",
     "script_version": "2.0"

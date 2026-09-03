@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-20",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8452",
+      "repo_info": "[BishopFox/CVE-2026-8452-check](https://github.com/BishopFox/CVE-2026-8452-check)",
+      "description": "Safely detect Citrix NetScaler CVE-2026-8452",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T11:24:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-8181",
+      "repo_info": "[0xTerror/CVE-2026-8181](https://github.com/0xTerror/CVE-2026-8181)",
+      "description": "no description",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T04:59:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-71960",
+      "repo_info": "[Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt](https://github.com/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt)",
+      "description": "no description",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T15:22:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[mhassani97/cve-2026-63030-lab](https://github.com/mhassani97/cve-2026-63030-lab)",
+      "description": "wp2shell (CVE-2026-63030 &amp; CVE-2026-60137) - full RCE chain",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T12:26:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-46242",
+      "repo_info": "[BinaryMasc/CVE-2026-46242](https://github.com/BinaryMasc/CVE-2026-46242)",
+      "description": "aarch64 race condition checker",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T01:07:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[Neccie/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Neccie/YellowKey-Bitlocker-CVE-2026-45585)",
+      "description": "Manage BitLocker recovery keys, unlock encrypted drives, and monitor encryption status with this lightweight Windows utility.",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T01:21:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[SetsuNeko/GhostLock_MT6983V_5.10](https://github.com/SetsuNeko/GhostLock_MT6983V_5.10)",
+      "description": "High-risk vulnerability CVE-2026-43499, implementation on the 5.10 kernel and MediaTek MT6983V",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T15:48:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[dodeepsink/CVE-2026-39987.py](https://github.com/dodeepsink/CVE-2026-39987.py)",
+      "description": "This python script exploit the vulnerable marimo /terminal/ws endpoint and returns a interactive shell.",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T19:25:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-2796",
+      "repo_info": "[SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box](https://github.com/SneakyNachos/CVE-2026-2796-and-CVE-2026-2768-escape-the-wasm-box)",
+      "description": "Full Firefox chain: CVE-2026-2796 wasm type confusion -&gt; content-process RCE, plus CVE-2026-2768 parent-process escape analysis (both fixed in Firefox 148)",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T22:14:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-2796",
+      "repo_info": "[SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm](https://github.com/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm)",
+      "description": "PoC exploit chain for CVE-2026-2796: SpiderMonkey WebAssembly sandbox escape (signature type confusion -&gt; arbitrary R/W -&gt; RCE)",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T02:42:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-24301",
+      "repo_info": "[CSOAI-ORG/memory-poisoning-axis](https://github.com/CSOAI-ORG/memory-poisoning-axis)",
+      "description": "Deterministic memory-poisoning / prompt-injection measurement axis — CoSnitch (CVE-2026-24301) anchored. Inspect scorer, signed receipts. Measurement, not certification.",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T11:25:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[n0xdaemon/cve-2026-19478](https://github.com/n0xdaemon/cve-2026-19478)",
+      "description": "CVE-2026-19478: GitLab GraphQL Vulnerability PoC",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T20:26:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)",
+      "description": "Hunt for CVE-2026-18963 exploitation traces (Keycloak unauthenticated account takeover) in the Keycloak database",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T09:25:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[Snizi/CVE-2026-18963-Exploit](https://github.com/Snizi/CVE-2026-18963-Exploit)",
+      "description": "Exploit for KeyCloak CVE-2026-18963",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T22:01:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-18366",
+      "repo_info": "[ghostpels/CVE-2026-18366](https://github.com/ghostpels/CVE-2026-18366)",
+      "description": "CVE-2026-18366: Events Manager &lt; 7.4.1 — Unauthenticated Privilege Escalation to Administrator. Write-up and proof-of-concept (poc.py).",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T18:32:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-18315",
+      "repo_info": "[nastar-id/CVE-2026-18315-PoC](https://github.com/nastar-id/CVE-2026-18315-PoC)",
+      "description": "Proof-of-concept for CVE-2026-18315 (TrueBooker WordPress Plugin): Unauthenticated Authorization Bypass Through User-Controlled Key to Account Takeover",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T17:33:36Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.645587",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2026-08-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

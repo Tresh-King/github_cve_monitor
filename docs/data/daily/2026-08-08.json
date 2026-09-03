@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U)",
+      "description": "CVE-2026-43499 full exploit chain for Samsung Galaxy S22 Ultra (Android 5.10 kernel)",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T23:35:25Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644520",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-08-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

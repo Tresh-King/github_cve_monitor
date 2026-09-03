@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-15",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9830",
+      "repo_info": "[opaxial/CVE-2026-9830](https://github.com/opaxial/CVE-2026-9830)",
+      "description": "CVE-2026-9830 Proof of Concept",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T20:57:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-9147",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-9147-uproot-rce](https://github.com/SaiTeja-Erukude/CVE-2026-9147-uproot-rce)",
+      "description": "uproot &lt;= 5.7.4 code injection via unsafe Python source generation from ROOT TStreamerInfo metadata.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T21:58:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-78906",
+      "repo_info": "[vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection](https://github.com/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection)",
+      "description": "AI Infrastructure Vulnerability Research. CVE-2026-78906: Prompt injection and memory exfiltration in OpenAI&#x27;s ChatGPT API.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T18:05:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-58231",
+      "repo_info": "[HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)",
+      "description": "CVE-2026-58231 Detection &amp; Confirmation Script",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T11:39:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-47103",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-47103-python-statemachine-rce](https://github.com/SaiTeja-Erukude/CVE-2026-47103-python-statemachine-rce)",
+      "description": "Python StateMachine 3.0.0 &lt; 3.2.0 RCE via unsafe SCXML &lt;data expr&gt; evaluation and Python eval() injection.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T21:25:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[knowlily/cve-2026-43499-honor](https://github.com/knowlily/cve-2026-43499-honor)",
+      "description": "CVE-2026-43499 (GhostLock) rt_mutex stack-UAF privilege escalation research on Honor BVL-AN16 (Magic6 Pro, SM8650, kernel 6.1.128). Includes analysis docs, reverse-engineering scripts, disassembly artifacts, and exploit source with honor-BVL-AN16 target adaptation.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T15:18:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[CamsShaft/IonStack-S22-cve-2026-43499](https://github.com/CamsShaft/IonStack-S22-cve-2026-43499)",
+      "description": "Full root in kernel domain with selinux permissive **MOVED TO THIS REPO https://github.com/CamsShaft/IonStack-S22 WILL DELETE THIS ONE SOON**",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T04:49:27Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644905",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2026-08-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

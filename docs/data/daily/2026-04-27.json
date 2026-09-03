@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-38934",
@@ -8,11 +8,18 @@
       "description": "Multiple CVEs (CVE-2026-38934, CVE-2026-38935, CVE-2026-38936) discovered in diskover-community including CSRF and XSS vulnerabilities with proof-of-concept and impact analysis.",
       "date": "2026-04-27",
       "raw_date": "2026-04-27T08:57:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-34220",
+      "repo_info": "[EQSTLab/CVE-2026-34220](https://github.com/EQSTLab/CVE-2026-34220)",
+      "description": "SQL Injection vulnerability in MikroORM",
+      "date": "2026-04-27",
+      "raw_date": "2026-04-27T04:30:33Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.133209",
+  "generated_at": "2026-09-03T02:24:47.632266",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-04-27",
     "source": "README.md",
     "script_version": "2.0"

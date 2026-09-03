@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-18",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9254",
+      "repo_info": "[Slagzz/CVE-2026-9254](https://github.com/Slagzz/CVE-2026-9254)",
+      "description": "TP-Link Archer BE800 V1 — Parental Control LAN RCE",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T00:52:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-77113",
+      "repo_info": "[0xROI/CVE-2026-77113](https://github.com/0xROI/CVE-2026-77113)",
+      "description": "no description",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T20:05:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-69414",
+      "repo_info": "[1neptune/ShieldBreak](https://github.com/1neptune/ShieldBreak)",
+      "description": "Windows Defender 0day vulnerability  CVE-2026-69414  ShieldBreak",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T07:09:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-65400",
+      "repo_info": "[HORKimhab/CVE-2026-65400](https://github.com/HORKimhab/CVE-2026-65400)",
+      "description": "CVE-2026-65400",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T01:45:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-64849",
+      "repo_info": "[codeb0ssx/CVE-2026-64849-PoC](https://github.com/codeb0ssx/CVE-2026-64849-PoC)",
+      "description": "no description",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T22:22:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[kaleth4/CVE-2026-64638](https://github.com/kaleth4/CVE-2026-64638)",
+      "description": "no description",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T21:24:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-62737",
+      "repo_info": "[loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)",
+      "description": "CVE-2026-62737 ExecutionContext.sys arbitrary kernel-call PoC",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T20:16:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-44848",
+      "repo_info": "[Boreas37/CVE-2026-44848-PoC](https://github.com/Boreas37/CVE-2026-44848-PoC)",
+      "description": "PoC for CVE-2026-44848: Portainer missing authorization on Docker plugin endpoints -&gt; host RCE (GHSA-rrmm-9v76-h3p4). Stdlib-only Python.",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T22:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-44578",
+      "repo_info": "[lxxexxbxx/CVE-2026-44578](https://github.com/lxxexxbxx/CVE-2026-44578)",
+      "description": "CVE-2026-44578 PoC",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T14:37:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[gitchw/ghostlock-cve-2026-43499](https://github.com/gitchw/ghostlock-cve-2026-43499)",
+      "description": "CVE-2026-43499 (GhostLock) — Linux kernel futex PI rt_mutex UAF ARM32 privilege escalation research targeting Huawei Watch 4 Pro (kernel 5.4.210)",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T12:54:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-32128",
+      "repo_info": "[qianlijaingshan/fastgpt-sandbox-audit](https://github.com/qianlijaingshan/fastgpt-sandbox-audit)",
+      "description": "FastGPT Python sandbox escape chain audit tool (CVE-2026-32128 related, v4.14.8 inspect chain)",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T10:22:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-19598",
+      "repo_info": "[ksotaria1337/CVE-2026-19598](https://github.com/ksotaria1337/CVE-2026-19598)",
+      "description": "no description",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T15:16:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-19501",
+      "repo_info": "[typedefabcd1234ntd/CVE-2026-19501-poc](https://github.com/typedefabcd1234ntd/CVE-2026-19501-poc)",
+      "description": "CVE-2026-19501 poc",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T15:15:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-19500",
+      "repo_info": "[typedefabcd1234ntd/CVE-2026-19500-poc](https://github.com/typedefabcd1234ntd/CVE-2026-19500-poc)",
+      "description": "CVE-2026-19500 poc",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T15:16:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[dinosn/gitlab-cve-2026-19478-lab](https://github.com/dinosn/gitlab-cve-2026-19478-lab)",
+      "description": "Reproducible A/B lab + safe PoC for GitLab CVE-2026-19478 / CVE-2026-19650 (GraphQL @gl_introduced)",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T10:50:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[davkharrr/CVE-2026-19478-PoC](https://github.com/davkharrr/CVE-2026-19478-PoC)",
+      "description": "CVE-2026-19478 PoC . Unauthenticated remote code-injection in GitLab&#x27;s GraphQL layer",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T07:14:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-15748",
+      "repo_info": "[yora1928/cve-2026-15748](https://github.com/yora1928/cve-2026-15748)",
+      "description": "CVE-2026-15748 - Unauthenticated RCE exploit for WordPress Forminator plugin (≤1.56.1). Automated detection, deep crawl, nonce extraction, and safe upload test. For authorized testing only.",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T14:44:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-14669",
+      "repo_info": "[HackSpeak/CVE-2026-14669](https://github.com/HackSpeak/CVE-2026-14669)",
+      "description": "CVE-2026-14669 - PostgreSQL to_char() timezone abbreviation heap buffer overflow PoC; for authorized security testing",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T11:37:14Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.645269",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2026-08-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

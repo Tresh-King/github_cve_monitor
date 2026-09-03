@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-47301",
+      "repo_info": "[OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit](https://github.com/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit)",
+      "description": "Proof-of-concept exploit chain (CVE-2026-47301) for Microsoft Configuration Manager (SCCM), combining a broken access, CAB arbitrary-write path traversal, certificate verification bypass, and DLL hijacking to achieve SYSTEM-level code execution.",
+      "date": "2026-08-03",
+      "raw_date": "2026-08-03T15:29:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-3611",
+      "repo_info": "[spinfosecurity/BAS-Guardian](https://github.com/spinfosecurity/BAS-Guardian)",
+      "description": "Free BACnet/BMS vulnerability scanner for building automation systems. Detects CVE-2026-3611 (CVSS 10.0), CVE-2026-24060, and exposed HVAC/BAS controllers via PowerShell or Bash.",
+      "date": "2026-08-03",
+      "raw_date": "2026-08-03T02:31:36Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644330",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-08-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

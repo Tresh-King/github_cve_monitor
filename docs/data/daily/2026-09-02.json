@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-02",
+  "count": 29,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9586",
+      "repo_info": "[HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)",
+      "description": "CVE-2026-9586 - Draft or TODO",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T07:18:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-9335",
+      "repo_info": "[paparojonathan/CVE-2026-9335-keras-hdf5-externallink](https://github.com/paparojonathan/CVE-2026-9335-keras-hdf5-externallink)",
+      "description": "CVE-2026-9335: KerasFileEditor and load_weights follow h5py ExternalLinks, disclosing arbitrary local HDF5 file contents in keras ≤ 3.14.0. Advisory + verified PoCs.",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T19:35:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-9055",
+      "repo_info": "[EXEcution-py/CVE-2026-9055](https://github.com/EXEcution-py/CVE-2026-9055)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T18:17:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-84361",
+      "repo_info": "[Saku0512/CVE-2026-84361-poc](https://github.com/Saku0512/CVE-2026-84361-poc)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T05:07:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass](https://github.com/ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass)",
+      "description": "CVE-2026-82329 — JFrog Artifactory (self-hosted)  Auth Bypass",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T20:14:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py](https://github.com/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py)",
+      "description": "CVE-2026-82329 — JFrog Artifactory unauthenticated authentication bypass (&quot;phantom join key&quot; -&gt; forged service admin token)",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T06:52:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-7899",
+      "repo_info": "[HORKimhab/CVE-2026-7899](https://github.com/HORKimhab/CVE-2026-7899)",
+      "description": "CVE-2026-7899 - Draft or TODO",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T08:43:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-78839",
+      "repo_info": "[nabeelmkhan/CVE-2026-78839](https://github.com/nabeelmkhan/CVE-2026-78839)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T10:45:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-78838",
+      "repo_info": "[nabeelmkhan/CVE-2026-78838](https://github.com/nabeelmkhan/CVE-2026-78838)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T05:25:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-78837",
+      "repo_info": "[nabeelmkhan/CVE-2026-78837](https://github.com/nabeelmkhan/CVE-2026-78837)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T03:36:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[byt3l0rd/CVE-2026-73570](https://github.com/byt3l0rd/CVE-2026-73570)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T17:33:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-73296",
+      "repo_info": "[0xBlackash/CVE-2026-73296](https://github.com/0xBlackash/CVE-2026-73296)",
+      "description": "CVE-2026-73296",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T17:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-71981",
+      "repo_info": "[lyn4r/CVE-2026-71981](https://github.com/lyn4r/CVE-2026-71981)",
+      "description": "Cypht CVE-2026-71981 PoC",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T13:33:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-65349",
+      "repo_info": "[ByteV0rtex/CVE-2026-65349](https://github.com/ByteV0rtex/CVE-2026-65349)",
+      "description": "CVE-2026-65349 PoC — getattrlist OOB write in vfs_attr_pack_internal (iOS 26.6 / 23G71)",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T20:12:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-65343",
+      "repo_info": "[ByteV0rtex/CVE-2026-65343](https://github.com/ByteV0rtex/CVE-2026-65343)",
+      "description": "CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T20:12:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-65330",
+      "repo_info": "[ByteV0rtex/CVE-2026-65330](https://github.com/ByteV0rtex/CVE-2026-65330)",
+      "description": "CVE-2026-65330 PoC — setxattr PAC bypass via fixed #0x307a diversifier (iOS 26.6 / 23G71)",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T20:11:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-64788",
+      "repo_info": "[ByteV0rtex/CVE-2026-64788](https://github.com/ByteV0rtex/CVE-2026-64788)",
+      "description": "CVE-2026-64788 PoC — IOGPUFamily Use-After-Free (iOS 26.6 / 23G71)",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T20:11:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-63828",
+      "repo_info": "[4n4s4zi/tfo-connect-bypass](https://github.com/4n4s4zi/tfo-connect-bypass)",
+      "description": "Bypassing connect()-based syscall rules using TCP Fast Open (CVE-2026-63828 PoC)",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T21:23:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-58231",
+      "repo_info": "[SAP-system-update/CVE-2026-58231](https://github.com/SAP-system-update/CVE-2026-58231)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T08:52:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-5027",
+      "repo_info": "[rmhowe425/POC-CVE-2026-5027](https://github.com/rmhowe425/POC-CVE-2026-5027)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T13:29:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-5006",
+      "repo_info": "[tcollins-hashicorp/vault-cve-2026-5006-audit](https://github.com/tcollins-hashicorp/vault-cve-2026-5006-audit)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T22:59:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-38577",
+      "repo_info": "[poxsky/CVE-2026-38577-by-deepak-Anmol](https://github.com/poxsky/CVE-2026-38577-by-deepak-Anmol)",
+      "description": "CVE-2026-38577",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T20:00:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-24423",
+      "repo_info": "[CyberAlp0/SmarterMail-CVE-2026-24423](https://github.com/CyberAlp0/SmarterMail-CVE-2026-24423)",
+      "description": "Exploit for CVE-2026-24423 — a critical unauthenticated RCE in SmarterMail&#x27;s ConnectToHub API. Affects all builds prior to 9511.",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T12:39:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-19490",
+      "repo_info": "[TarPeg007/CVE-2026-19490](https://github.com/TarPeg007/CVE-2026-19490)",
+      "description": "NetScaler ADC/Gateway SAML unsigned-assertion bypass via HTTP-Redirect binding (CTX696939) - root cause analysis + PoC",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T15:43:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-1555",
+      "repo_info": "[katranSefa/CVE-2026-1555](https://github.com/katranSefa/CVE-2026-1555)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T10:05:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-0920",
+      "repo_info": "[katranSefa/CVE-2026-0920](https://github.com/katranSefa/CVE-2026-0920)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T15:12:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-0828",
+      "repo_info": "[ximerag/dast](https://github.com/ximerag/dast)",
+      "description": "CVE-2026-0828",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T13:39:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-0769",
+      "repo_info": "[rmhowe425/POC-CVE-2026-0769](https://github.com/rmhowe425/POC-CVE-2026-0769)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T23:34:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-0768",
+      "repo_info": "[rmhowe425/POC-CVE-2026-0768](https://github.com/rmhowe425/POC-CVE-2026-0768)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T20:46:12Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.647638",
+  "metadata": {
+    "total_cves": 29,
+    "date_range": "2026-09-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

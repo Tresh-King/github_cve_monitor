@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-39938",
@@ -8,11 +8,18 @@
       "description": "Pre-authentication Local File Inclusion",
       "date": "2026-04-04",
       "raw_date": "2026-04-04T07:54:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-39902",
+      "repo_info": "[kx00007/CVE-2026-39902](https://github.com/kx00007/CVE-2026-39902)",
+      "description": "5th RCE OS Command Injection on Data Input",
+      "date": "2026-04-04",
+      "raw_date": "2026-04-04T07:57:40Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.132366",
+  "generated_at": "2026-09-03T02:24:47.631286",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-04-04",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-13",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-34344",
+      "repo_info": "[nhh9905/CVE-2026-34344](https://github.com/nhh9905/CVE-2026-34344)",
+      "description": "CVE 1-day in afd.sys",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T01:30:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[lxxexxbxx/CVE-2026-33017](https://github.com/lxxexxbxx/CVE-2026-33017)",
+      "description": "CVE-2026-33017: Langflow Unauthenticated RCE PoC",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T14:06:09Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644791",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-08-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

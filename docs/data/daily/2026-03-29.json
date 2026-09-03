@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-29",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-26980",
+      "repo_info": "[vognik/CVE-2026-26980](https://github.com/vognik/CVE-2026-26980)",
+      "description": "💣 Exploit for CVE-2026-26980 — 👻 Ghost CMS Unauthenticated SQLi via Content API",
+      "date": "2026-03-29",
+      "raw_date": "2026-03-29T22:00:18Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.630913",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-03-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

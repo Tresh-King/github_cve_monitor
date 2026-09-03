@@ -1,0 +1,314 @@
+{
+  "date": "2026-08-24",
+  "count": 43,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-78329",
+      "repo_info": "[oscerd/CVE-2026-78329](https://github.com/oscerd/CVE-2026-78329)",
+      "description": "Reproducer for CVE-2026-78329 (Apache Camel camel-undertow header filter strategy not applied, websocket.* injection) — Camel Spring Boot",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T15:59:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-77806",
+      "repo_info": "[CuteeCat/CVE-2026-77806](https://github.com/CuteeCat/CVE-2026-77806)",
+      "description": "CVE-2026-77806漏洞检测代码",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T22:22:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-76639",
+      "repo_info": "[OlivierLaflamme/UniBLEed](https://github.com/OlivierLaflamme/UniBLEed)",
+      "description": "Unitree G1 RCE PoC &amp; Scripts (CVE-2026-76639 / CVE-2026-76640) technical details at boschko.ca/g1-ble-rce/",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T21:18:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-74939",
+      "repo_info": "[SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box](https://github.com/SneakyNachos/CVE-2026-74939-escape-the-mac-n-cheese-box)",
+      "description": "Firefox content-to-parent IPDL privilege escalation (N-day, bug 2054416): forged PDocumentChannel with RemoteTypeOverride -&gt; privilegedabout process placement, via mojo-port send-path injection from a compromised content process",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T20:07:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[BiuTrap/CVE-2026-73570](https://github.com/BiuTrap/CVE-2026-73570)",
+      "description": "CVE-2026-73570 PoC",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T11:55:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-71300",
+      "repo_info": "[oscerd/CVE-2026-71300](https://github.com/oscerd/CVE-2026-71300)",
+      "description": "Reproducer for CVE-2026-71300 (Apache Camel camel-atmosphere-websocket dispatch header injection) — Camel Spring Boot",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T15:54:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-68820",
+      "repo_info": "[fevar54/CVE-2026-68820-Mitigation-PoC-](https://github.com/fevar54/CVE-2026-68820-Mitigation-PoC-)",
+      "description": "Demostracion educativa de mitigacion de CVE-2026-68820: Use-After-Free en afd.sys de Windows.",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T14:57:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-66908",
+      "repo_info": "[oscerd/CVE-2026-66908](https://github.com/oscerd/CVE-2026-66908)",
+      "description": "Reproducer for CVE-2026-66908 (Apache Camel camel-platform-http-main JWT iss/aud not validated) — standalone camel-main",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T15:04:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-66907",
+      "repo_info": "[oscerd/CVE-2026-66907](https://github.com/oscerd/CVE-2026-66907)",
+      "description": "Reproducer for CVE-2026-66907 (Apache Camel camel-google-storage downloadFileName path traversal) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T15:23:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-66906",
+      "repo_info": "[oscerd/CVE-2026-66906](https://github.com/oscerd/CVE-2026-66906)",
+      "description": "Reproducer for CVE-2026-66906 (Apache Camel camel-azure-storage-blob downloadBlobToFile path traversal) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T15:29:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[xAL6/cve-2026-64638-banner-poc](https://github.com/xAL6/cve-2026-64638-banner-poc)",
+      "description": "no description",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T23:17:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-63621",
+      "repo_info": "[oscerd/CVE-2026-63621](https://github.com/oscerd/CVE-2026-63621)",
+      "description": "Reproducer for CVE-2026-63621 (Apache Camel camel-knative structured CloudEvent header injection) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T14:53:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-63039",
+      "repo_info": "[oscerd/CVE-2026-63039](https://github.com/oscerd/CVE-2026-63039)",
+      "description": "Reproducer for CVE-2026-63039 (Apache InLong AuditAlertRule MyBatis ORDER BY SQL injection via orderField/orderType)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T16:34:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-60093",
+      "repo_info": "[oscerd/CVE-2026-60093](https://github.com/oscerd/CVE-2026-60093)",
+      "description": "Reproducer for CVE-2026-60093 (Apache Camel camel-azure-storage-datalake downloadToFile path traversal) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T15:42:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-59230",
+      "repo_info": "[oscerd/CVE-2026-59230](https://github.com/oscerd/CVE-2026-59230)",
+      "description": "Reproducer for CVE-2026-59230 (Apache Camel camel-mail MimeMultipart headersInline header injection) — Camel Spring Boot + Camel Quarkus",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T14:36:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-43914",
+      "repo_info": "[Boreas37/CVE-2026-43914-PoC](https://github.com/Boreas37/CVE-2026-43914-PoC)",
+      "description": "PoC for CVE-2026-43914: Vaultwarden &lt;1.35.4 email-2FA brute-force bypass password oracle. Stdlib-only Python.",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T18:15:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[XiaoBaiLovesStirring/ghostlock-k419-adapter](https://github.com/XiaoBaiLovesStirring/ghostlock-k419-adapter)",
+      "description": "GhostLock (CVE-2026-43499) adapter for 4.19.152-perf+ Android kernel",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T10:30:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[slapah/ghostlock-h8q](https://github.com/slapah/ghostlock-h8q)",
+      "description": "GhostLock CVE-2026-43499 port for Galaxy Z Fold 8 (h8q)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T06:55:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-31337",
+      "repo_info": "[gduma-phData/patch-CVE-2026-31337](https://github.com/gduma-phData/patch-CVE-2026-31337)",
+      "description": "Patch: RCE via authentication bypass (Ivanti Connect Secure)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:01:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-28672",
+      "repo_info": "[oscerd/CVE-2026-28672](https://github.com/oscerd/CVE-2026-28672)",
+      "description": "Reproducer for CVE-2026-28672 (Apache Ranger UnixUserGroupBuilder OS command injection via username in the unixusersync module)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T16:29:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-28001",
+      "repo_info": "[gduma-phData/patch-CVE-2026-28001](https://github.com/gduma-phData/patch-CVE-2026-28001)",
+      "description": "Patch: Remote code execution in SPL parsing (Splunk Enterprise)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:01:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-22024",
+      "repo_info": "[gduma-phData/patch-CVE-2026-22024](https://github.com/gduma-phData/patch-CVE-2026-22024)",
+      "description": "Patch: Deserialization vulnerability (Oracle WebLogic Server)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-19843",
+      "repo_info": "[gduma-phData/patch-CVE-2026-19843](https://github.com/gduma-phData/patch-CVE-2026-19843)",
+      "description": "Patch: Privilege escalation via web UI (Cisco IOS XE)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-19679",
+      "repo_info": "[h00die/POC-CVE-2026-19679](https://github.com/h00die/POC-CVE-2026-19679)",
+      "description": "no description",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T10:33:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-19626",
+      "repo_info": "[h00die/POC-CVE-2026-19626](https://github.com/h00die/POC-CVE-2026-19626)",
+      "description": "no description",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T12:42:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[minh3102011/CVE-2026-18963_analyst](https://github.com/minh3102011/CVE-2026-18963_analyst)",
+      "description": "no description",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T08:49:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[Red-Darkin/CVE-2026-18963-keycloak](https://github.com/Red-Darkin/CVE-2026-18963-keycloak)",
+      "description": "CVE-2026-18963",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T23:40:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[T0w0T/POC-CVE-2026-18963](https://github.com/T0w0T/POC-CVE-2026-18963)",
+      "description": "no description",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T13:00:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-15502",
+      "repo_info": "[gduma-phData/patch-CVE-2026-15502](https://github.com/gduma-phData/patch-CVE-2026-15502)",
+      "description": "Patch: SSRF leading to RCE (Microsoft Exchange Server)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-14290",
+      "repo_info": "[gduma-phData/patch-CVE-2026-14290](https://github.com/gduma-phData/patch-CVE-2026-14290)",
+      "description": "Patch: Command injection in GlobalProtect (Palo Alto PAN-OS)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-12087",
+      "repo_info": "[gduma-phData/patch-CVE-2026-12087](https://github.com/gduma-phData/patch-CVE-2026-12087)",
+      "description": "Patch: Heap overflow in SSL-VPN (Fortinet FortiOS)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-11553",
+      "repo_info": "[gduma-phData/patch-CVE-2026-11553](https://github.com/gduma-phData/patch-CVE-2026-11553)",
+      "description": "Patch: Authentication bypass (VMware vCenter)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-10520",
+      "repo_info": "[imbas007/RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/imbas007/RCE-CVE-2026-10520-CVE-2026-10523)",
+      "description": "no description",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T13:19:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-10520",
+      "repo_info": "[gduma-phData/patch-CVE-2026-10520](https://github.com/gduma-phData/patch-CVE-2026-10520)",
+      "description": "Patch: OGNL injection (Apache Struts)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-09881",
+      "repo_info": "[gduma-phData/patch-CVE-2026-09881](https://github.com/gduma-phData/patch-CVE-2026-09881)",
+      "description": "Patch: Template injection RCE (Atlassian Confluence)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-08742",
+      "repo_info": "[gduma-phData/patch-CVE-2026-08742](https://github.com/gduma-phData/patch-CVE-2026-08742)",
+      "description": "Patch: Buffer overflow (Citrix ADC)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-07219",
+      "repo_info": "[gduma-phData/patch-CVE-2026-07219](https://github.com/gduma-phData/patch-CVE-2026-07219)",
+      "description": "Patch: iControl REST vulnerability (F5 BIG-IP)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-06555",
+      "repo_info": "[gduma-phData/patch-CVE-2026-06555](https://github.com/gduma-phData/patch-CVE-2026-06555)",
+      "description": "Patch: Path traversal (SonicWall SMA)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-05890",
+      "repo_info": "[gduma-phData/patch-CVE-2026-05890](https://github.com/gduma-phData/patch-CVE-2026-05890)",
+      "description": "Patch: Improper authentication (Juniper Junos)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-04321",
+      "repo_info": "[gduma-phData/patch-CVE-2026-04321](https://github.com/gduma-phData/patch-CVE-2026-04321)",
+      "description": "Patch: OS command injection (Zyxel firewall)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-03200",
+      "repo_info": "[gduma-phData/patch-CVE-2026-03200](https://github.com/gduma-phData/patch-CVE-2026-03200)",
+      "description": "Patch: SQL injection (Progress MOVEit)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:02:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-02777",
+      "repo_info": "[gduma-phData/patch-CVE-2026-02777](https://github.com/gduma-phData/patch-CVE-2026-02777)",
+      "description": "Patch: Remote command injection (Barracuda ESG)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:03:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-01443",
+      "repo_info": "[gduma-phData/patch-CVE-2026-01443](https://github.com/gduma-phData/patch-CVE-2026-01443)",
+      "description": "Patch: Deserialization (Adobe ColdFusion)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T03:03:31Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.646257",
+  "metadata": {
+    "total_cves": 43,
+    "date_range": "2026-08-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

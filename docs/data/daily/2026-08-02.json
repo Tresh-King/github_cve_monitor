@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-02",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-72844",
+      "repo_info": "[endrazine/lean-cve-poc](https://github.com/endrazine/lean-cve-poc)",
+      "description": "CVE-2026-72844 : Example of proving &quot;0 = 1&quot; using a vulnerability in the Lean 4 kernel.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T02:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)",
+      "description": "Jailbreak supported Google Pixel phones with CVE-2026-43499",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T17:34:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus)",
+      "description": "the CVE-2026-43499 by iqooneo11",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T08:10:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-27912",
+      "repo_info": "[Semperis-Community/ResetNightmare](https://github.com/Semperis-Community/ResetNightmare)",
+      "description": "POC tool for ResetNightmare (CVE-2026-27912)",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T12:36:16Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644260",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-08-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

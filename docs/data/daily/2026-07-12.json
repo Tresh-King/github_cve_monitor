@@ -1,7 +1,14 @@
 {
   "date": "2026-07-12",
-  "count": 11,
+  "count": 12,
   "cves": [
+    {
+      "cve_id": "CVE-2026-82539",
+      "repo_info": "[Xernary/CVE-2026-82539](https://github.com/Xernary/CVE-2026-82539)",
+      "description": "Security advisory for TOTOLINK a720r buffer overflow vulnerability",
+      "date": "2026-07-12",
+      "raw_date": "2026-07-12T14:56:08Z"
+    },
     {
       "cve_id": "CVE-2026-46331",
       "repo_info": "[MarwahHadi/CVE-2026-46331-pedit-cow](https://github.com/MarwahHadi/CVE-2026-46331-pedit-cow)",
@@ -80,9 +87,9 @@
       "raw_date": "2026-07-12T04:08:28Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.143205",
+  "generated_at": "2026-09-03T02:24:47.640147",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2026-07-12",
     "source": "README.md",
     "script_version": "2.0"

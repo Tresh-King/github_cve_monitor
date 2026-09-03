@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-17",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-74251",
+      "repo_info": "[toanln-cov/CVE-2026-74251](https://github.com/toanln-cov/CVE-2026-74251)",
+      "description": "Unauthenticated SQL Injection via Attribute Filter in Phoca Cart - CVSS 9.3",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T02:20:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-71518",
+      "repo_info": "[IlhomjonR/CVE-2026-71518](https://github.com/IlhomjonR/CVE-2026-71518)",
+      "description": "CVE-2026-71518 — Typemill &lt;2.26.0 unauthenticated authorization bypass in media file download (path-equivalent URL variants). Advisory + PoC.",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T22:19:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-68138",
+      "repo_info": "[suominen/CVE-2026-68138](https://github.com/suominen/CVE-2026-68138)",
+      "description": "Tracking CVE-2026-68138, the Linux kernel net/sched qdisc rate-table use-after-free",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T07:33:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-68138",
+      "repo_info": "[jangkrikkbozz/CVE-2026-68138](https://github.com/jangkrikkbozz/CVE-2026-68138)",
+      "description": "CVE-2026-68138 Linux Local Privilege Escalation Exploit",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T08:04:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-64747",
+      "repo_info": "[yiyeshi0-hash/ave263-chain](https://github.com/yiyeshi0-hash/ave263-chain)",
+      "description": "iPad 8 iPadOS 26.3 AVE toolchain research (CVE-2026-64747 class)",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T03:24:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-59310",
+      "repo_info": "[BiuTrap/CVE-2026-59310](https://github.com/BiuTrap/CVE-2026-59310)",
+      "description": "CVE-2026-59310 PoC",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T10:09:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-59310",
+      "repo_info": "[HORKimhab/CVE-2026-59310](https://github.com/HORKimhab/CVE-2026-59310)",
+      "description": "CVE-2026-59310",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T07:51:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-56852",
+      "repo_info": "[katekeiroz-dev/golang-x-text](https://github.com/katekeiroz-dev/golang-x-text)",
+      "description": "golang.org/x/text v0.33.0 backport of CVE-2026-56852 (GO-2026-5970) for Go 1.24",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T12:24:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[mobilehackinglab/ghostlock-a17](https://github.com/mobilehackinglab/ghostlock-a17)",
+      "description": "CVE-2026-43499 port for Samsung Galaxy A17",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T21:18:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[R0rt1z2/GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10)",
+      "description": "Kernel root exploit (CVE-2026-43499) for some 5.X devices (mostly Amazon)",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T16:57:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-41042",
+      "repo_info": "[Lulztigre/cve-2026-41042](https://github.com/Lulztigre/cve-2026-41042)",
+      "description": "POC for CVE-2026-41042",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T11:15:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-40345",
+      "repo_info": "[Jvr2022/CVE-2026-40345](https://github.com/Jvr2022/CVE-2026-40345)",
+      "description": "A poc and write-up for CVE-2026-40345",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T14:06:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-31367",
+      "repo_info": "[hereticL1nk/EITS-Portal-Exploit-CVE-2026-31367-PoC](https://github.com/hereticL1nk/EITS-Portal-Exploit-CVE-2026-31367-PoC)",
+      "description": "no description",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T02:24:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-20217",
+      "repo_info": "[securifera/CVE-2026-20217](https://github.com/securifera/CVE-2026-20217)",
+      "description": "ZendTo unauthenticated ClamAV CVE-2026-20217 RCE and default-profile root escalation reproduction",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T22:20:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-20079",
+      "repo_info": "[CyberAuth/CVE-2026-20079](https://github.com/CyberAuth/CVE-2026-20079)",
+      "description": "Python proof of concept for CVE-2026-20079 affecting Cisco Secure Firewall Management Center.",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T18:36:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-19650",
+      "repo_info": "[HORKimhab/CVE-2026-19650-CVE-2026-19478](https://github.com/HORKimhab/CVE-2026-19650-CVE-2026-19478)",
+      "description": "CVE-2026-19650, CVE-2026-19478 - Draft or TODO",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T23:32:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-15826",
+      "repo_info": "[HORKimhab/CVE-2026-15826-CVE-2026-15748](https://github.com/HORKimhab/CVE-2026-15826-CVE-2026-15748)",
+      "description": "CVE-2026-15826, CVE-2026-15748",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T23:20:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-13714",
+      "repo_info": "[katranSefa/CVE-2026-13714](https://github.com/katranSefa/CVE-2026-13714)",
+      "description": "no description",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T15:34:50Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.645133",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2026-08-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

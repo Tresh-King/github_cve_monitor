@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-19",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-48060",
+      "repo_info": "[Blinky-Keys/CVE-2026-48060](https://github.com/Blinky-Keys/CVE-2026-48060)",
+      "description": "no description",
+      "date": "2026-05-19",
+      "raw_date": "2026-05-19T11:49:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)",
+      "description": "A report on Dirty Frag, which is a Linux Local Privilege Escalation (LPE) vulnerability chain that allows an unprivileged user to gain root access",
+      "date": "2026-05-19",
+      "raw_date": "2026-05-19T11:07:42Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.633657",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-05-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-2035703",
+      "repo_info": "[danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300)",
+      "description": "Tozed ZLT X300 5G CPE — Remote Root Code Execution via SDR Rogue Base Station (CVE-2026-2035703, CWE-78, CVSS 9.8) — Coordinated Disclosure",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T03:03:26Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644850",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-08-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-22732",
+      "repo_info": "[moderneinc/rewrite-cve-2026-22732](https://github.com/moderneinc/rewrite-cve-2026-22732)",
+      "description": "no description",
+      "date": "2026-04-15",
+      "raw_date": "2026-04-15T02:08:40Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.631859",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-04-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

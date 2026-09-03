@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-23",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[chessalekin/cve-2026-9198_exploit](https://github.com/chessalekin/cve-2026-9198_exploit)",
+      "description": "no description",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T18:32:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-78122",
+      "repo_info": "[Legendile7/CVE-2026-78122-POC](https://github.com/Legendile7/CVE-2026-78122-POC)",
+      "description": "no description",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T01:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-66917",
+      "repo_info": "[toanln-cov/CVE-2026-66917](https://github.com/toanln-cov/CVE-2026-66917)",
+      "description": "IDOR + Stored XSS via Broken Object-Level Authorization in JoomGallery",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T15:18:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-66916",
+      "repo_info": "[toanln-cov/CVE-2026-66916](https://github.com/toanln-cov/CVE-2026-66916)",
+      "description": "Password-Protected Category Bypass via JSON Format in JoomGallery",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T15:11:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-45316",
+      "repo_info": "[arian-gogani/enforcement-coverage](https://github.com/arian-gogani/enforcement-coverage)",
+      "description": "Finds API routes carrying weaker authorization than their siblings. Recovered CVE-2026-45316 from source. Includes the negative results.",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T21:44:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT)",
+      "description": "Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T02:28:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[XingChenRS/CyberMeowfiaNS](https://github.com/XingChenRS/CyberMeowfiaNS)",
+      "description": "The next stage of CyberMeowfil (CVE-2026-43499 and 43074),Possibly biased toward vivo devices?",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T16:09:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-23744",
+      "repo_info": "[itsC1SCO/mcpjam-to-root](https://github.com/itsC1SCO/mcpjam-to-root)",
+      "description": "From MCPJam Inspector RCE to root — CVE-2026-23744, JupyterLab token disclosure, kernel execution, and OPSMCP privilege escalation",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T04:00:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-19681",
+      "repo_info": "[h00die/POC-CVE-2026-19681](https://github.com/h00die/POC-CVE-2026-19681)",
+      "description": "no description",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T13:12:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-15718",
+      "repo_info": "[SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm](https://github.com/SneakyNachos/CVE-2026-15718-who-put-ptrs-in-my-wasm)",
+      "description": "PoC exploit chain for CVE-2026-15718: SpiderMonkey wasm baseline compiler array.fill missing-sync -&gt; invalid pointer -&gt; addrOf/fakeobj -&gt; arbitrary R/W -&gt; RCE",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T16:03:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-10053",
+      "repo_info": "[dinosn/CVE-2026-10053-lab](https://github.com/dinosn/CVE-2026-10053-lab)",
+      "description": "Reproducible lab for CVE-2026-10053 (GitLab npm package-registry path traversal -&gt; arbitrary file write as git). Vulnerable 19.2.1 vs patched 19.2.2, deterministic oracle.",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T15:32:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-0013",
+      "repo_info": "[XiaoBaiLovesStirring/cve-2026-0013-poc](https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc)",
+      "description": "CVE-2026-0013 Android EoP PoC - Compiled artifacts for security research (Derivative of inforcqb/cve-2026-0013-exploit)",
+      "date": "2026-08-23",
+      "raw_date": "2026-08-23T07:01:16Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.646138",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2026-08-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

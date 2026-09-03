@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-31",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-82222",
+      "repo_info": "[R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222)",
+      "description": "GiveWP &lt;= 4.16.7.1 Unauthenticated PHP Object Injection → RCE",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T09:31:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-76569",
+      "repo_info": "[toanln-cov/CVE-2026-76569](https://github.com/toanln-cov/CVE-2026-76569)",
+      "description": "Reflected XSS via search GET Parameter in Phoca Download",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T07:51:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-71851",
+      "repo_info": "[brendonlee20042004-sys/weakrng-sweep](https://github.com/brendonlee20042004-sys/weakrng-sweep)",
+      "description": "Weak-RNG stream-sweep research (CVE-2026-71851 class): PRNG schemes x seeds -&gt; BIP39 -&gt; victim set membership",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T11:57:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[xiaohj233/ghostlock-x200-app](https://github.com/xiaohj233/ghostlock-x200-app)",
+      "description": "vivo X200 设备端一键 root App（Shizuku 授权 shell 域执行，CVE-2026-43499）",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T05:48:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-38192",
+      "repo_info": "[ming1700/CVE-2026-38192](https://github.com/ming1700/CVE-2026-38192)",
+      "description": "pluck-CMS-4.7.20-code-injection-vulnerability",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T01:30:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-30252",
+      "repo_info": "[vEnablee/CVE-2026-30252](https://github.com/vEnablee/CVE-2026-30252)",
+      "description": "The ZenShare Suite application is vulnerable by a Reflected Cross-Site Scripting (XSS) vulnerability, affecting web application login and recovery password functionalities.",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T20:06:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-30251",
+      "repo_info": "[vEnablee/CVE-2026-30251](https://github.com/vEnablee/CVE-2026-30251)",
+      "description": "A reflected cross-site scripting (XSS) vulnerability in the login_newpwd.php endpoint of Interzen Consulting S.r.l ZenShare Suite v17.0 allows attackers to execute arbitrary Javascript in the context of the user&#x27;s browser via a crafted URL injected into the codice_azienda parameter.",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T19:48:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[M4xSec/My-Exploits](https://github.com/M4xSec/My-Exploits)",
+      "description": "Metasploit modules, Python PoCs and throwaway Docker labs for four platform CVEs: Keycloak (CVE-2026-18963), Apache NiFi (CVE-2026-39816), HashiCorp Vault (CVE-2026-5006), HashiCorp Nomad (CVE-2026-7474).",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T00:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-0073",
+      "repo_info": "[naheeju/POC-CVE-2026-0073](https://github.com/naheeju/POC-CVE-2026-0073)",
+      "description": "Security research PoC for CVE-2026-0073: ADB authentication bypass verification",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T11:39:29Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.647416",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2026-08-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

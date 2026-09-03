@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-26",
+  "count": 22,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-79266",
+      "repo_info": "[virologi-info/chrome-vuln-scanner](https://github.com/virologi-info/chrome-vuln-scanner)",
+      "description": "Check for CVE-2026-79266. A use-after-free in the DevTools component allows arbitrary code execution inside the sandbox via a malicious Chrome extension leveraging social engineering.",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T15:20:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-76904",
+      "repo_info": "[bickZero93/CVE-2026-76904](https://github.com/bickZero93/CVE-2026-76904)",
+      "description": "PostGIS SQL Injection GeoTools",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T10:24:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-75898",
+      "repo_info": "[t3bik/CVE-2026-75898](https://github.com/t3bik/CVE-2026-75898)",
+      "description": "no description",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T23:55:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-75604",
+      "repo_info": "[HackSpeak/CVE-2026-75604](https://github.com/HackSpeak/CVE-2026-75604)",
+      "description": "CVE-2026-75604 (Next.js Windows RCE) PoC - unauthenticated RCE via cache path traversal + forged Server Action; for authorized security testing",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T11:48:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[gabrielunknown/CVE-2026-73570](https://github.com/gabrielunknown/CVE-2026-73570)",
+      "description": "Zimbra SNMP Notification OS Command Injection — Unauthenticated RCE via SMTP exploit (Poc)",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T03:30:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[d-maggipinto/CVE-2026-72898-metabase-sqli](https://github.com/d-maggipinto/CVE-2026-72898-metabase-sqli)",
+      "description": "Detector + root-cause analysis for CVE-2026-72898 (Metabase unauthenticated SQLi via reset_password)",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T17:45:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-63520",
+      "repo_info": "[hypnguyen1209/CVE-2026-63520](https://github.com/hypnguyen1209/CVE-2026-63520)",
+      "description": "POC pre-auth RCE on Sharepoint chain",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T16:54:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-63072",
+      "repo_info": "[0xBlackash/CVE-2026-63072](https://github.com/0xBlackash/CVE-2026-63072)",
+      "description": "CVE-2026-63072",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T10:28:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-56705",
+      "repo_info": "[ChiefYoru/Exploit-CVE-2026-56705](https://github.com/ChiefYoru/Exploit-CVE-2026-56705)",
+      "description": "CVE-2026-56705 — Adminer &lt; 5.4.3 Unauthenticated RCE via MSSQL PDO DSN Injection",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T05:08:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-55040",
+      "repo_info": "[zenzue/CVE-2026-55040](https://github.com/zenzue/CVE-2026-55040)",
+      "description": "no description",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T06:55:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-53613",
+      "repo_info": "[mohamedjawady/CVE-2026-53613-poc](https://github.com/mohamedjawady/CVE-2026-53613-poc)",
+      "description": "no description",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T09:25:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-48907",
+      "repo_info": "[ksotaria1337/-CVE-2026-48907-](https://github.com/ksotaria1337/-CVE-2026-48907-)",
+      "description": "no description",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T10:44:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-46858",
+      "repo_info": "[sergiofigueras/cve-2026-46858](https://github.com/sergiofigueras/cve-2026-46858)",
+      "description": "no description",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T19:21:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585](https://github.com/yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585)",
+      "description": "YellowKey BitLocker recovery - bitlocker yellowkey, yellowkey bitlocker, CVE-2026-45585, yellowkey github, yellowkey vulnerability, yellowkey CVE, TPM, BitLocker recovery key backup, Windows 10/11, CLI GUI, portable audit tool. Download:🡇",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T18:35:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[rsyzee/ghostlock-infinix-hot70](https://github.com/rsyzee/ghostlock-infinix-hot70)",
+      "description": "Proof-of-concept kernel exploit for GhostLock (CVE-2026-43499) on the Infinix Hot 70.",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T13:02:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-3844",
+      "repo_info": "[Alevtinka19/CVE-2026-3844](https://github.com/Alevtinka19/CVE-2026-3844)",
+      "description": "no description",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T10:13:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-31721",
+      "repo_info": "[JakeStone594/f_hid-4.14-backports](https://github.com/JakeStone594/f_hid-4.14-backports)",
+      "description": "Backports of three published f_hid fixes (incl. CVE-2026-31721, CVE-2026-31606) to an EOL Linux 4.14.190 Android vendor kernel, with on-device verification records.",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T16:50:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-19912",
+      "repo_info": "[HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914](https://github.com/HORKimhab/CVE-2026-19912-CVE-2026-19913-CVE-2026-19914)",
+      "description": "CVE-2026-19912, CVE-2026-19913, CVE-2026-19914",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T14:45:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-19632",
+      "repo_info": "[DeadExpl0it/CVE-2026-19632-POC](https://github.com/DeadExpl0it/CVE-2026-19632-POC)",
+      "description": "PoC for CVE-2026-19632 - TranslatePress – Multilingual &lt;= 3.3.1 - Unauthenticated Account Takeover via Password Reset Link Disclosure",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T14:11:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-19632",
+      "repo_info": "[YonLiud/CVE-2026-19632](https://github.com/YonLiud/CVE-2026-19632)",
+      "description": "CVE-2026-19632 - TranslatePress One-Day PoC",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T09:07:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-18080",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-18080](https://github.com/Polosss/By-Poloss..-..CVE-2026-18080)",
+      "description": "Poc CVE-2026-18080",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T17:04:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-12684",
+      "repo_info": "[htrxuan/hdwebmobile-photo-video-reviews](https://github.com/htrxuan/hdwebmobile-photo-video-reviews)",
+      "description": "WooCommerce plugin: photo &amp; video product reviews, closing CVE-2026-12684&#x27;s unauthenticated-upload vulnerability class by construction",
+      "date": "2026-08-26",
+      "raw_date": "2026-08-26T07:39:13Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.646707",
+  "metadata": {
+    "total_cves": 22,
+    "date_range": "2026-08-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

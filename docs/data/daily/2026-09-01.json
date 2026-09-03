@@ -1,0 +1,146 @@
+{
+  "date": "2026-09-01",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-82592",
+      "repo_info": "[HackSpeak/CVE-2026-82592](https://github.com/HackSpeak/CVE-2026-82592)",
+      "description": "D-Link DIR-825M formDiskFormat stack overflow + command injection RCE PoC (CVE-2026-82592); for authorized security testing",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T11:55:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[dinosn/cve-2026-82329-jfrog-artifactory](https://github.com/dinosn/cve-2026-82329-jfrog-artifactory)",
+      "description": "CVE-2026-82329 JFrog Artifactory unauthenticated auth-bypass: reproducible Docker lab + URL-parameter validator PoC + patch-diff analysis",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T14:17:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[HORKimhab/CVE-2026-82329](https://github.com/HORKimhab/CVE-2026-82329)",
+      "description": "CVE-2026-82329 - Draft or TODO",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T06:15:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-82221",
+      "repo_info": "[gabrielftanaka/CVE-2026-82221-PoC](https://github.com/gabrielftanaka/CVE-2026-82221-PoC)",
+      "description": "PoC for Unauthenticated Reflected Cross-Site Scripting (XSS) in RegistrationMagic WordPress Plugin",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T15:39:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-75855",
+      "repo_info": "[pervinzahidli/CVE-2026-75855](https://github.com/pervinzahidli/CVE-2026-75855)",
+      "description": "no description",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T08:00:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Cxyofficial/K50G-POCOF4GT-CVE-2026-43499-PoC](https://github.com/Cxyofficial/K50G-POCOF4GT-CVE-2026-43499-PoC)",
+      "description": "no description",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T09:26:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[lkeld/CVE-2026-43499-poc](https://github.com/lkeld/CVE-2026-43499-poc)",
+      "description": "no description",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T07:34:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[Ghxstsec/CVE-2026-39987](https://github.com/Ghxstsec/CVE-2026-39987)",
+      "description": "no description",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T21:40:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-36130",
+      "repo_info": "[cwjchoi01/CVE-2026-36130](https://github.com/cwjchoi01/CVE-2026-36130)",
+      "description": "CVE-2026-36130",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T11:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[maxprog-svg/CVE-2026-33017](https://github.com/maxprog-svg/CVE-2026-33017)",
+      "description": "CVE-2025-62593 — Ray Unauthenticated RCE Exploit is an unauthenticated remote code execution vulnerability in the Ray distributed AI compute engine.",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T18:29:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-31321",
+      "repo_info": "[cwjchoi01/CVE-2026-31321](https://github.com/cwjchoi01/CVE-2026-31321)",
+      "description": "CVE-2026-31321",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T10:59:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-27475",
+      "repo_info": "[Trachinus/CVE-2026-27475](https://github.com/Trachinus/CVE-2026-27475)",
+      "description": "PoC for CVE-2026-27475",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T09:10:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-27472",
+      "repo_info": "[Trachinus/CVE-2026-27472-and-CVE-2026-27474](https://github.com/Trachinus/CVE-2026-27472-and-CVE-2026-27474)",
+      "description": "PoC for CVE-2026-27472 and CVE-2026-27474",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T09:18:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-24880",
+      "repo_info": "[xiaoqiMikko/tomcat-line-check](https://github.com/xiaoqiMikko/tomcat-line-check)",
+      "description": "CVE-2026-24880: does Apache&#x27;s upgrade advice actually apply to your Tomcat? Detects the fix by class presence, not version comparison. Covers 7.0/8.0/8.5/9.0/10.0/10.1/11.0 lines.",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T05:50:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[Ish3ng0m4/CVE-2026-24061-Telnetd](https://github.com/Ish3ng0m4/CVE-2026-24061-Telnetd)",
+      "description": "CVE-2026-24061 GNU Inetutils Telnetd Authentication Bypass",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T20:26:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[EQSTLab/CVE-2026-18963](https://github.com/EQSTLab/CVE-2026-18963)",
+      "description": "Keycloak reset-credentials flow bypass",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T09:08:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-14662",
+      "repo_info": "[Kihara-1/postgresql-cve-2026-14662](https://github.com/Kihara-1/postgresql-cve-2026-14662)",
+      "description": "PostgreSQL の全文検索(tsvector/tsquery)に見つかった範囲外書き込み脆弱性 CVE-2026-14662 を、修正前(18.4)と修正後(18.6)を Docker で並べて動かして検証した記録と発表資料",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T09:26:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-13753",
+      "repo_info": "[typedefabcd1234ntd/CVE-2026-13753-poc](https://github.com/typedefabcd1234ntd/CVE-2026-13753-poc)",
+      "description": "Poc of CVE-2026-13753",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T18:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-0768",
+      "repo_info": "[HORKimhab/CVE-2026-0768](https://github.com/HORKimhab/CVE-2026-0768)",
+      "description": "CVE-2026-0768 - Draft or TODO",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T08:01:23Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.647506",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2026-09-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -32,7 +32,7 @@
     },
     {
       "cve_id": "CVE-2026-49975",
-      "repo_info": "[anonymous99-Rise/http2-bomb-detector](https://github.com/anonymous99-Rise/http2-bomb-detector)",
+      "repo_info": "[adminlove520/http2-bomb-detector](https://github.com/adminlove520/http2-bomb-detector)",
       "description": "HTTP/2 Bomb (CVE-2026-49975) non-destructive vulnerability detector for Nginx / Apache httpd. Zero-dependency Python.",
       "date": "2026-06-13",
       "raw_date": "2026-06-13T04:05:21Z"
@@ -143,7 +143,7 @@
       "raw_date": "2026-06-13T14:55:19Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.136788",
+  "generated_at": "2026-09-03T02:24:47.635476",
   "metadata": {
     "total_cves": 20,
     "date_range": "2026-06-13",

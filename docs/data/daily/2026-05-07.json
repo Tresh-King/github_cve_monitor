@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-40897",
+      "repo_info": "[EQSTLab/CVE-2026-40897](https://github.com/EQSTLab/CVE-2026-40897)",
+      "description": "Math.js Expression Parser RCE",
+      "date": "2026-05-07",
+      "raw_date": "2026-05-07T04:27:44Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.632890",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-05-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

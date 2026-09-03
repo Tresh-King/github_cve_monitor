@@ -25,7 +25,7 @@
     },
     {
       "cve_id": "CVE-2024-0204",
-      "repo_info": "[anonymous99-Rise/CVE-2024-0204](https://github.com/anonymous99-Rise/CVE-2024-0204)",
+      "repo_info": "[adminlove520/CVE-2024-0204](https://github.com/adminlove520/CVE-2024-0204)",
       "description": "GoAnywhere MFT",
       "date": "2024-02-04",
       "raw_date": "2024-02-04T01:40:46Z"
@@ -94,7 +94,7 @@
       "raw_date": "2024-02-04T18:19:49Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.006251",
+  "generated_at": "2026-09-03T02:24:47.507022",
   "metadata": {
     "total_cves": 13,
     "date_range": "2024-02-04",

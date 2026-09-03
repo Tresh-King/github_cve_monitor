@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-12",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-50656",
+      "repo_info": "[HORKimhab/CVE-2026-50656](https://github.com/HORKimhab/CVE-2026-50656)",
+      "description": "CVE-2026-50656, CVE-2026-69414",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T07:36:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[yora1928/CVE-2026-48908-by-yora](https://github.com/yora1928/CVE-2026-48908-by-yora)",
+      "description": "Passive security checker for CVE-2026-48908 affecting SP Page Builder.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T16:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[E-R-Butch/F9360-CVE43499](https://github.com/E-R-Butch/F9360-CVE43499)",
+      "description": "SM-F9360 (Galaxy Z Fold4, q4q) locked-bootloader KernelSU root — CVE-2026-43499 temp root → LD_PRELOAD DEFEX bypass → no-LTO clang-12 kernelsu.ko. Device-verified 2026-08-12.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T08:10:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[Leeyoonjoo/CVE-2026-42533](https://github.com/Leeyoonjoo/CVE-2026-42533)",
+      "description": "no description",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T09:48:05Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644727",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-08-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

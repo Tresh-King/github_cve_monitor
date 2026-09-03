@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-05",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[rmhowe425/PoC-CVE-2026-9198](https://github.com/rmhowe425/PoC-CVE-2026-9198)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T17:44:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-68004",
+      "repo_info": "[xuwu-xuwu/CVE-2026-68004](https://github.com/xuwu-xuwu/CVE-2026-68004)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T15:21:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[sowarma/wp2shell-PoC](https://github.com/sowarma/wp2shell-PoC)",
+      "description": "CVE-2026-63030 &amp; CVE-2026-60137 RCE chain proof-of-concept",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T12:48:03Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644392",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-08-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

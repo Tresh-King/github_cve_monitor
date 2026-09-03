@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-27",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8467",
+      "repo_info": "[HORKimhab/CVE-2026-8467](https://github.com/HORKimhab/CVE-2026-8467)",
+      "description": "CVE-2026-8467 - Draft or TODO",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T02:16:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-77542",
+      "repo_info": "[HORKimhab/CVE-Ubiquiti](https://github.com/HORKimhab/CVE-Ubiquiti)",
+      "description": "CVE-2026-77542, CVE-2026-77543, CVE-2026-77545, CVE-2026-77550, CVE-2026-77551, CVE-2026-77552, CVE-2026-77553, CVE-2026-77554, CVE-2026-77557 - Draft or TODO",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T04:04:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-75604",
+      "repo_info": "[e4zyy/Project-CVE-2026-75604](https://github.com/e4zyy/Project-CVE-2026-75604)",
+      "description": "A Python-based exploitation framework for CVE-2026-75604 that enables authorized penetration testers to validate Next.js Windows cache traversal vulnerabilities. Deploys reverse shells and webshells via path traversal, with built-in target verification and proxy support for seamless integration into standard pentest workflows.",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T09:35:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-74936",
+      "repo_info": "[SneakyNachos/CVE-2026-74936-gc-potato](https://github.com/SneakyNachos/CVE-2026-74936-gc-potato)",
+      "description": "no description",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T20:13:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[EQSTLab/CVE-2026-72898](https://github.com/EQSTLab/CVE-2026-72898)",
+      "description": "Metabase SQLi",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T06:51:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-67602",
+      "repo_info": "[Hunt-Benito/the-token-was-a-row-number-cve-2026-67602-phpipam-rest-api-authentication-bypass](https://github.com/Hunt-Benito/the-token-was-a-row-number-cve-2026-67602-phpipam-rest-api-authentication-bypass)",
+      "description": "no description",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T17:11:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-65351",
+      "repo_info": "[e4zyy/Project-CVE-2026-65351](https://github.com/e4zyy/Project-CVE-2026-65351)",
+      "description": "For educational purposes",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T12:35:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-55040",
+      "repo_info": "[virologi-info/mssharepoint-scanner](https://github.com/virologi-info/mssharepoint-scanner)",
+      "description": "A scanner for CVE-2026-55040 and CVE-2026-63520, designed to determine whether the server is affected by these two CVEs.",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T13:27:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-55040",
+      "repo_info": "[maxprog-svg/CVE-2026-55040-Mass-Exploit](https://github.com/maxprog-svg/CVE-2026-55040-Mass-Exploit)",
+      "description": "CVE-2026-55040",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T09:53:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-50787",
+      "repo_info": "[brynax/CVE-2026-50787](https://github.com/brynax/CVE-2026-50787)",
+      "description": "Security advisory for CVE-2026-50787: uncontrolled resource consumption in e-SIC Livre CAPTCHA generation leading to remote denial of service.",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T01:55:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-47851",
+      "repo_info": "[tangyaofq/spring-ai-sibling-loop-poc](https://github.com/tangyaofq/spring-ai-sibling-loop-poc)",
+      "description": "Minimal reproduction for Spring AI ParagraphManager sibling self-loop OOM (incomplete fix of CVE-2026-47851)",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T13:30:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[hackyangwen-lgtm/rmg-s9180-fzg1](https://github.com/hackyangwen-lgtm/rmg-s9180-fzg1)",
+      "description": "Root My Galaxy SM-S9180 (dm3q) S9180ZHS8FZG1 payload port - CVE-2026-43499 + KernelSU LKM",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T12:33:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[diyiqiuye/ghostlock-pfem10](https://github.com/diyiqiuye/ghostlock-pfem10)",
+      "description": "GhostLock (CVE-2026-43499 / IonStack) research for OPPO Find X5 Pro (PFEM10): exploit chain, progress, blocker log, and OPPO 5-series kernel notes",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T22:21:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[DiegoRivas1/htb-labs-nexus](https://github.com/DiegoRivas1/htb-labs-nexus)",
+      "description": "Hack The Box Nexus machine write-up covering reconnaissance, Gitea credential discovery, Krayin CRM exploitation via CVE-2026-38526, initial access, and privilege escalation through a vulnerable Gitea template synchronization service.",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T06:41:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[sahmsec/CVE-2026-32475](https://github.com/sahmsec/CVE-2026-32475)",
+      "description": "no description",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T22:36:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-27280",
+      "repo_info": "[R3n3r0/CVE-2026-27280](https://github.com/R3n3r0/CVE-2026-27280)",
+      "description": "no description",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T22:28:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-21962",
+      "repo_info": "[zeetee1235/CVE-2026-21962](https://github.com/zeetee1235/CVE-2026-21962)",
+      "description": "no description",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T02:59:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-20303",
+      "repo_info": "[HORKimhab/Cisco-CVE-2026-20303-More](https://github.com/HORKimhab/Cisco-CVE-2026-20303-More)",
+      "description": "CVE-2026-20303, CVE-2026-20304, CVE-2026-20310, CVE-2026-20312, CVE-2026-20313",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T05:00:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[EQSTLab/CVE-2026-19478](https://github.com/EQSTLab/CVE-2026-19478)",
+      "description": "GitLab Code injection",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T06:30:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[alt3kx/CVE-2026-18963](https://github.com/alt3kx/CVE-2026-18963)",
+      "description": "CVE-2026-18963 Keycloak Reset-Credentials State Bypass Detector",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T09:08:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-18431",
+      "repo_info": "[HORKimhab/CVE-2026-18431](https://github.com/HORKimhab/CVE-2026-18431)",
+      "description": "CVE-2026-18431 - Draft or TODO",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T03:27:45Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.646855",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2026-08-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

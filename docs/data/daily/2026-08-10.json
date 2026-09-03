@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-10",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-64824",
+      "repo_info": "[Boreas37/CVE-2026-64824-PoC](https://github.com/Boreas37/CVE-2026-64824-PoC)",
+      "description": "CVE-2026-64824 — Home Assistant backup-restore symlink path traversal → root RCE. First working PoC, verified on real HA 2026.5.4 (sitecustomize.py overwrite). GHSA-cwh8-w64c-4j5h",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T12:21:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-64564",
+      "repo_info": "[suominen/sctphantom](https://github.com/suominen/sctphantom)",
+      "description": "Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T05:16:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-53787",
+      "repo_info": "[ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce)",
+      "description": "my poc for CVE-2026-53787",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T01:00:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[xiaohj233/ghostlock-x200-root](https://github.com/xiaohj233/ghostlock-x200-root)",
+      "description": "GhostLock-X200 v1.0 - temporary root toolchain for vivo X200 (PD2415 / b57 kernel) based on CVE-2026-43499. For authorized security research only.",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T23:26:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[zzzxxxxxxxxxx/GhostLock-GOT-W29](https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29)",
+      "description": "CVE-2026-43499 (GhostLock) research on HUAWEI MatePad Pro 11 GOT-W29",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T09:01:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-2005",
+      "repo_info": "[open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005)",
+      "description": "no description",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T10:14:52Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.644649",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2026-08-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

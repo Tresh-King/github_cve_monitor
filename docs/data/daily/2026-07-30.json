@@ -1,13 +1,34 @@
 {
   "date": "2026-07-30",
-  "count": 3,
+  "count": 7,
   "cves": [
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[EQSTLab/CVE-2026-60004](https://github.com/EQSTLab/CVE-2026-60004)",
+      "description": "Gitea diffpatch RCE",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T08:19:19Z"
+    },
     {
       "cve_id": "CVE-2026-59726",
       "repo_info": "[HORKimhab/CVE-2026-59726](https://github.com/HORKimhab/CVE-2026-59726)",
       "description": "CVE-2026-59726 - Draft or Todo",
       "date": "2026-07-30",
       "raw_date": "2026-07-30T01:23:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-57827",
+      "repo_info": "[Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)",
+      "description": "Demonstrate the unauthenticated remote code execution vulnerability in the RSFiles! Joomla component through an arbitrary file upload.",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T20:49:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[nawalacheker1/CVE-2026-46331](https://github.com/nawalacheker1/CVE-2026-46331)",
+      "description": "no description",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T07:57:24Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -17,6 +38,13 @@
       "raw_date": "2026-07-30T04:01:11Z"
     },
     {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[1xPwn/CVE-2026-16723](https://github.com/1xPwn/CVE-2026-16723)",
+      "description": "A critical vulnerability affecting Fastjson versions 1.2.68 – 1.2.83.",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T12:17:04Z"
+    },
+    {
       "cve_id": "CVE-2026-10702",
       "repo_info": "[HORKimhab/CVE-2026-10702](https://github.com/HORKimhab/CVE-2026-10702)",
       "description": "CVE-2026-10702",
@@ -24,9 +52,9 @@
       "raw_date": "2026-07-30T01:38:15Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.148331",
+  "generated_at": "2026-09-03T02:24:47.643987",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 7,
     "date_range": "2026-07-30",
     "source": "README.md",
     "script_version": "2.0"

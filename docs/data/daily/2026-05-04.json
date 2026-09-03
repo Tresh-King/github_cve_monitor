@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-31717",
+      "repo_info": "[TurtleARM/ksmbrace](https://github.com/TurtleARM/ksmbrace)",
+      "description": "ksmbd CVEs: CVE-2026-31717, CVE-2026-68083",
+      "date": "2026-05-04",
+      "raw_date": "2026-05-04T22:03:22Z"
+    }
+  ],
+  "generated_at": "2026-09-03T02:24:47.632685",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-05-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
