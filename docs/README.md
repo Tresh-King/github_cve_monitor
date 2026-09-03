@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-03 02:24:46
+- **生成时间**: 2026-09-03 02:31:43
 - **数据来源**: GitHub CVE 数据库
 - **总记录数**: 29401
 - **其他记录数**: 367 (详见 [others.md](./others.md))
