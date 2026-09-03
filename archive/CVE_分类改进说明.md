@@ -2,7 +2,7 @@
 
 ## 改进概述
 
-参考了 [mpvulnHub](https://github.com/adminlove520/mpvulnHub) 仓库的专业安全分类体系，对Github CVE Monitor项目的CVE分类分布和热点CVE识别逻辑进行了全面升级。
+参考了 [mpvulnHub](https://github.com/anonymous99-Rise/mpvulnHub) 仓库的专业安全分类体系，对Github CVE Monitor项目的CVE分类分布和热点CVE识别逻辑进行了全面升级。
 
 ## 主要改进内容
 

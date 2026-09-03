@@ -42,4 +42,4 @@ Github CVE Monitor 是一个自动化的安全情报收集工具，通过 GitHub
 
 ---
 
-© 2025 [adminlove520](https://github.com/adminlove520) | 本项目基于开源协议发布
+© 2025 [anonymous99-Rise](https://github.com/anonymous99-Rise) | 本项目基于开源协议发布

@@ -309,7 +309,7 @@ def get_info(year):
         per_page = 100 if os.environ.get("GITHUB_TOKEN") else 50
         github_token = get_github_token()
         headers = {
-            'User-Agent': 'CVE-Monitor-App/1.0 (+https://github.com/adminlove520/github_cve_monitor)', 
+            'User-Agent': 'CVE-Monitor-App/1.0 (+https://github.com/anonymous99-Rise/github_cve_monitor)', 
             'Accept': 'application/vnd.github.v3+json'
         }
 

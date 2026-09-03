@@ -157,5 +157,5 @@ jobs:
         
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "🔗 **相关链接:**" >> $GITHUB_STEP_SUMMARY
-        echo "- [统计页面](https://adminlove520.github.io/github_cve_monitor/stats.html)" >> $GITHUB_STEP_SUMMARY
+        echo "- [统计页面](https://anonymous99-Rise.github.io/github_cve_monitor/stats.html)" >> $GITHUB_STEP_SUMMARY
         echo "- [数据目录](https://github.com/${{ github.repository }}/tree/main/docs/data/daily)" >> $GITHUB_STEP_SUMMARY

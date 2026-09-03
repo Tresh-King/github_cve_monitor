@@ -39,7 +39,7 @@ jobs:
           {
             "github_token": "$GH_TOKEN_VALUE",
             "api_base_url": "https://api.github.com",
-            "repository": "adminlove520/github_cve_monitor",
+            "repository": "anonymous99-Rise/github_cve_monitor",
             "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')",
             "token_note": "$TOKEN_NOTE"
           }
@@ -49,7 +49,7 @@ jobs:
           {
             "github_token": "$GH_TOKEN_VALUE",
             "api_base_url": "https://api.github.com",
-            "repository": "adminlove520/github_cve_monitor",
+            "repository": "anonymous99-Rise/github_cve_monitor",
             "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')",
             "token_note": "$TOKEN_NOTE"
           }
@@ -114,7 +114,7 @@ jobs:
           fi
           
           # 克隆 Wiki 仓库
-          git clone https://x-access-token:$WIKI_TOKEN@github.com/adminlove520/github_cve_monitor.wiki.git wiki
+          git clone https://x-access-token:$WIKI_TOKEN@github.com/anonymous99-Rise/github_cve_monitor.wiki.git wiki
           cd wiki
           
           # 更新主页
@@ -136,7 +136,7 @@ jobs:
           
           #### Week 38
           
-          - 📅 [${DATE_STR} 每日报告](https://adminlove520.github.io/github_cve_monitor/data/${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
+          - 📅 [${DATE_STR} 每日报告](https://anonymous99-Rise.github.io/github_cve_monitor/data/${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
           EOF
           
           # 添加历史报告链接
@@ -150,7 +150,7 @@ jobs:
                     if [ -f "$file" ]; then
                       file_name=$(basename "$file" .md)
                       date_part=$(echo "$file_name" | sed 's/daily_//' | sed 's/\(.\{4\}\)\(.\{2\}\)\(.\{2\}\)/\1-\2-\3/')
-                      echo "- 📅 [$date_part 每日报告](https://adminlove520.github.io/github_cve_monitor/data/$dir_name/$file_name.md)" >> "每日报告.md"
+                      echo "- 📅 [$date_part 每日报告](https://anonymous99-Rise.github.io/github_cve_monitor/data/$dir_name/$file_name.md)" >> "每日报告.md"
                     fi
                   done
                 fi

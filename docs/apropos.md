@@ -3,7 +3,7 @@
 
 👤 **Julien Mousqueton**
 
-* Github : [@adminlove520](https://github.com/adminlove520)
+* Github : [@anonymous99-Rise](https://github.com/anonymous99-Rise)
 
 
 ## Github CVE Monitor 
@@ -14,5 +14,5 @@ Automatic monitor github CVE using Github Actions
 
 🗣 Now sorted by CVE 
 
-> For more information, check the [README.md](https://github.com/adminlove520/github_cve_monitor#readme) file. 
+> For more information, check the [README.md](https://github.com/anonymous99-Rise/github_cve_monitor#readme) file. 
 

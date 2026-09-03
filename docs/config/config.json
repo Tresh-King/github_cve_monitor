@@ -1,7 +1,7 @@
 {
   "github_token": "ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJZLXd5Y1kteFdJRzZsZ01GTGYzZm5ndHVRdjlycXJaQVVWemhVelVxVzBnZ2VhQXlzelB5QklNIiwiZXhwIjoxNzg1Mzg4MTk3LCJpYXQiOjE3ODUzODQ1OTcsImlzcyI6ImdpdGh1YiIsImp0aSI6ImM5NWQ5YzNlLTJhOTctNDI5Zi05OTgyLWI5MTY4NTI2MjgxNyIsInZlciI6M30.Cy1KygoTA4IF7Bc2JX3fqqCqDn2PLx1BQ36RkwAa4tWfYm7fAQYpCh-H77LU2cmWiK9xz61o5fFi2UeJKp8A_w",
   "api_base_url": "https://api.github.com",
-  "repository": "adminlove520/github_cve_monitor",
+  "repository": "anonymous99-Rise/github_cve_monitor",
   "generated_at": "2026-07-30T04:10:00Z",
   "token_note": "GitHub Actions内置Token"
 }

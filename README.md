@@ -5,7 +5,7 @@
 
 ## 文档 📖 
 
-访问 [cve-monitor](https://adminlove520.github.io/github_cve_monitor/) 查看演示。 
+访问 [cve-monitor](https://anonymous99-Rise.github.io/github_cve_monitor/) 查看演示。 
 
 ### 命令行使用  💻
 
@@ -13,7 +13,7 @@
 
 ### 使用 Github-Action ⚙️
 
-查看 [run.yml](https://github.com/adminlove520/github_cve_monitor/blob/main/.github/workflows/run.yml) 文件
+查看 [run.yml](https://github.com/anonymous99-Rise/github_cve_monitor/blob/main/.github/workflows/run.yml) 文件
 
 ## 安装 💿
 
@@ -103,5 +103,5 @@ GitHub Token需要以下权限：
 | 🟡 | 可能有一天会做 |
 | 🔴 | 永不  |
 #### Author
-- [Anonymous](https://github.com/adminlove520)
+- [Anonymous](https://github.com/anonymous99-Rise)
 - [**东方隐侠安全实验室**](https://www.dfyxsec.com/)

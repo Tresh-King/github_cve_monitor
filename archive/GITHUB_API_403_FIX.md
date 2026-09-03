@@ -4,8 +4,8 @@
 
 在访问GitHub CVE Monitor的每日报告页面时，可能会遇到以下错误：
 
-1. `GET https://adminlove520.github.io/github_cve_monitor/data/config.json 404 (Not Found)`
-2. `GET https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/data 403 (Forbidden)`
+1. `GET https://anonymous99-Rise.github.io/github_cve_monitor/data/config.json 404 (Not Found)`
+2. `GET https://api.github.com/repos/anonymous99-Rise/github_cve_monitor/contents/docs/data 403 (Forbidden)`
 
 这些错误通常与GitHub API认证和配置文件缺失有关。
 
@@ -51,7 +51,7 @@ set GITHUB_TOKEN=your_token_here
 {
   "github_token": "your_token_here",
   "api_base_url": "https://api.github.com",
-  "repository": "adminlove520/github_cve_monitor",
+  "repository": "anonymous99-Rise/github_cve_monitor",
   "generated_at": "2025-09-24T00:00:00Z"
 }
 ```

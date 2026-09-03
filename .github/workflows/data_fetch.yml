@@ -100,7 +100,7 @@ jobs:
           try:
               # 获取仓库基本信息
               print('获取仓库基本信息...')
-              repo_url = 'https://api.github.com/repos/adminlove520/github_cve_monitor'
+              repo_url = 'https://api.github.com/repos/anonymous99-Rise/github_cve_monitor'
               repo_response = requests.get(repo_url, headers=headers)
               
               if repo_response.status_code == 200:
