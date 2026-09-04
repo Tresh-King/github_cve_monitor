@@ -1,11 +1,12 @@
 {
-  "repo_created_at": "2025-09-27T05:28:26Z",
-  "repo_updated_at": "2026-09-04T15:42:43Z",
-  "total_cves": 29426,
-  "last_update": "2026-09-04",
-  "api_limit": "5000",
-  "api_remaining": "4997",
-  "monitoring_days": 342,
-  "system_uptime": "99.9%",
-  "generated_at": "2026-09-04T18:47:34.493253"
+  "is_fallback": true,
+  "source": "local_filesystem",
+  "generated_at": "2026-09-04T22:04:20.315736",
+  "total_cves": 0,
+  "monitoring_days": 1,
+  "avg_daily_cves": 0,
+  "system_uptime": "90%",
+  "api_limit": "未知",
+  "api_remaining": "未知",
+  "last_update": "2026-09-04"
 }
