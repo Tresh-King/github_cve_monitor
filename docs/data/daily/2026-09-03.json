@@ -1,0 +1,146 @@
+{
+  "date": "2026-09-03",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-83548",
+      "repo_info": "[xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis](https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis)",
+      "description": "Vulnerability Analysis of CVE-2026-83548 affecting SonicWall SMA1000 security systems.",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T11:03:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[0xCyp1337/CVE-2026-82329](https://github.com/0xCyp1337/CVE-2026-82329)",
+      "description": "CVE‑2026‑82329 is a critical authentication bypass in JFrog Artifactory (CVSS 9.8) allowing unauthenticated attackers to obtain full administrative privileges. Actively exploited in the wild. Affects self‑hosted versions before patches. PoC for authorized testing only.",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T16:58:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-80428",
+      "repo_info": "[digiprosec/CVE-2026-80428](https://github.com/digiprosec/CVE-2026-80428)",
+      "description": "CVE-2026-80428 PoC",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T14:37:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-80428",
+      "repo_info": "[Zipkoppie/CVE-2026-80428](https://github.com/Zipkoppie/CVE-2026-80428)",
+      "description": "CVE-2026-80428 PoC",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T13:38:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-78071",
+      "repo_info": "[toanln-cov/CVE-2026-78071](https://github.com/toanln-cov/CVE-2026-78071)",
+      "description": "Stored XSS via Location Title in DPCalendar Free",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T10:01:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-78070",
+      "repo_info": "[toanln-cov/CVE-2026-78070](https://github.com/toanln-cov/CVE-2026-78070)",
+      "description": "SQL Injection via ORDER BY Shortcode in plg_content_dpcalendar — DPCalendar Free ≤ 10.11.2",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T09:58:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-75604",
+      "repo_info": "[FORTBRIDGE-UK/cve-2026-75604](https://github.com/FORTBRIDGE-UK/cve-2026-75604)",
+      "description": "Research lab and exploit chain for CVE-2026-75604: path traversal in the Next.js incremental cache, to RCE on Windows.",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T17:07:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-65643",
+      "repo_info": "[tc4dy/CVE-2026-65643-PoC-Toolkit](https://github.com/tc4dy/CVE-2026-65643-PoC-Toolkit)",
+      "description": "🧰 CVE-2026-65643 – cPanel Domain Parking RCE Toolkit (CVSS 8.7) - Red/Blue Team suite for unpatched cPanel &amp; WHM 11.x (110,134,136,138). 2 tools: Full Exploit (reverse shell, webshell, persistence, root passwd, file R/W, mass scan, Tor), Blue Team PoC (detection, reporting, audit). w/Python. 🦾 Only Use Ethically, Stay Legal &lt;3",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T18:13:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-65343",
+      "repo_info": "[AmorCool/iOS26.6-CVE-2026-65343](https://github.com/AmorCool/iOS26.6-CVE-2026-65343)",
+      "description": "CVE-2026-65343 PoC — AppleKeyStore OOB read → KASLR defeat (iOS 26.6 / 23G71)",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T14:29:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-64788",
+      "repo_info": "[AmorCool/iOS26.6-CVE-2026-64788](https://github.com/AmorCool/iOS26.6-CVE-2026-64788)",
+      "description": "CVE-2026-64788 PoC — IOGPUFamily Use-After-Free (iOS 26.6 / 23G71)",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T15:24:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-62735",
+      "repo_info": "[HackSpeak/CVE-2026-62735](https://github.com/HackSpeak/CVE-2026-62735)",
+      "description": "Windows HTTP.sys integer overflow -&gt; nonpaged pool overflow LPE PoC (CVE-2026-62735): crash + full SYSTEM exploit; for authorized testing",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T10:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-59822",
+      "repo_info": "[HORKimhab/CVE-2026-59822](https://github.com/HORKimhab/CVE-2026-59822)",
+      "description": "CVE-2026-59822 - Draft or TODO",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T06:10:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-56718",
+      "repo_info": "[hellkkid/CVE-2026-56718](https://github.com/hellkkid/CVE-2026-56718)",
+      "description": "AJCloud AJY IPC Firmware Path Traversal via jdbhttpd",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T22:58:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-52810",
+      "repo_info": "[HORKimhab/CVE-2026-52810](https://github.com/HORKimhab/CVE-2026-52810)",
+      "description": "CVE-2026-52810 - Draft or TODO",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T15:36:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-4813",
+      "repo_info": "[Trachinus/CVE-2026-4813](https://github.com/Trachinus/CVE-2026-4813)",
+      "description": "PoC for CVE-2026-4813",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T17:26:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-40976",
+      "repo_info": "[madebyrokit/CVE-2026-40976-POC](https://github.com/madebyrokit/CVE-2026-40976-POC)",
+      "description": "no description",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T08:19:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-20212",
+      "repo_info": "[HORKimhab/CVE-2026-20212](https://github.com/HORKimhab/CVE-2026-20212)",
+      "description": "CVE-2026-20212 - Draft or TODO",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T23:54:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-19949",
+      "repo_info": "[HORKimhab/CVE-2026-19949](https://github.com/HORKimhab/CVE-2026-19949)",
+      "description": "CVE-2026-19949 - Draft or TODO",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T09:15:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-54391",
+      "repo_info": "[disqualifier/psa-2026-00043-recovery](https://github.com/disqualifier/psa-2026-00043-recovery)",
+      "description": "Recovery notes for proxmox advisory ID: PSA-2026-00043-1 (CVE-2023-54391)",
+      "date": "2026-09-03",
+      "raw_date": "2026-09-03T21:51:08Z"
+    }
+  ],
+  "generated_at": "2026-09-04T05:41:30.404100",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2026-09-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

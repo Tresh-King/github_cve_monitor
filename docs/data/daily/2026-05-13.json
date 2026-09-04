@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "count": 3,
+  "count": 4,
   "cves": [
     {
       "cve_id": "CVE-2026-41729",
@@ -17,6 +17,13 @@
       "raw_date": "2026-05-13T11:36:00Z"
     },
     {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[SilverRuler/copy-fail-CVE-2026-31431](https://github.com/SilverRuler/copy-fail-CVE-2026-31431)",
+      "description": "copy-fail-CVE-2026-31431",
+      "date": "2026-05-13",
+      "raw_date": "2026-05-13T14:43:00Z"
+    },
+    {
       "cve_id": "CVE-2026-0073",
       "repo_info": "[tc4dy/CVE-2026-0073-PoC-Exploit](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit)",
       "description": "🚀 CVE-2026-0073 - Android ADB Wireless Debugging Exploit (CVSS 8.8) 🔓 Zero-click authentication bypass via TLS type confusion. Gain interactive shell, execute commands, scan networks. Educational red-team tool. 🐚⚡",
@@ -24,9 +31,9 @@
       "raw_date": "2026-05-13T14:28:00Z"
     }
   ],
-  "generated_at": "2026-09-04T03:59:54.487670",
+  "generated_at": "2026-09-04T05:41:30.393795",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 4,
     "date_range": "2026-05-13",
     "source": "README.md",
     "script_version": "2.0"

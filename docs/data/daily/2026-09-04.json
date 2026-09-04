@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-04",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-78745",
+      "repo_info": "[n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)",
+      "description": "no description",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T00:24:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-61578",
+      "repo_info": "[HORKimhab/CVE-Chamilo-LMS](https://github.com/HORKimhab/CVE-Chamilo-LMS)",
+      "description": "CVE-2026-61578, CVE-2026-61582, CVE-2026-61583, CVE-2026-61584, CVE-2026-61585, CVE-2026-61587, CVE-2026-61600, CVE-2026-61601, CVE-2026-61602, CVE-2026-70647, CVE-2026-70648 - Draft or TODO",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T03:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-31787",
+      "repo_info": "[0xAtharv/CVE-2026-31787](https://github.com/0xAtharv/CVE-2026-31787)",
+      "description": "Linux kernel double free in Xen privcmd driver",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T01:08:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-10134",
+      "repo_info": "[rmhowe425/POC-CVE-2026-10134](https://github.com/rmhowe425/POC-CVE-2026-10134)",
+      "description": "no description",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T03:03:33Z"
+    }
+  ],
+  "generated_at": "2026-09-04T05:41:30.404236",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-09-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

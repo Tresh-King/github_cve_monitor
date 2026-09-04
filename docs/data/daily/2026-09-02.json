@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "count": 29,
+  "count": 30,
   "cves": [
     {
       "cve_id": "CVE-2026-9586",
@@ -150,6 +150,13 @@
       "raw_date": "2026-09-02T22:59:08Z"
     },
     {
+      "cve_id": "CVE-2026-47627",
+      "repo_info": "[AneKazek/cve-2026-47627](https://github.com/AneKazek/cve-2026-47627)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T06:13:02Z"
+    },
+    {
       "cve_id": "CVE-2026-38577",
       "repo_info": "[poxsky/CVE-2026-38577-by-deepak-Anmol](https://github.com/poxsky/CVE-2026-38577-by-deepak-Anmol)",
       "description": "CVE-2026-38577",
@@ -206,9 +213,9 @@
       "raw_date": "2026-09-02T20:46:12Z"
     }
   ],
-  "generated_at": "2026-09-04T03:59:54.513527",
+  "generated_at": "2026-09-04T05:41:30.403938",
   "metadata": {
-    "total_cves": 29,
+    "total_cves": 30,
     "date_range": "2026-09-02",
     "source": "README.md",
     "script_version": "2.0"

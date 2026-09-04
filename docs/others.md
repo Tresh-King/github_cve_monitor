@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-03 02:31:18
+- **生成时间**: 2026-09-04 05:41:02
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -378,9 +378,12 @@
 | 🚫 未识别 | [CVE-security/cve-2026](https://github.com/CVE-security/cve-2026) | no description | 2026-08-20T23:42:15Z|
 | 🚫 未识别 | [harshal561/CVE-Analysis-Lab](https://github.com/harshal561/CVE-Analysis-Lab) | Vulnerability Research &amp; CVE Analysis Lab — end-to-end research on 3 actively exploited 2026 CVEs, with CVSS scoring, IOCs, and Splunk detection logic | 2026-08-14T10:37:52Z|
 | 🚫 未识别 | [TheVoidThatConsumes/vsac](https://github.com/TheVoidThatConsumes/vsac) | A CVE scanning, SBOM generation and signed threat correlation tool (formerly XBOM) for the Gossamer Suite. Built with Python, 2026. | 2026-08-06T10:22:23Z|
+| 🚫 未识别 | [ejajmahmud/supplychain-dependency-cve-remediator-bot-fastapi-supplychain-cve-remediator-v2026-b64](https://github.com/ejajmahmud/supplychain-dependency-cve-remediator-bot-fastapi-supplychain-cve-remediator-v2026-b64) | Autonomous Software Supply Chain Dependency CVE Remediator Bot enterprise system built with Python 3.12 / FastAPI &amp; Pydantic Automated Security Core (Source: Apache Software Foundation (apache.org/cve-remediation-bot/supplychain-security-core)) | 2026-09-03T17:14:21Z|
+| 🚫 未识别 | [ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b63](https://github.com/ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b63) | RegTech Regulatory Compliance &amp; Anti-Money Laundering Auditor enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-03T03:14:50Z|
+| 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b63](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b63) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-03T03:13:18Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-03 02:31:43  
-**总记录数**: 367
+**报告生成时间**: 2026-09-04 05:41:29  
+**总记录数**: 370
