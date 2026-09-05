@@ -1,6 +1,6 @@
 {
   "date": "2026-01-16",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-46368",
@@ -8,11 +8,18 @@
       "description": "Proof of Concept exploit for CVE-2026-46368 — authenticated root command injection in OpenWrt luci-app-https-dns-proxy (EDB-52521)",
       "date": "2026-01-16",
       "raw_date": "2026-01-16T18:27:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-22812",
+      "repo_info": "[Udyz/CVE-2026-22812-Exp](https://github.com/Udyz/CVE-2026-22812-Exp)",
+      "description": "CVE-2026-22812 - OpenCode Unauth RCE",
+      "date": "2026-01-16",
+      "raw_date": "2026-01-16T11:15:04Z"
     }
   ],
-  "generated_at": "2026-09-05T03:56:57.193035",
+  "generated_at": "2026-09-05T05:28:44.129183",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-01-16",
     "source": "README.md",
     "script_version": "2.0"

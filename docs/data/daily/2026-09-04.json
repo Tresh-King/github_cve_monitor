@@ -1,13 +1,90 @@
 {
   "date": "2026-09-04",
-  "count": 4,
+  "count": 35,
   "cves": [
+    {
+      "cve_id": "CVE-2026-85769",
+      "repo_info": "[isukasanuj/CVE-2026-85769](https://github.com/isukasanuj/CVE-2026-85769)",
+      "description": "Heap out-of-bounds read in libtpms TPM 2.0 state deserialization — CVE-2026-85769",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T18:05:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-85649",
+      "repo_info": "[ChewKeanHo/research-cve-2026-85649](https://github.com/ChewKeanHo/research-cve-2026-85649)",
+      "description": "[MIRROR] The CVE-2026-85649 Security Research Publication.",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T22:54:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-85046",
+      "repo_info": "[ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine](https://github.com/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine)",
+      "description": "Conceptual C++ patch and structural analysis for CVE-2026-85046, a critical type confusion zero-day vulnerability in Google Chrome&#x27;s V8 engine",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T11:28:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-85046",
+      "repo_info": "[HORKimhab/CVE-2026-85046](https://github.com/HORKimhab/CVE-2026-85046)",
+      "description": "CVE-2026-85046",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T08:11:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-83548",
+      "repo_info": "[xcoy0te/CVE-2026-83548-checker](https://github.com/xcoy0te/CVE-2026-83548-checker)",
+      "description": "Non-intrusive detector for SonicWall SMA 1000 exposure to CVE-2026-83548/-83549 (version/patch-state check; no exploitation)",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T16:30:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-82876",
+      "repo_info": "[Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass](https://github.com/Hunt-Benito/the-key-ships-with-the-lock-cve-2026-82876-phison-s11-ssd-firmware-signature-bypass)",
+      "description": "no description",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T11:54:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-82329",
+      "repo_info": "[gagaltotal/CVE-2026-82329-poc](https://github.com/gagaltotal/CVE-2026-82329-poc)",
+      "description": "CVE-2026-82329 Poc",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T08:43:09Z"
+    },
     {
       "cve_id": "CVE-2026-78745",
       "repo_info": "[n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)",
       "description": "no description",
       "date": "2026-09-04",
       "raw_date": "2026-09-04T00:24:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-77818",
+      "repo_info": "[alkimcoskun/Yordam-Kutuphane-Otomasyonunda-Coklu-HTML-Enjeksiyonu](https://github.com/alkimcoskun/Yordam-Kutuphane-Otomasyonunda-Coklu-HTML-Enjeksiyonu)",
+      "description": "CVE-2026-77818 - Yordam Kütüphane Otomasyon Sistemi - Üç ayrı noktada yansıtılmış HTML enjeksiyonu, form action ele geçirme ve kimlik bilgisi hırsızlığı (CWE-79)",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T15:09:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[dahnutz/zimbra-cve-2026-73570-ir](https://github.com/dahnutz/zimbra-cve-2026-73570-ir)",
+      "description": "no description",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T10:45:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-73554",
+      "repo_info": "[HORKimhab/CVE-2026-73554](https://github.com/HORKimhab/CVE-2026-73554)",
+      "description": "CVE-2026-73554 - Draft or TODO",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T13:10:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-63077",
+      "repo_info": "[0xCyp1337/CVE-2026-63077](https://github.com/0xCyp1337/CVE-2026-63077)",
+      "description": "CVE-2026-63077 - Unauthenticated RCE exploit for JetBrains TeamCity via Agent Polling Deserialization. Supports mass scanning, multi-threading, and interactive shell. For authorized security testing only.",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T13:32:31Z"
     },
     {
       "cve_id": "CVE-2026-61578",
@@ -17,11 +94,151 @@
       "raw_date": "2026-09-04T03:14:29Z"
     },
     {
+      "cve_id": "CVE-2026-40477",
+      "repo_info": "[xiaoqiMikko/thymeleaf-check](https://github.com/xiaoqiMikko/thymeleaf-check)",
+      "description": "Offline checker for Thymeleaf CVE-2026-40477 / CVE-2026-41901 — tells you which of the two CVSS 9.0 SSTI flaws you are exposed to, and whether your version line has a fix at all (3.0.x: it does not)",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T09:59:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-34197",
+      "repo_info": "[nirvanasec/CVE-2026-34197-PoC](https://github.com/nirvanasec/CVE-2026-34197-PoC)",
+      "description": "no description",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T15:43:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-33475",
+      "repo_info": "[pvharmo2/gha-lab-9b5e3ccfbe](https://github.com/pvharmo2/gha-lab-9b5e3ccfbe)",
+      "description": "Security-research lab: reproduction of CVE-2026-33475 (GitHub Actions script injection via PR branch name in deploy-docs-draft.yml), snapshot of langflow-ai/langflow",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T23:52:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-33075",
+      "repo_info": "[pvharmo2/gha-lab-61c59f4acb](https://github.com/pvharmo2/gha-lab-61c59f4acb)",
+      "description": "Security-research lab: controlled reproduction of CVE-2026-33075 (pwn request in labring/FastGPT preview-image workflow, pull_request_target + checkout-of-fork + privileged buildx push)",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T22:24:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-31852",
+      "repo_info": "[pvharmo2/gha-lab-3f1ff30e9c](https://github.com/pvharmo2/gha-lab-3f1ff30e9c)",
+      "description": "Authorized security-research lab reproducing CVE-2026-31852 (jellyfin/jellyfin-ios pull_request_target pwn in code-quality.yml) — isolated snapshot, not the upstream project",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T21:55:43Z"
+    },
+    {
       "cve_id": "CVE-2026-31787",
       "repo_info": "[0xAtharv/CVE-2026-31787](https://github.com/0xAtharv/CVE-2026-31787)",
       "description": "Linux kernel double free in Xen privcmd driver",
       "date": "2026-09-04",
       "raw_date": "2026-09-04T01:08:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[FranklinF25/cve-2026-31431](https://github.com/FranklinF25/cve-2026-31431)",
+      "description": "PoC for CVE-2026-31431",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T14:26:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[silentbyte69/copy-fail-CVE-2026-31431-cpp](https://github.com/silentbyte69/copy-fail-CVE-2026-31431-cpp)",
+      "description": "https://github.com/theori-io/copy-fail-CVE-2026-31431 but ported to c++ for fun",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T16:35:59Z"
+    },
+    {
+      "cve_id": "CVE-2026-29075",
+      "repo_info": "[pvharmo2/gha-lab-ca4fa82ac5](https://github.com/pvharmo2/gha-lab-ca4fa82ac5)",
+      "description": "Security-research lab: reproduction of CVE-2026-29075 (GHSA-3j55-5q6x-2h48) in mesa/mesa benchmarks.yml pull_request_target workflow — single-commit snapshot for authorized vulnerability reproduction.",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T21:13:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-27941",
+      "repo_info": "[pvharmo2/gha-lab-6c3094af9e](https://github.com/pvharmo2/gha-lab-6c3094af9e)",
+      "description": "Authorized security-research lab reproducing CVE-2026-27941 (pwn request in pull_request_target workflows) — snapshot of openlit/openlit",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T19:55:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-27938",
+      "repo_info": "[pvharmo2/gha-lab-a7f6217d26](https://github.com/pvharmo2/gha-lab-a7f6217d26)",
+      "description": "Security-research reproduction of CVE-2026-27938 / GHSA-4q9f-mjxf-rx7x (GitHub Actions expression injection in release workflows) — snapshot of wp-graphql/wp-graphql at b216fe22f3a119f256511ec7353f536fee6886ac",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T19:08:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-27701",
+      "repo_info": "[pvharmo2/gha-lab-25b7988758](https://github.com/pvharmo2/gha-lab-25b7988758)",
+      "description": "Authorized security-research reproduction of CVE-2026-27701 / GHSA-xh9w-5859-x97j (live-codes/livecodes @ 8017e01): untrusted PR title interpolated into i18n-update-pull github-script block.",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T16:38:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-25524",
+      "repo_info": "[Emily-0309/unit-01-severity-vs-risk-reflection](https://github.com/Emily-0309/unit-01-severity-vs-risk-reflection)",
+      "description": "cve-2026-25524  Holds no customer payment data, no monitoring in place, monitored 24/7 The CVSS score is technically serious, but it doesn&#x27;t tell how exposed it is, weather our existing defenses would stop or contain an attack. We should confirm the vulnerable component is reachable by untrust input in our environment.",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T10:46:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-25057",
+      "repo_info": "[ibrah-m/CVE-2026-25057](https://github.com/ibrah-m/CVE-2026-25057)",
+      "description": "no description",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T05:54:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-24480",
+      "repo_info": "[pvharmo2/gha-lab-b16a4f3554](https://github.com/pvharmo2/gha-lab-b16a4f3554)",
+      "description": "Security-research lab: CVE-2026-24480 pull_request_target pre-commit RCE in qgis/QGIS (snapshot at vulnerable commit)",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T15:48:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-22869",
+      "repo_info": "[pvharmo2/gha-lab-7927d7d06f](https://github.com/pvharmo2/gha-lab-7927d7d06f)",
+      "description": "Security-research lab reproducing CVE-2026-22869 (pwn) — arbitrary code execution in privileged pull_request_target run via npx local-bin hijack, snapshot of eigent-ai/eigent @ 2a406536",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T15:03:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-19900",
+      "repo_info": "[on3sk-0x1/cve-2026-19900-PoC](https://github.com/on3sk-0x1/cve-2026-19900-PoC)",
+      "description": "cve-2026-19900-PoC",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T18:06:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-19632",
+      "repo_info": "[ghostpels/CVE-2026-19632](https://github.com/ghostpels/CVE-2026-19632)",
+      "description": "Unauthenticated account takeover PoC for TranslatePress Multilingual &lt;= 3.3.1 (WordPress)",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T18:01:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-19516",
+      "repo_info": "[HORKimhab/CVE-2026-19516](https://github.com/HORKimhab/CVE-2026-19516)",
+      "description": "CVE-2026-19516",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T13:02:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-1699",
+      "repo_info": "[pvharmo2/gha-lab-b5c1313658](https://github.com/pvharmo2/gha-lab-b5c1313658)",
+      "description": "Authorized security-research lab reproducing CVE-2026-1699 (pwn request in preview.yml) — snapshot of eclipse-theia/theia-website",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T14:08:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-11613",
+      "repo_info": "[Wayang1337/CVE-2026-11613](https://github.com/Wayang1337/CVE-2026-11613)",
+      "description": "Divi Ajax Filter &lt;= 5.1.2  Unauthenticated Local File Inclusion via &#x27;custom_loop_template&#x27;",
+      "date": "2026-09-04",
+      "raw_date": "2026-09-04T16:47:33Z"
     },
     {
       "cve_id": "CVE-2026-10134",
@@ -31,9 +248,9 @@
       "raw_date": "2026-09-04T03:03:33Z"
     }
   ],
-  "generated_at": "2026-09-05T03:56:57.226136",
+  "generated_at": "2026-09-05T05:28:44.157870",
   "metadata": {
-    "total_cves": 4,
+    "total_cves": 35,
     "date_range": "2026-09-04",
     "source": "README.md",
     "script_version": "2.0"
