@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "count": 9,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2026-82222",
@@ -29,6 +29,13 @@
       "description": "vivo X200 设备端一键 root App（Shizuku 授权 shell 域执行，CVE-2026-43499）",
       "date": "2026-08-31",
       "raw_date": "2026-08-31T05:48:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[oopnv70-lab/ghostlock-aak-apk](https://github.com/oopnv70-lab/ghostlock-aak-apk)",
+      "description": "GhostLock AAK Launcher - CVE-2026-43499 Linux kernel rtmutex stack UAF local privilege escalation trigger (GPLv3)",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T09:30:04Z"
     },
     {
       "cve_id": "CVE-2026-38192",
@@ -66,9 +73,9 @@
       "raw_date": "2026-08-31T11:39:29Z"
     }
   ],
-  "generated_at": "2026-09-06T04:03:07.928560",
+  "generated_at": "2026-09-06T05:43:03.466343",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 10,
     "date_range": "2026-08-31",
     "source": "README.md",
     "script_version": "2.0"

@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-05 05:28:16
+- **生成时间**: 2026-09-06 05:42:38
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -383,9 +383,13 @@
 | 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b63](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b63) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-03T03:13:18Z|
 | 🚫 未识别 | [Emily-0309/Unit-01-severity-vs-risk-reflection.md](https://github.com/Emily-0309/Unit-01-severity-vs-risk-reflection.md) | CVE: 2026-25514 | 2026-09-04T10:27:42Z|
 | 🚫 未识别 | [Jaham11/autonomous-redteam-agent](https://github.com/Jaham11/autonomous-redteam-agent) | Autonomous AI red-team agent with CVE identification, MITRE ATT&amp;CK mapping, and authorized-engagement safety controls — built on Qoder for Alibaba Cloud AI Hackathon Pakistan 2026. | 2026-09-04T09:47:28Z|
+| 🚫 未识别 | [ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b65](https://github.com/ejajmahmud/distributed-pubsub-websocket-bus-fastapi-cve-patch-bot-v2026-b65) | Distributed Pub/Sub WebSocket Message Bus &amp; Presence Server enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-06T03:21:39Z|
+| 🚫 未识别 | [ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b65](https://github.com/ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b65) | RegTech Regulatory Compliance &amp; Anti-Money Laundering Auditor enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-06T03:18:01Z|
+| 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b65](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b65) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-06T03:14:10Z|
+| 🚫 未识别 | [BlackRainSentinel/cPanel-patch-radar](https://github.com/BlackRainSentinel/cPanel-patch-radar) | cPanel/WHM CVE auditor &amp; patcher — May 2026 batch, zero dependencies. | 2026-05-24T09:31:00Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-05 05:28:43  
-**总记录数**: 372
+**报告生成时间**: 2026-09-06 05:43:02  
+**总记录数**: 376

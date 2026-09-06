@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-82222",
+      "repo_info": "[0xCyp1337/CVE-2026-82222-MassExploit](https://github.com/0xCyp1337/CVE-2026-82222-MassExploit)",
+      "description": "no description",
+      "date": "2026-09-06",
+      "raw_date": "2026-09-06T04:49:22Z"
+    }
+  ],
+  "generated_at": "2026-09-06T05:43:03.467961",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-09-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

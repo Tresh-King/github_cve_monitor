@@ -1,13 +1,90 @@
 {
   "date": "2026-09-05",
-  "count": 6,
+  "count": 35,
   "cves": [
+    {
+      "cve_id": "CVE-2026-85046",
+      "repo_info": "[adriyansyah-mf/cve-2026-85046-poc](https://github.com/adriyansyah-mf/cve-2026-85046-poc)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T14:27:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-84645",
+      "repo_info": "[mhtsec/CVE-2026-84645](https://github.com/mhtsec/CVE-2026-84645)",
+      "description": "Jenkins PersistenceRoot Deserialization RCE (SECURITY-3972) — PoC &amp; analysis. Requires Item/Configure; affects weekly &lt;= 2.579 / LTS &lt;= 2.568.2",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T15:12:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-78938",
+      "repo_info": "[eddinos2/CVE-2026-78938](https://github.com/eddinos2/CVE-2026-78938)",
+      "description": "Root cause analysis + working R/W exploit for CVE-2026-78938 (V8 TurboFan CheckMaps instance-migration type confusion, Chrome 152, exploited in the wild). Crash PoC + addrof/fakeobj/arbitrary R/W over the compressed heap.",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T20:17:31Z"
+    },
     {
       "cve_id": "CVE-2026-7873",
       "repo_info": "[rmhowe425/POC-CVE-2026-7873](https://github.com/rmhowe425/POC-CVE-2026-7873)",
       "description": "no description",
       "date": "2026-09-05",
       "raw_date": "2026-09-05T02:46:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-75865",
+      "repo_info": "[ghostpels/CVE-2026-75865](https://github.com/ghostpels/CVE-2026-75865)",
+      "description": "Unauthenticated arbitrary file upload -&gt; RCE in WPLP Cookie Consent (gdpr-cookie-consent) &lt;= 4.4.1 - technical write-up and PoC",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T07:42:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-73570",
+      "repo_info": "[juanpoch/CVE-2026-73570](https://github.com/juanpoch/CVE-2026-73570)",
+      "description": "Zimbra Collaboration Suite RCE — SMTP log poisoning → swatchdog → OS Command Injection (CVSS 8.9, CISA KEV)",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T22:48:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-64747",
+      "repo_info": "[eddinos2/CVE-2026-64747](https://github.com/eddinos2/CVE-2026-64747)",
+      "description": "Root cause + macOS reachability PoC for CVE-2026-64747 (AppleAVE2 kext buffer overflow, fixed 26.6 / 905.40.1). Fully reversed AppleAVE2UserClient wire protocol, mode-5 LRB overflow math, IOKit PoC driving the configure path.",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T20:23:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-6471",
+      "repo_info": "[0xBlackash/CVE-2026-6471](https://github.com/0xBlackash/CVE-2026-6471)",
+      "description": "CVE-2026-6471",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T09:28:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-6471",
+      "repo_info": "[goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen](https://github.com/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen)",
+      "description": "postgres CVE-2026-6471 Exploit",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T05:36:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-64705",
+      "repo_info": "[eddinos2/CVE-2026-64705](https://github.com/eddinos2/CVE-2026-64705)",
+      "description": "Root cause + PoC for CVE-2026-64705 (macOS HFS xattr kernel heap overflow, fixed 14.8.7). Weaponized HFS+ image: unbounded bcopy loop -&gt; kernel heap overflow -&gt; panic on pre-fix systems; validator rejection on patched. Kext diff, mechanism, rebuild recipe.",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T20:22:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[quyicheng03-boop/xiaomi15-dada-cve-2026-64560](https://github.com/quyicheng03-boop/xiaomi15-dada-cve-2026-64560)",
+      "description": "Device-bound CVE-2026-64560 adaptation for Xiaomi 15 dada OS4.0.0.8",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T11:06:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-58138",
+      "repo_info": "[0xBlackash/CVE-2026-58138](https://github.com/0xBlackash/CVE-2026-58138)",
+      "description": "CVE-2026-58138",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T17:16:07Z"
     },
     {
       "cve_id": "CVE-2026-57062",
@@ -17,11 +94,39 @@
       "raw_date": "2026-09-05T05:12:35Z"
     },
     {
+      "cve_id": "CVE-2026-56290",
+      "repo_info": "[katranSefa/CVE-2026-56290](https://github.com/katranSefa/CVE-2026-56290)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T10:35:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-52774",
+      "repo_info": "[0xTerror/CVE-2026-52774-YESWIKI-XSS](https://github.com/0xTerror/CVE-2026-52774-YESWIKI-XSS)",
+      "description": "a reflected XSS vulnerability in YesWiki&#x27;s Bazar widget handler.",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T17:17:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[0xgh057r3c0n/CVE-2026-41940](https://github.com/0xgh057r3c0n/CVE-2026-41940)",
+      "description": "cPanel &amp; WHM - Authentication Bypass via Session-File CRLF Injection",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T11:19:21Z"
+    },
+    {
       "cve_id": "CVE-2026-39382",
       "repo_info": "[pvharmo2/gha-lab-4a8fad8536](https://github.com/pvharmo2/gha-lab-4a8fad8536)",
       "description": "Security-research lab reproducing CVE-2026-39382 (GHSA-5jxf-vmqr-5g82): command injection in dbt-labs reusable workflow open-issue-in-repo.yml, driven by a dbt-core-style docs-issue.yml caller",
       "date": "2026-09-05",
       "raw_date": "2026-09-05T02:17:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-3891",
+      "repo_info": "[katranSefa/CVE-2026-3891](https://github.com/katranSefa/CVE-2026-3891)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T10:33:55Z"
     },
     {
       "cve_id": "CVE-2026-35580",
@@ -38,16 +143,114 @@
       "raw_date": "2026-09-05T00:47:08Z"
     },
     {
+      "cve_id": "CVE-2026-3326",
+      "repo_info": "[katranSefa/CVE-2026-3326](https://github.com/katranSefa/CVE-2026-3326)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T11:07:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[4minx/CVE-2026-32475](https://github.com/4minx/CVE-2026-32475)",
+      "description": "CVE-2026-32475 PoC : Elementor Pro Unauthenticated Arbitrary File Upload to RCE",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T06:38:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[dinosn/cve-2026-32475-elementor-pro-lab](https://github.com/dinosn/cve-2026-32475-elementor-pro-lab)",
+      "description": "A/B Docker lab + PoC for CVE-2026-32475 (Elementor Pro Forms unauthenticated arbitrary file upload -&gt; RCE via validation/move loop desync)",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T06:23:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-28956",
+      "repo_info": "[eddinos2/CVE-2026-28956-jxl-messages-surface](https://github.com/eddinos2/CVE-2026-28956-jxl-messages-surface)",
+      "description": "JPEG XL auto-decodes in the iOS Messages preview path — delivery-surface finding for CVE-2026-28956 (AppleJPEGXL), with patch-diff attribution (libjxl 0.10.4-&gt;0.10.5) and an honest reliability check on the public PoC.",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T22:53:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-27876",
+      "repo_info": "[atiilla/CVE-2026-27876](https://github.com/atiilla/CVE-2026-27876)",
+      "description": "Grafana SQL Expressions Arbitrary File Write to RCE",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T23:39:36Z"
+    },
+    {
       "cve_id": "CVE-2026-22778",
       "repo_info": "[joaovicdev/EXPLOIT-CVE-2026-22778](https://github.com/joaovicdev/EXPLOIT-CVE-2026-22778)",
       "description": "no description",
       "date": "2026-09-05",
       "raw_date": "2026-09-05T03:52:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-19598",
+      "repo_info": "[0xCyp1337/CVE-2026-19598-](https://github.com/0xCyp1337/CVE-2026-19598-)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T20:03:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[0xlyvio/CVE-2026-18963-keycloak](https://github.com/0xlyvio/CVE-2026-18963-keycloak)",
+      "description": "CVE-2026-18963 — Keycloak reset-credentials bypass -&gt; Account Takeover",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T20:52:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-18366",
+      "repo_info": "[katranSefa/CVE-2026-18366](https://github.com/katranSefa/CVE-2026-18366)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T10:24:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-15981",
+      "repo_info": "[katranSefa/CVE-2026-15981](https://github.com/katranSefa/CVE-2026-15981)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T10:34:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-1529",
+      "repo_info": "[0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool](https://github.com/0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool)",
+      "description": "Keycloak: Unauthorized organization registration via improper invitation token validation",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T20:54:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-14894",
+      "repo_info": "[katranSefa/cve_2026_14894](https://github.com/katranSefa/cve_2026_14894)",
+      "description": "no description",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T10:36:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-0920",
+      "repo_info": "[K3ysTr0K3R/CVE-2026-0920](https://github.com/K3ysTr0K3R/CVE-2026-0920)",
+      "description": "A PoC exploit for CVE-2026-0920 - LA-Studio Element Kit / Unauthenticated Privilege Escalation",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T16:39:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-0001",
+      "repo_info": "[sohanbhowmik/cyberthreat_DBSproject](https://github.com/sohanbhowmik/cyberthreat_DBSproject)",
+      "description": "threat = {  &quot;id&quot;: &quot;CVE-2026-0001&quot;,  &quot;title&quot;: &quot;Apache HTTP Server Remote Code Execution&quot;,  &quot;vendor&quot;: &quot;Apache&quot;,  &quot;product&quot;: &quot;HTTP Server&quot;,  &quot;description&quot;: &quot;A vulnerability in Apache HTTP Server allows remote attackers to execute arbitrary code.&quot;,  &quot;cvss&quot;: 9.8,  &quot;kev&quot;: True,  &quot;published&quot;: &quot;2026-06-30&quot;  }",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T12:12:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-55163",
+      "repo_info": "[xiaoqiMikko/netty-http2-check](https://github.com/xiaoqiMikko/netty-http2-check)",
+      "description": "CVE-2025-55163 / CVE-2026-56819: offline checker for the 7 netty-codec-http2 CVEs. Tells you which ones you are exposed to, and the one version that fixes all seven (4.1.136.Final / 4.2.16.Final) - written on none of the advisories. Does not scan pom.xml on purpose: WebFlux pulls it in transitively.",
+      "date": "2026-09-05",
+      "raw_date": "2026-09-05T16:58:24Z"
     }
   ],
-  "generated_at": "2026-09-06T04:03:07.930079",
+  "generated_at": "2026-09-06T05:43:03.467630",
   "metadata": {
-    "total_cves": 6,
+    "total_cves": 35,
     "date_range": "2026-09-05",
     "source": "README.md",
     "script_version": "2.0"
